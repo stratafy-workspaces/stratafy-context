@@ -1,6 +1,6 @@
 # Workspace Strategic Snapshot
 
-Generated: 2026-02-08T19:28:36.240Z
+Generated: 2026-02-08T19:58:29.376Z
 
 ## Overview
 Workspace ID: 5c1743d9-1030-4c2e-85e5-f642fe9a7ef9
@@ -10,6 +10,10 @@ Workspace ID: 5c1743d9-1030-4c2e-85e5-f642fe9a7ef9
 - **Total Initiatives**: 32
 - **Total Objectives**: 0
 - **Total Metrics**: 0
+- **Total Assumptions**: 3
+- **Total Risks**: 8
+- **Total Decisions**: 13
+- **Total Insights**: 130
 
 ## Navigation
 - [Foundation](./foundation/) - Mission, Vision, Values, Beliefs, Principles
@@ -17,3 +21,7 @@ Workspace ID: 5c1743d9-1030-4c2e-85e5-f642fe9a7ef9
 - [Initiatives](./initiatives/) - Active initiatives
 - [Objectives](./objectives/) - Goals and OKRs
 - [Metrics](./metrics/) - Performance indicators
+- [Assumptions](./assumptions/) - Strategic assumptions and hypotheses
+- [Risks](./risks/) - Risk register and mitigation
+- [Decisions](./decisions/) - Strategic decisions log
+- [Insights](./insights/) - Intelligence and observations

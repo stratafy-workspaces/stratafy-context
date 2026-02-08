@@ -1,7 +1,7 @@
 ---
 type: principles
 count: 16
-lastUpdated: 2026-02-08T19:28:36.240Z
+lastUpdated: 2026-02-08T19:58:29.376Z
 ---
 
 # Operating Principles
