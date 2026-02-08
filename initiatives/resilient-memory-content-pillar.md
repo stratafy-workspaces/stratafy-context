@@ -1,0 +1,65 @@
+---
+id: a3d37942-4b6e-4856-9032-fc8aa354bd25
+type: initiative
+status: in_progress
+priority: high
+strategy: StratMD Open Specification
+completionPercentage: 0
+lastUpdated: 2026-02-04T17:27:09.959252+00:00
+owner: af04d126-d28a-43a7-be8b-0c9451873f1b
+---
+
+# Resilient Memory Content Pillar
+
+## Description
+Publish the three articles that emerged from today's thesis crystallization session. These form the "Resilient Memory" content pillar.
+
+**ARTICLES:**
+
+1. **"Why Negative Knowledge Is Your AI's Highest-Leverage Context"**
+   - Three knowledge types (positive, intent, negative)
+   - Decision Graveyard introduction
+   - Flora vs strategy reframe
+   - ~1,500 words, DRAFTED
+
+2. **"Your Agent's Identity Is an Attack Surface"**
+   - The whispering problem (context shapes belief)
+   - Why filters fail
+   - Anchored identity as alternative
+   - Strategy file as trust root
+   - ~1,200 words, DRAFTED
+
+3. **"Why Your Agent Needs a Strategy File to Stay Safe"**
+   - Three-layer defense (handoffs, negative knowledge, security)
+   - Continuity vs integrity distinction
+   - Making constraints required
+   - ~1,500 words, DRAFTED
+
+**PUBLICATION SEQUENCE:**
+1. Negative Knowledge (foundational concept)
+2. Identity as Attack Surface (introduces security frame)
+3. Strategy File for Safety (synthesizes into actionable guidance)
+
+**SUCCESS CRITERIA:**
+- All three published on stratafy.ai/blog
+- Cross-linked to stratmd.org
+- Shared on LinkedIn with engagement
+- Referenced in StratClaw's content
+
+## Parent Strategy
+[StratMD Open Specification](../strategy/functional/stratmd-open-specification.md)
+
+## Status & Progress
+- **Status**: in progress
+- **Priority**: high
+- **Completion**: 0%
+
+## Key Objectives
+No objectives defined
+
+## Timeline
+- **Start Date**: 2026-02-04
+- **Target Date**: 2026-02-10
+
+## Content
+No content available

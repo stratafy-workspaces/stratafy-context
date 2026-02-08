@@ -1,0 +1,33 @@
+---
+id: ef7446c9-0c46-44dd-a577-0f86868b61e4
+type: initiative
+status: draft
+priority: medium
+strategy: Strategic Intelligence
+completionPercentage: 0
+lastUpdated: 2026-02-06T21:21:50.51812+00:00
+owner: af04d126-d28a-43a7-be8b-0c9451873f1b
+---
+
+# Insight Review Automation
+
+## Description
+Productize the insight review and strategy feedback loop. Transform the manual process of reviewing pending insights and applying them to strategy into an automated, triggered, auditable product feature.
+
+## Parent Strategy
+[Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+
+## Status & Progress
+- **Status**: draft
+- **Priority**: medium
+- **Completion**: 0%
+
+## Key Objectives
+No objectives defined
+
+## Timeline
+- **Start Date**: 2026-04-01
+- **Target Date**: 2026-06-30
+
+## Content
+Currently the insight-to-strategy feedback loop is manual — run via Claude chat. For this to be a real product feature it needs: (1) Automated triggers — threshold-based (5+ pending insights), time-based (weekly review), event-based (milestone completed). (2) Templated analysis prompts — stored, versioned, customizable per workspace. (3) One-click execution — Run Strategic Review button, shows recommendations, approve/modify/reject flow, applies changes automatically. (4) Review history — log of all reviews, what changed and why, audit trail for governance. This is the Alignment Scan equivalent for insights-to-strategy, not just foundation-to-strategy.

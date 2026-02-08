@@ -1,7 +1,7 @@
 ---
 type: beliefs
 count: 24
-lastUpdated: 2026-02-08T17:23:28.680Z
+lastUpdated: 2026-02-08T19:26:28.944Z
 ---
 
 # Core Beliefs
