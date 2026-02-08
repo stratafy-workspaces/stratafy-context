@@ -1,7 +1,7 @@
 ---
 type: values
 count: 7
-lastUpdated: 2026-02-08T20:04:40.749Z
+lastUpdated: 2026-02-08T20:06:19.281Z
 ---
 
 # Core Values
