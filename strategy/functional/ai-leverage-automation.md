@@ -1,0 +1,202 @@
+---
+id: ed9bc930-eed4-41ea-9c52-4b6f5f62e20c
+type: strategy
+status: active
+strategyType: functional
+parent: ef7987af-9198-4259-8f1a-f73f25c7b94a
+lastUpdated: 2026-01-29T09:20:43.99125+00:00
+owner: af04d126-d28a-43a7-be8b-0c9451873f1b
+---
+
+# AI Leverage & Automation
+
+## Description
+Systematically deploy AI tools to multiply founder capacity, automate workflows, and generate continuous proof points. This strategy operationalizes the thesis: if Stratafy enables AI-augmented organizations, the founder must demonstrate it first.
+
+## Content
+# AI Leverage & Automation
+
+## Strategic Intent
+
+**Question answered**: How do we operate at 3-5x solo founder capacity while creating proof points for the Stratafy thesis?
+
+**Time Horizon**: Ongoing (continuous improvement)
+
+**Strategic Theme**: Use AI tools and agents systematically to multiply founder capacity. This is both operational necessity AND thesis validation — if Stratafy enables AI-augmented organizations, the founder must demonstrate it first.
+
+## Why This Matters
+
+| Without AI Leverage | With AI Leverage |
+|---------------------|------------------|
+| Solo founder = bottleneck | Solo founder = multiplied capacity |
+| "How can you do this alone?" | "Here's how AI changes what's possible" |
+| Theory about AI-augmented orgs | Lived proof of AI-augmented founder |
+| Scattered tool usage | Systematic automation with metrics |
+
+**The meta-point**: Every hour saved through AI automation is a proof point for investors. Every workflow automated is a case study for customers. This isn't just efficiency — it's the product thesis in action.
+
+## Current AI Stack
+
+### Strategic & Knowledge Work
+
+| Domain | Tools | Automation Level | Notes |
+|--------|-------|------------------|-------|
+| Strategic thinking | Claude + Stratafy MCP | High | Core workflow, daily use |
+| Strategy reviews | Stratafy Alignment Scan | High | 16 insights → 4 updates → 5 min |
+| Research & analysis | Claude web search | High | Market research, competitor analysis |
+| Writing & content | Claude + human review | Medium | AI drafts, human refines |
+
+### Operations & Execution
+
+| Domain | Tools | Automation Level | Notes |
+|--------|-------|------------------|-------|
+| CRM management | Attio + Claude MCP | Low → Medium | Needs systematic automation |
+| Code development | Claude Code / Cursor | High | Primary development workflow |
+| Meeting prep | Manual | Low | Gap — should be automated |
+| Follow-up tracking | Mental / manual | Low | Gap — should be in Attio |
+| Analytics | Manual | Low | Dashboard initiative in progress |
+
+### Communication
+
+| Domain | Tools | Automation Level | Notes |
+|--------|-------|------------------|-------|
+| Email drafting | Claude | Medium | Ad-hoc, not systematic |
+| Slack/messaging | Manual | Low | Not automated |
+| Meeting notes | Manual | Low | Gap — should capture to CRM |
+
+## Automation Principles
+
+1. **AI drafts, human approves** — Human primacy is non-negotiable. AI proposes, human disposes.
+
+2. **Automate the repeatable, keep the judgment** — Pattern work goes to AI. Novel decisions stay with humans.
+
+3. **Every automation must be explainable** — If you can't explain what the AI did, don't automate it.
+
+4. **Document what works** — Every successful automation becomes a product proof point.
+
+5. **MCP-first where possible** — Prefer MCP integrations over copy-paste workflows. Queryable beats manual.
+
+6. **Fail gracefully** — When automation fails, the workflow shouldn't break. Human fallback always exists.
+
+## Workflow Automation Targets
+
+### Priority 1: CRM & Relationship Management (Feb 2026)
+
+| Workflow | Current State | Target State | Tools |
+|----------|---------------|--------------|-------|
+| Post-meeting notes | Manual or forgotten | AI captures key points, updates Attio | Claude + Attio MCP |
+| Pipeline stage updates | Manual clicks | AI suggests based on conversation signals | Attio + rules |
+| Next action setting | Mental tracking | AI proposes next action after each interaction | Claude + Attio |
+| Contact enrichment | Manual research | AI researches and populates context | Claude + web search |
+
+### Priority 2: Meeting & Context Prep (Mar 2026)
+
+| Workflow | Current State | Target State | Tools |
+|----------|---------------|--------------|-------|
+| Pre-meeting research | Manual lookup | AI pulls CRM + Stratafy context into brief | Claude + MCPs |
+| Agenda preparation | Manual | AI drafts agenda based on pipeline stage | Claude |
+| Talking points | Mental | AI suggests based on strategic priorities | Stratafy + Claude |
+
+### Priority 3: Content & Communication (Q2 2026)
+
+| Workflow | Current State | Target State | Tools |
+|----------|---------------|--------------|-------|
+| Article drafting | AI-assisted, ad-hoc | AI drafts from approved outline systematically | Claude + workflow |
+| Email follow-ups | Manual composition | AI drafts based on CRM context | Claude + Attio |
+| Weekly updates | Manual | AI summarizes activity, suggests focus | Claude + integrations |
+
+## Success Metrics
+
+### Efficiency Metrics
+
+| Metric | Current | Target | Tracking |
+|--------|---------|--------|----------|
+| Hours saved per week | ~10 (estimate) | 20+ | Weekly log |
+| Workflows with AI involvement | ~40% | 80% | Audit quarterly |
+| Manual CRM updates | ~90% | <30% | Attio analytics |
+
+### Quality Metrics
+
+| Metric | Target | Tracking |
+|--------|--------|----------|
+| AI draft acceptance rate | >70% | Sample review |
+| Error rate requiring correction | <10% | Incident log |
+| Context accuracy in AI outputs | >90% | Spot checks |
+
+### Proof Point Metrics
+
+| Metric | Target | Purpose |
+|--------|--------|---------|
+| Documented automation wins | 5+ | Investor conversations |
+| Time comparisons (before/after) | 3+ workflows | Pitch deck evidence |
+| "AI-augmented founder" stories | 2+ | Content marketing |
+
+## The Proof Point Narrative
+
+Every automation success becomes ammunition:
+
+**For investors**: "I'm a solo founder operating at 3-5x capacity because I use AI systematically. Here's the data."
+
+**For customers**: "We built this because we use it. Here's how we run Stratafy with Stratafy + AI."
+
+**For category creation**: "This is what AI-augmented organizations look like. We're the proof."
+
+## Strategic Constraints
+
+What this strategy constrains:
+
+- We do NOT automate without human approval on outputs
+- We do NOT use AI for judgment calls that require founder intuition
+- We do NOT let automation complexity exceed the time it saves
+- We do NOT automate before documenting the manual workflow
+- We do NOT hide AI usage — radical transparency about human-AI collaboration
+- We do NOT pursue automation that can't become a proof point
+
+## Key Assumptions
+
+| ID | Assumption | Confidence | Validation |
+|----|------------|------------|------------|
+| A28 | MCP integrations can handle 80% of CRM automation | 70% | Test with Attio MCP |
+| A29 | AI-drafted content requires <30% human editing | 75% | Track acceptance rate |
+| A30 | Automation documentation creates investor value | 80% | Pitch meeting reactions |
+| A31 | Solo founder can maintain automation systems | 65% | Quarterly complexity audit |
+
+## Pivot Triggers
+
+| Trigger | Action |
+|---------|--------|
+| Automation maintenance exceeds time saved | Simplify or eliminate that automation |
+| AI error rate exceeds 20% | Pause automation, investigate, retrain |
+| MCP integrations unreliable | Fall back to manual + document the gap |
+| Complexity overwhelms | Prune to top 3 highest-value automations |
+
+## Relationship to Other Strategies
+
+- **Enables**: Product-Market Fit — founder capacity to ship and support customers
+- **Proves**: Category Leadership — thesis validation through self-use
+- **Supports**: Funding & Growth — "AI-augmented founder" narrative
+- **Demonstrates**: Product Architecture — MCP consumption in action
+
+## Next Actions
+
+| Action | Owner | Deadline |
+|--------|-------|----------|
+| Audit current AI tool usage | Leonard | Feb 5 |
+| Set up CRM automation workflows | Leonard | Feb 15 |
+| Document first 3 automation wins | Leonard | Feb 28 |
+| Create "AI-augmented founder" pitch content | Leonard | Mar 15 |
+
+## Key Initiatives
+- [CRM Automation Setup](../initiatives/crm-automation-setup.md)
+- [Meeting Prep Automation](../initiatives/meeting-prep-automation.md)
+- [AI Automation Wins Documentation](../initiatives/ai-automation-wins-documentation.md)
+- [Chief of Staff Agent (OpenClaw)](../initiatives/chief-of-staff-agent-openclaw.md)
+- [Content & SEO Pipeline](../initiatives/content-seo-pipeline.md)
+- [AI-Augmented Operations](../initiatives/ai-augmented-operations.md)
+- [Demo Prep & Outreach Agents](../initiatives/demo-prep-outreach-agents.md)
+
+## Alignment Score
+Not calculated
+
+## Time Horizon
+long_term
