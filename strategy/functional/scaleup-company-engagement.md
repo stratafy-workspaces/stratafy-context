@@ -4,7 +4,7 @@ type: strategy
 status: active
 strategyType: functional
 parent: 95b94e38-b270-4968-b2f8-10771a2cb492
-lastUpdated: 2026-01-29T17:54:35.041+00:00
+lastUpdated: 2026-02-11T09:38:24.264+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
@@ -39,9 +39,10 @@ Phase 3: Expand to Their Clients
 - Document outcomes as case study for other advisory firms and investors
 
 TIMING:
-- Alignment Scan MVP ready Feb 10
-- Phase 1 (ScaleUp as user) starts immediately after
-- Phase 2 learning period: Feb-March
+- STIR kickoff: Feb 17 (first paying customer — learnings feed ScaleUp prep)
+- ScaleUp demo: Feb 23 (one week of STIR experience informs demo)
+- Phase 1 (ScaleUp as user) starts immediately after successful demo
+- Phase 2 learning period: March-April
 - Phase 3 (client expansion) target: Q2 2026
 
 ## Content

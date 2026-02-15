@@ -5,14 +5,14 @@ status: in_progress
 priority: critical
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-01-26T14:55:15.321+00:00
+lastUpdated: 2026-02-11T09:46:42.037+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Alignment Scan MVP
 
 ## Description
-Ship Foundation Alignment perspective within existing Strategy Reviews system. AI-powered analysis that checks strategies against mission, vision, values, beliefs, and principles. Parallel execution for speed. Demo-ready for ScaleUp Company pilot.
+Ship Foundation Alignment perspective within existing Strategy Reviews system. AI-powered analysis that checks strategies against mission, vision, values, beliefs, and principles. Parallel execution for speed. Being finalised alongside STIR onboarding (week of Feb 17) — STIR's real strategy data provides the ideal test environment. Demo-ready for ScaleUp Company meeting on Feb 23.
 
 ## Parent Strategy
 [Product-Market Fit](../strategy/functional/product-market-fit.md)
@@ -27,7 +27,7 @@ No objectives defined
 
 ## Timeline
 - **Start Date**: 2026-01-27
-- **Target Date**: 2026-02-10
+- **Target Date**: 2026-02-21
 
 ## Content
 # Alignment Scan MVP

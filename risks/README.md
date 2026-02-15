@@ -1,23 +1,23 @@
 ---
 type: risks-overview
-total: 8
-lastUpdated: 2026-02-08T20:10:49.342Z
+total: 9
+lastUpdated: 2026-02-15T09:40:43.114Z
 ---
 
 # Risks Overview
 
-**Total Risks**: 8
+**Total Risks**: 9
 
 ## By Status
 
-- **active**: 8
+- **active**: 9
 
 ## By Risk Type
 
 - **technical**: 2
 - **financial**: 1
 - **people**: 1
-- **competitive**: 1
+- **competitive**: 2
 - **execution**: 1
 - **market**: 2
 
@@ -27,4 +27,4 @@ lastUpdated: 2026-02-08T20:10:49.342Z
 - **No revenue model or pricing strategy defined** (score: 9) - active
 - **Solo founder bottleneck / co-founder doesn't join** (score: 8) - active
 - **Incumbent ships "good enough" AI strategy features** (score: 6) - active
-- **Complexity creep from attempting all 7 role interfaces simultaneously** (score: 6) - active
+- **AI-enhanced incumbent tools add 'good enough' strategy context features** (score: 6) - active

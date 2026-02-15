@@ -176,6 +176,11 @@ If Strategic Advisor isn't the hook by end of Q1, have validated alternative rea
 - [Platform & Usage Analytics Dashboard](../initiatives/platform-usage-analytics-dashboard.md)
 - [Pipeline Diversification Sprint](../initiatives/pipeline-diversification-sprint.md)
 - [Customer Onboarding Experience](../initiatives/customer-onboarding-experience.md)
+- [ScaleUp Company Demo — Feb 23](../initiatives/scaleup-company-demo-feb-23.md)
+- [Strategy Export to PDF](../initiatives/strategy-export-to-pdf.md)
+- [Investor Update Generator](../initiatives/investor-update-generator.md)
+- [Public Narrative Alignment Scan](../initiatives/public-narrative-alignment-scan.md)
+- [STIR Collective: First Customer Engagement](../initiatives/stir-collective-first-customer-engagement.md)
 
 ## Alignment Score
 Not calculated

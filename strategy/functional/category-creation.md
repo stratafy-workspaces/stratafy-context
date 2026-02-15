@@ -4,55 +4,41 @@ type: strategy
 status: active
 strategyType: functional
 parent: ef7987af-9198-4259-8f1a-f73f25c7b94a
-lastUpdated: 2026-02-01T10:38:08.795+00:00
+lastUpdated: 2026-02-12T10:33:13.845+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Category Creation
 
 ## Description
-Define the category before the market consolidates. Own the narrative with three framings — same product, different entry points.
+Define the category before the market consolidates. Own the narrative — same product, different entry points.
 
 THREE FRAMINGS:
+1. Strategic Operating System (strategy buyers) — strategy as infrastructure
+2. Control Plane for Organizational AI (governance buyers) — govern what AI knows and does
+3. Strategic Context Layer (operational buyers) — plug into Linear/Slack with AI teammates
 
-1. **Strategic Operating System** (strategy buyers) — Transform strategy from document to infrastructure
+CONTINUOUS STRATEGIC INTELLIGENCE (Four-Scan Model):
 
-2. **Control Plane for Organizational AI** (governance buyers) — Govern what AI knows, sees, and does
+| Scan | Layer | Question |
+|------|-------|----------|
+| Alignment Scan | Intent | Is what we're doing connected to who we say we are? |
+| Organigram Scan | Capacity | Are people and work structured to deliver on strategy? |
+| Radar Scan | Reality | Does the external environment still support our assumptions? |
+| Public Narrative Scan | Perception | Does the world see us the way we actually are? |
 
-3. **Strategic Context Layer** (operational buyers) — Plug into Linear/Slack, add AI teammates that understand strategy
+Intent + Capacity + Reality + Perception = Complete Strategic Intelligence. Three inward-facing scans plus one outward-facing scan. Each enriches the others — intelligence compounds across all four layers.
 
-THE AI OPERATIONS STACK (Teachable Framework):
-
-Discovered pattern from deploying multi-agent operations (Feb 2026):
-
-| Layer | Function | Example |
-|-------|----------|---------|
-| Strategic Context | Source of truth | Stratafy |
-| Coordination | Task handoffs | Linear |
-| Escalation | Human decisions | Telegram |
-| Execution | Do the work | AI Agents |
-
-Key insights:
-- Coordination layer is the product (not the AI)
-- Identity constraints enable autonomy
-- Human-in-the-loop collapses to approval only
-- Audit trails build trust
-- Good constraints accelerate, bad ones slow down
-
-This framework positions us as methodology leaders, not just tool vendors. Applicable beyond content to any org function.
-
-THE GTM WEDGE (Linear Integration):
-
-"You already use Linear. Stratafy plugs in as strategic context. Add AI agents that work alongside humans — same workflows, but strategically aligned."
+This is the nervous system that tells an organization whether it's aligned, capable, oriented to reality, and perceived correctly. Continuously. No other tool does this.
 
 KEY DIFFERENTIATORS:
 1. AI-Native Design — built for agent consumption
 2. The Flywheel — compounding intelligence, cold-start moat
-3. Strategic Health Index — measurable proof
+3. Four-Scan Strategic Intelligence — Intent, Capacity, Reality, Perception
 4. Four-Problem Solution — Context + Visibility + Freshness + Guardrails
 5. Human Primacy — AI suggests, humans approve
 6. Tool-Agnostic Layer — works with existing tools
-7. **Teachable Framework** — AI Operations Stack is repeatable pattern
+7. Teachable Framework — AI Operations Stack is repeatable pattern
 
 WE ARE NOT: Competing with Linear/Asana. We make them strategically intelligent.
 

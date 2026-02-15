@@ -246,6 +246,7 @@ ScaleUp Company is not just a customer. They're the validation partner for this 
 ## Key Initiatives
 - [Context Packaging Engine](../initiatives/context-packaging-engine.md)
 - [Agent Registry & Context Packaging](../initiatives/agent-registry-context-packaging.md)
+- [[FUTURE] Stakeholder Alignment Mapping](../initiatives/future-stakeholder-alignment-mapping.md)
 
 ## Alignment Score
 Not calculated

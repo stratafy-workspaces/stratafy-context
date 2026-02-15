@@ -1,9 +1,9 @@
 ---
 type: strategy-overview
-totalStrategies: 22
-totalInitiatives: 32
-totalObjectives: 0
-lastUpdated: 2026-02-08T20:10:49.342Z
+totalStrategies: 25
+totalInitiatives: 48
+totalObjectives: 10
+lastUpdated: 2026-02-15T09:40:43.114Z
 ---
 
 # Strategy Overview
@@ -20,10 +20,11 @@ lastUpdated: 2026-02-08T20:10:49.342Z
 
 ## Strategy Types
 
-- **functional**: 18 strategies
+- **functional**: 21 strategies
 - **corporate**: 4 strategies
 
 ## Status Summary
 
-- **active**: 18 strategies
+- **active**: 20 strategies
 - **archived**: 4 strategies
+- **draft**: 1 strategies

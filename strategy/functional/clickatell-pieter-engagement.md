@@ -4,7 +4,7 @@ type: strategy
 status: active
 strategyType: functional
 parent: e5d9c6eb-d34b-4af5-a6e0-541d4beb6df2
-lastUpdated: 2026-02-01T21:43:08.067603+00:00
+lastUpdated: 2026-02-11T09:38:45.881+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
@@ -35,14 +35,15 @@ Not just Stratafy — the full AI Chief of Staff stack:
 
 ENGAGEMENT APPROACH:
 
-After ScaleUp Company meeting (Feb 16), reach out. Position him as early adopter, not favor-asker.
+Meeting target: March 2026. By then STIR will be live and (ideally) ScaleUp will be piloting — giving Pieter real traction context, not just a pitch. Position him as early adopter, not favor-asker. The Pieter meeting is the gateway to Sequoia — it needs to land with conviction backed by customer evidence.
 
 WHAT WE LEARN:
 
 ScaleUp Company = Advisory firm use case (multi-client deployment)
 Pieter = CEO use case (individual executive leverage)
+STIR = Multi-subsidiary group use case (strategy across entities)
 
-Two different perspectives. Both valid. The feedback shapes the product.
+Three different perspectives. All valid. The feedback shapes the product.
 
 SUCCESS CRITERIA:
 - Pieter agrees to pilot
@@ -51,9 +52,9 @@ SUCCESS CRITERIA:
 - Sequoia intro happens with product context
 
 TIMELINE:
-- Feb 16: ScaleUp meeting (priority)
-- Late Feb: Pieter outreach
-- March: Pieter pilot if interested
+- Feb 17: STIR kickoff (priority)
+- Feb 23: ScaleUp demo
+- March: Pieter meeting (with STIR + ScaleUp evidence)
 - April: Sequoia intro (with Pieter as user, not just connector)
 
 ## Content

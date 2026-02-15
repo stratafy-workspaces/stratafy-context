@@ -221,6 +221,8 @@ What this strategy constrains:
 - [Decision Log Feature](../initiatives/decision-log-feature.md)
 - [Product Feedback Capture System](../initiatives/product-feedback-capture-system.md)
 - [Workspace Hierarchy (Parent/Child)](../initiatives/workspace-hierarchy-parent-child.md)
+- [Organigram-Strategy Alignment Scan](../initiatives/organigram-strategy-alignment-scan.md)
+- [[FUTURE] Dependency & Sequencing Intelligence](../initiatives/future-dependency-sequencing-intelligence.md)
 
 ## Alignment Score
 Not calculated

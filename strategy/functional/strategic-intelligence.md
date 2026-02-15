@@ -288,6 +288,10 @@ What this strategy constrains:
 ## Key Initiatives
 - [Radar MVP - Infrastructure & MCP](../initiatives/radar-mvp-infrastructure-mcp.md)
 - [Insight Review Automation](../initiatives/insight-review-automation.md)
+- [Daily Execution Loop & Organizational Pulse](../initiatives/daily-execution-loop-organizational-pulse.md)
+- [[FUTURE] Strategic Learning Engine](../initiatives/future-strategic-learning-engine.md)
+- [[FUTURE] Scenario Planning & Strategy Stress Testing](../initiatives/future-scenario-planning-strategy-stress-testing.md)
+- [[FUTURE] Cultural & Values Coherence Sensing](../initiatives/future-cultural-values-coherence-sensing.md)
 
 ## Alignment Score
 Not calculated
