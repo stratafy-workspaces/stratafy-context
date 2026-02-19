@@ -5,9 +5,9 @@ source: stratafy_chat
 category: strategic
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: processed
 actionable: false
-lastUpdated: 2026-02-08T22:17:12.951+00:00
+lastUpdated: 2026-02-16T13:50:55.563404+00:00
 ---
 
 # Investor update format makes the build-vs-validate imbalance undeniable — all green on depth, all red on traction
@@ -23,7 +23,7 @@ The investor update exposed the tension clearly: green metrics are all product/d
 - **Category**: strategic
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: processed
 - **Actionable**: No
 - **Tags**: traction, metrics, investor-update, validation-gap
 

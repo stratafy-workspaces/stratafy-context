@@ -5,9 +5,9 @@ source: stratafy_chat
 category: strategic
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-08T22:16:46.716554+00:00
+lastUpdated: 2026-02-16T13:44:50.720417+00:00
 ---
 
 # Document generation features are retention drivers, not export utilities — they create forcing functions for workspace currency
@@ -23,7 +23,7 @@ The investor update generation revealed a deeper product insight: the update its
 - **Category**: strategic
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: retention, forcing-function, flywheel, investor-update, strategy-export
 

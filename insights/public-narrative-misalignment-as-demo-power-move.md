@@ -5,9 +5,9 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-09T09:12:06.100374+00:00
+lastUpdated: 2026-02-16T13:46:08.403715+00:00
 ---
 
 # Public Narrative Misalignment as Demo Power Move
@@ -23,7 +23,7 @@ During Viridis AFC demo prep, strategy was constructed from website data. When o
 - **Category**: product
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: demo, onboarding, public-narrative, alignment-scan, viridis, commercial-model
 

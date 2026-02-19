@@ -5,9 +5,9 @@ source: stratafy_chat
 category: customer
 impactLevel: medium
 confidenceLevel: hypothesis
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-08T09:53:33.925879+00:00
+lastUpdated: 2026-02-16T13:46:08.048721+00:00
 ---
 
 # Role-specific onboarding creates an organizational sensing network
@@ -23,7 +23,7 @@ Role-specific onboarding prompts create a natural sensing network across the org
 - **Category**: customer
 - **Impact**: medium
 - **Confidence**: hypothesis
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: onboarding, sensing, feedback-loop, role-aware, intelligence
 

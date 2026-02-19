@@ -5,9 +5,9 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: processed
 actionable: true
-lastUpdated: 2026-01-27T21:14:19.898461+00:00
+lastUpdated: 2026-02-16T13:53:02.388366+00:00
 ---
 
 # Trust requirement: Team interfaces must feel authentic, not corporate spin
@@ -23,7 +23,7 @@ For team interfaces (Coach, Guide) to work, ICs and managers must trust that the
 - **Category**: product
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: processed
 - **Actionable**: Yes
 - **Tags**: trust, adoption, team-interfaces, authenticity, risk
 

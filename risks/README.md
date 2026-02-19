@@ -1,30 +1,30 @@
 ---
 type: risks-overview
-total: 9
-lastUpdated: 2026-02-15T09:40:43.114Z
+total: 12
+lastUpdated: 2026-02-19T11:53:56.935Z
 ---
 
 # Risks Overview
 
-**Total Risks**: 9
+**Total Risks**: 12
 
 ## By Status
 
-- **active**: 9
+- **active**: 12
 
 ## By Risk Type
 
-- **technical**: 2
 - **financial**: 1
+- **technical**: 2
 - **people**: 1
-- **competitive**: 2
+- **competitive**: 4
 - **execution**: 1
-- **market**: 2
+- **market**: 3
 
 ## Highest Risk Items
 
-- **MCP-first architecture limits demo accessibility** (score: 9) - active
 - **No revenue model or pricing strategy defined** (score: 9) - active
+- **MCP-first architecture limits demo accessibility** (score: 9) - active
 - **Solo founder bottleneck / co-founder doesn't join** (score: 8) - active
-- **Incumbent ships "good enough" AI strategy features** (score: 6) - active
 - **AI-enhanced incumbent tools add 'good enough' strategy context features** (score: 6) - active
+- **Complexity creep from attempting all 7 role interfaces simultaneously** (score: 6) - active

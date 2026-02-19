@@ -5,9 +5,9 @@ source: stratafy_chat
 category: market
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-10T17:36:48.502738+00:00
+lastUpdated: 2026-02-16T13:45:28.542363+00:00
 ---
 
 # Methodology coaches shift from facilitators to intelligence interpreters — better business model
@@ -23,7 +23,7 @@ Methodology coaches (Scaling Up, EOS, etc.) are Stratafy's distribution channel 
 - **Category**: market
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: methodology-network-gtm, scaleup, coach-value-shift, advisory-transformation, distribution
 

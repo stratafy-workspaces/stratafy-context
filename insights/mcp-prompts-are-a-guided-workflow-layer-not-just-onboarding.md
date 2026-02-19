@@ -5,9 +5,9 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-08T09:53:22.384955+00:00
+lastUpdated: 2026-02-16T13:46:07.931213+00:00
 ---
 
 # MCP prompts are a guided workflow layer, not just onboarding
@@ -23,7 +23,7 @@ MCP prompts (slash commands) are not just an onboarding mechanism — they're a 
 - **Category**: product
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: mcp, prompts, workflows, product-experience, role-aware
 

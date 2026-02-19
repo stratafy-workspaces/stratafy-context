@@ -5,9 +5,9 @@ source: stratafy_chat
 category: financial
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-10T17:25:58.57677+00:00
+lastUpdated: 2026-02-16T13:44:50.450034+00:00
 ---
 
 # Per-seat pricing unlocked by daily individual value — fundamentally different unit economics
@@ -23,7 +23,7 @@ The daily execution loop changes the pricing model from per-workspace to per-sea
 - **Category**: financial
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: pricing, per-seat, unit-economics, expansion-revenue, business-model
 

@@ -5,7 +5,7 @@ confidence: likely
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-08T21:39:28.641753+00:00
+lastUpdated: 2026-02-16T10:45:54.054669+00:00
 ---
 
 # Enterprises will proactively seek AI governance, not just reactively
@@ -22,4 +22,4 @@ Organisations deploying AI agents will recognise the need for strategic governan
 ## Validation
 - **Method**: Track whether prospects mention AI governance proactively or only after prompting. Monitor industry incidents where ungoverned AI caused business harm. Track regulatory developments (EU AI Act enforcement, enterprise compliance mandates) that could create pull.
 - **Validated At**: Not yet validated
-- **Evidence**: EU AI Act creating compliance pressure. Multiple high-profile AI incidents in 2025. Growing "responsible AI" budgets at enterprises. However, most companies still in experimental phase with agents — governance may feel premature to them.
+- **Evidence**: EU AI Act creating compliance pressure. Multiple high-profile AI incidents in 2025. Growing "responsible AI" budgets at enterprises. However, most companies still in experimental phase with agents — governance may feel premature to them. NEW (Feb 2026 Radar): 88% enterprise AI usage rate, 61% of healthcare leaders building agentic AI initiatives, Kyndryl reporting 70-80% failing to scale, Deloitte finding only 15% link AI to profitability. Consulting firms (Deloitte, McKinsey, Kearney) actively partnering on AI governance frameworks — suggesting proactive demand from at least the advisory layer. ServiceNow-Kearney partnership specifically targets governance. The proactive signal is strengthening from the advisory/consulting channel but unclear if end-enterprises are pulling or being pushed.

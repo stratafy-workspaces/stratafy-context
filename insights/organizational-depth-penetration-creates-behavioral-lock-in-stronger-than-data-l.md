@@ -5,9 +5,9 @@ source: stratafy_chat
 category: strategic
 impactLevel: critical
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-10T17:25:31.658731+00:00
+lastUpdated: 2026-02-16T13:44:50.078109+00:00
 ---
 
 # Organizational depth penetration creates behavioral lock-in stronger than data lock-in
@@ -23,7 +23,7 @@ Most strategy tools live at the executive layer and never penetrate deeper into 
 - **Category**: strategic
 - **Impact**: critical
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: organizational-depth, behavioral-lock-in, moat, daily-engagement, competitive-advantage
 

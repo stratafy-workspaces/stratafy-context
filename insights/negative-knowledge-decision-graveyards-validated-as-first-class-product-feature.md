@@ -5,9 +5,9 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-15T08:56:30.573544+00:00
+lastUpdated: 2026-02-16T13:26:58.961653+00:00
 ---
 
 # Negative knowledge (Decision Graveyards) validated as first-class product feature
@@ -23,7 +23,7 @@ StratClaw's "Decision Graveyard" — tracking rejected decisions with reasoning 
 - **Category**: product
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: stratclaw, decision-graveyard, negative-knowledge, product-feature, demo
 

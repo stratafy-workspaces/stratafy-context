@@ -4,58 +4,31 @@ type: strategy
 status: active
 strategyType: functional
 parent: ed746e23-0f16-4599-a453-5e3f80aa5387
-lastUpdated: 2026-01-30T05:51:50.474+00:00
+lastUpdated: 2026-02-15T09:43:10.822+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # SEO Strategy
 
 ## Description
-Drive organic growth through content that serves dual purposes: SEO rankings and pitch support. Every piece of content advances the category narrative.
+Drive organic growth through content that serves dual purposes: SEO rankings and pitch support.
 
-UPDATED KEYWORD TARGETS (reflecting today's clarity):
+WEBSITE CONTENT ARCHITECTURE (Feb 2026):
 
-Category-defining terms:
-- Strategic operating system
-- Control plane for AI
-- AI governance for business
-- Strategic Health Index
-- Organizational AI governance
+Hub-and-spoke model:
+- Parent Hub: /why-strategies-fail (canonical pillar page, 10+ blog spokes)
+- Sub-Hub 1: /why-strategies-fail/ai-factor (6-8 spokes)
+- Sub-Hub 2: /why-strategies-fail/execution-principles (5-7 spokes)
 
-Problem-focused terms:
-- AI context problem
-- AI visibility enterprise
-- AI agent governance
-- Strategy execution gap
-- AI without guardrails
+Navigation (Phase 1): "Why Strategies Fail ▾" with AI Factor and Execution Principles sub-items. "The Execution Gap" reserved for Phase 2/3 once category owned.
 
-Flywheel and measurement terms:
-- Compounding strategic intelligence
-- Strategy metrics
-- Loop closure rate
-- AI activity monitoring
+INVESTOR JOURNEY: About/Methodology → parent hub (problem validation) → sub-hubs (proof) → /demo or contact.
 
-CONTENT PILLARS (Updated):
+KEYWORD TARGETS: Parent: "why strategies fail," "strategy execution gap." AI Factor: "AI strategy execution." Execution: "startup execution principles," "velocity vs process." Category-defining: strategic operating system, control plane for AI.
 
-1. The Four Problems - Context, Visibility, Freshness, Guardrails
-2. Document to Infrastructure - The transformation narrative
-3. The Flywheel - Compounding value, why switching is hard
-4. Strategic Health Index - Measuring what matters
-5. AI Governance - Control plane positioning
-6. Execution Principles - Velocity with alignment
+8 CONTENT PILLARS: First Principles, Business Stages, AI Era, Measuring Success, Foundation+AI, AI Technical, AI Tools, Startup Execution Principles.
 
-DUAL POSITIONING IN CONTENT:
-
-Some content leads with strategy (Strategic Operating System)
-Some content leads with AI governance (Control Plane)
-Both point to the same product, different buyer entry points
-
-SUCCESS METRICS:
-
-Phase 0 (now): 7 articles, investor credibility
-Phase 1: Top 10 rankings for category terms
-Phase 2: Strategic Health Index cited as industry reference
-Phase 3: Flywheel metrics published, benchmarks established
+METRICS: Phase 0 complete (17+ articles). Phase 1: hubs live by March, 100+ monthly organic by June, Top 20 for 2+ keywords. Phase 2 (H2 2026): Top 10 rankings, expanded nav. Phase 3 (2027+): category dominance.
 
 ## Content
 # SEO & Content Strategy
@@ -337,7 +310,7 @@ This operationalizes our belief: "Strategy must be consumable by both humans and
 **Sequencing principle**: Demonstrate internally → publish proof points post-funding → full transparency at scale
 
 ## Key Initiatives
-No initiatives defined
+- [Website Content Architecture Implementation](../initiatives/website-content-architecture-implementation.md)
 
 ## Alignment Score
 Not calculated

@@ -1,34 +1,36 @@
 ---
 type: insights-overview
-total: 167
-lastUpdated: 2026-02-15T09:40:43.114Z
+total: 227
+lastUpdated: 2026-02-19T11:53:56.935Z
 ---
 
 # Insights Overview
 
-**Total Insights**: 167
+**Total Insights**: 227
 
 ## By Category
 
-- **strategic**: 59
-- **product**: 55
-- **market**: 17
+- **product**: 80
+- **customer**: 9
+- **market**: 30
+- **operational**: 22
+- **strategic**: 70
+- **risk**: 4
+- **technology**: 5
 - **financial**: 3
-- **customer**: 4
-- **operational**: 18
-- **technology**: 4
 - **people**: 2
-- **risk**: 3
 - **partner**: 2
 
 ## By Impact Level
 
-- **high**: 97
-- **medium**: 22
-- **critical**: 48
+- **medium**: 36
+- **high**: 138
+- **low**: 2
+- **critical**: 51
 
 ## By Source
 
-- **stratafy chat**: 149
+- **stratafy chat**: 202
+- **execution session**: 2
+- **stratafy radar**: 15
 - **claude code**: 8
-- **stratafy radar**: 10

@@ -1,20 +1,20 @@
 ---
 type: strategy-overview
 totalStrategies: 25
-totalInitiatives: 48
-totalObjectives: 10
-lastUpdated: 2026-02-15T09:40:43.114Z
+totalInitiatives: 52
+totalObjectives: 14
+lastUpdated: 2026-02-19T11:53:56.935Z
 ---
 
 # Strategy Overview
 
 ## Strategic Hierarchy
 
+- 📈 **Capital Strategy** (archived)
+
 - 📈 **Global Expansion Strategy** (archived)
 
 - 📈 **Category Leadership** (active)
-
-- 📈 **Capital Strategy** (archived)
 
 - 📈 **Market Entry Strategy** (archived)
 

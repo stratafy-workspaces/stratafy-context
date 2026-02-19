@@ -5,9 +5,9 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-10T10:59:05.699839+00:00
+lastUpdated: 2026-02-16T13:48:33.291447+00:00
 ---
 
 # Multi-workspace MCP API key access needed for customer management
@@ -29,7 +29,7 @@ This directly impacts the Advisory Firms GTM channel — coaches and advisors ne
 - **Category**: product
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: mcp, multi-workspace, api-key, customer-onboarding, advisory-firms, product-gap, first-customer-learning
 

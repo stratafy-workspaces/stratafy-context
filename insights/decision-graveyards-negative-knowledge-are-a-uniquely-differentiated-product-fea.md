@@ -5,9 +5,9 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-15T08:53:39.625414+00:00
+lastUpdated: 2026-02-16T13:26:59.077927+00:00
 ---
 
 # Decision Graveyards (negative knowledge) are a uniquely differentiated product feature
@@ -23,7 +23,7 @@ StratClaw's Decision Graveyard pattern â€” capturing what was rejected and why â
 - **Category**: product
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: stratclaw, decision-graveyard, negative-knowledge, product-differentiation, agent-context
 

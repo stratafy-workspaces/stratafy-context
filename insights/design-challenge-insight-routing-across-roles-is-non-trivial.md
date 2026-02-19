@@ -5,9 +5,9 @@ source: stratafy_chat
 category: operational
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: processed
 actionable: true
-lastUpdated: 2026-01-27T21:14:41.675867+00:00
+lastUpdated: 2026-02-16T13:50:55.133998+00:00
 ---
 
 # Design challenge: Insight routing across roles is non-trivial
@@ -23,7 +23,7 @@ When Manager captures insight suggesting strategy should change, routing logic i
 - **Category**: operational
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: processed
 - **Actionable**: Yes
 - **Tags**: design, routing, insights, architecture, open-question
 

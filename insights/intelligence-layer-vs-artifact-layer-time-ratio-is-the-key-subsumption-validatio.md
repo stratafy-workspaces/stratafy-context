@@ -5,9 +5,9 @@ source: stratafy_chat
 category: product
 impactLevel: medium
 confidenceLevel: likely
-status: pending
+status: processed
 actionable: true
-lastUpdated: 2026-02-09T05:32:42.906041+00:00
+lastUpdated: 2026-02-16T13:50:55.262758+00:00
 ---
 
 # Intelligence layer vs artifact layer time ratio is the key subsumption validation metric
@@ -23,7 +23,7 @@ The key metric for validating the methodology subsumption assumption is the rati
 - **Category**: product
 - **Impact**: medium
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: processed
 - **Actionable**: Yes
 - **Tags**: metrics, subsumption, product-analytics, validation, adoption-depth
 

@@ -5,9 +5,9 @@ source: stratafy_chat
 category: market
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-09T05:16:40.213375+00:00
+lastUpdated: 2026-02-16T13:45:28.675659+00:00
 ---
 
 # Advisory channel extends to all methodology networks — EOS Implementers, 4DX consultants, OKR coaches, BSC practitioners — not just Scaling Up
@@ -23,7 +23,7 @@ The advisory firm channel thesis extends beyond Scaling Up coaches. EOS has a gl
 - **Category**: market
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: channel-strategy, advisory-firms, eos, scaling-up, tam, gtm
 

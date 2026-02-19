@@ -5,9 +5,9 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-08T09:53:10.507291+00:00
+lastUpdated: 2026-02-16T13:46:07.799361+00:00
 ---
 
 # Onboarding-as-strategic-conversation is a competitive moat
@@ -23,7 +23,7 @@ Traditional SaaS onboarding separates the demo from the setup from the value. St
 - **Category**: product
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: onboarding, competitive-advantage, mcp, lock-in, demo
 

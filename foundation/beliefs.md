@@ -1,7 +1,7 @@
 ---
 type: beliefs
 count: 24
-lastUpdated: 2026-02-15T09:40:43.114Z
+lastUpdated: 2026-02-19T11:53:56.935Z
 ---
 
 # Core Beliefs
@@ -17,6 +17,10 @@ The problem isn't that people don't try hard enough. The problem is that strateg
 ## 70-90% of strategies fail from lack of infrastructure
 
 The consulting industry has optimized strategy creation. What's missing is the operating system that makes strategy executable. This is an infrastructure gap, not a knowledge gap.
+
+EVIDENCE UPDATE (Feb 16, 2026 Radar): Enterprise AI investments specifically validate this pattern. MIT: 95% of organizations see zero ROI from AI. PwC: only 12% of CEOs achieving both revenue growth and cost reduction from AI. Forrester: 25% deferral of 2026 AI spend. Kyndryl: 61% under pressure to prove ROI, 70-80% of AI initiatives failing to scale. The common thread: sequencing and scaling failures — the execution gap applied to AI deployment.
+
+The 95% AI ROI failure rate is the strongest pitch-ready data point for the Sequoia problem slide. Reframes from "spend more on AI" to "stop wasting the AI budget you've already committed."
 
 ## Traditional strategy tools were designed for humans in annual cycles
 

@@ -5,9 +5,9 @@ source: stratafy_chat
 category: strategic
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-15T08:54:30.85736+00:00
+lastUpdated: 2026-02-16T13:27:57.991514+00:00
 ---
 
 # StratClaw as Sequoia pitch asset: case study, not lead, with three specific uses
@@ -23,7 +23,7 @@ StratClaw can serve as a case study for the Sequoia pitch — not as the lead ex
 - **Category**: strategic
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: stratclaw, sequoia-pitch, case-study, fundraise, demo-strategy
 

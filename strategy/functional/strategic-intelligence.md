@@ -292,6 +292,8 @@ What this strategy constrains:
 - [[FUTURE] Strategic Learning Engine](../initiatives/future-strategic-learning-engine.md)
 - [[FUTURE] Scenario Planning & Strategy Stress Testing](../initiatives/future-scenario-planning-strategy-stress-testing.md)
 - [[FUTURE] Cultural & Values Coherence Sensing](../initiatives/future-cultural-values-coherence-sensing.md)
+- [Workspace Documents & Knowledge Store](../initiatives/workspace-documents-knowledge-store.md)
+- [Strategic Alignment Suite](../initiatives/strategic-alignment-suite.md)
 
 ## Alignment Score
 Not calculated

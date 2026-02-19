@@ -57,6 +57,7 @@ No content available
 - [StratMD Spec v0.2](../initiatives/stratmd-spec-v0-2.md)
 - [StratClaw Public Agent](../initiatives/stratclaw-public-agent.md)
 - [Resilient Memory Content Pillar](../initiatives/resilient-memory-content-pillar.md)
+- [Agent Infrastructure Play — Strategy Layer for the Agentic Ecosystem](../initiatives/agent-infrastructure-play-strategy-layer-for-the-agentic-ecosystem.md)
 
 ## Alignment Score
 Not calculated
