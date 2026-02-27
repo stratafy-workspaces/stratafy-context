@@ -1,24 +1,24 @@
 ---
 id: ce3e292c-f021-4a4f-a93c-3e5e315d470c
 type: initiative
-status: in_progress
+status: cancelled
 priority: high
 strategy: AI Leverage & Automation
 completionPercentage: 0
-lastUpdated: 2026-02-08T09:06:01.677669+00:00
+lastUpdated: 2026-02-27T16:34:37.887+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Demo Prep & Outreach Agents
 
 ## Description
-Build and deploy AI agents using Stratafy's own infrastructure to automate demo prep and prospect outreach. Proof point for the AI Operations Stack — agents running on the platform they're selling.
+PAUSED: Demo Prep & Outreach Agents. Deprioritised — manual demo prep working fine for current volume. Revisit when pipeline exceeds 10 active prospects.
 
 ## Parent Strategy
 [AI Leverage & Automation](../strategy/functional/ai-leverage-automation.md)
 
 ## Status & Progress
-- **Status**: in progress
+- **Status**: cancelled
 - **Priority**: high
 - **Completion**: 0%
 

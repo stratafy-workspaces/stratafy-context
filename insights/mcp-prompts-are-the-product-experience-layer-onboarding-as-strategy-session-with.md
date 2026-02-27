@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:52:49.909852+00:00
+lastUpdated: 2026-02-27T16:55:49.313943+00:00
 ---
 
 # MCP prompts are the product experience layer — onboarding-as-strategy-session with progressive disclosure and dual-path entry

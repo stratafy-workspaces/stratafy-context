@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:09:53.185179+00:00
+lastUpdated: 2026-02-27T16:55:54.402849+00:00
 ---
 
 # Manual-first feature development creates built-in case studies

@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:52:51.038041+00:00
+lastUpdated: 2026-02-27T16:55:54.148659+00:00
 ---
 
 # Unified document generation engine — investor updates and strategy exports share 80% infrastructure, already validated via MCP

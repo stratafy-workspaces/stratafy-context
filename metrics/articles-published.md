@@ -4,9 +4,9 @@ type: metric
 name: Articles Published
 category: Content
 unit: articles
-frequency: monthly
-currentValue: 17
-lastUpdated: 2026-02-08T21:53:44.580303+00:00
+frequency: weekly
+currentValue: 26
+lastUpdated: 2026-02-26T07:12:24.14+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
@@ -16,7 +16,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Published articles on stratafy.ai blog. Content strategy for thought leadership and inbound.
 
 ## Current Performance
-- **Latest Value**: 17 articles
+- **Latest Value**: 26 articles
 - **Category**: Content
 - **Unit**: articles
 

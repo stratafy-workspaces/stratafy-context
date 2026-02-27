@@ -4,43 +4,14 @@ type: strategy
 status: active
 strategyType: functional
 parent: ef7987af-9198-4259-8f1a-f73f25c7b94a
-lastUpdated: 2026-02-12T10:33:13.845+00:00
+lastUpdated: 2026-02-20T12:28:27.759+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Category Creation
 
 ## Description
-Define the category before the market consolidates. Own the narrative — same product, different entry points.
-
-THREE FRAMINGS:
-1. Strategic Operating System (strategy buyers) — strategy as infrastructure
-2. Control Plane for Organizational AI (governance buyers) — govern what AI knows and does
-3. Strategic Context Layer (operational buyers) — plug into Linear/Slack with AI teammates
-
-CONTINUOUS STRATEGIC INTELLIGENCE (Four-Scan Model):
-
-| Scan | Layer | Question |
-|------|-------|----------|
-| Alignment Scan | Intent | Is what we're doing connected to who we say we are? |
-| Organigram Scan | Capacity | Are people and work structured to deliver on strategy? |
-| Radar Scan | Reality | Does the external environment still support our assumptions? |
-| Public Narrative Scan | Perception | Does the world see us the way we actually are? |
-
-Intent + Capacity + Reality + Perception = Complete Strategic Intelligence. Three inward-facing scans plus one outward-facing scan. Each enriches the others — intelligence compounds across all four layers.
-
-This is the nervous system that tells an organization whether it's aligned, capable, oriented to reality, and perceived correctly. Continuously. No other tool does this.
-
-KEY DIFFERENTIATORS:
-1. AI-Native Design — built for agent consumption
-2. The Flywheel — compounding intelligence, cold-start moat
-3. Four-Scan Strategic Intelligence — Intent, Capacity, Reality, Perception
-4. Four-Problem Solution — Context + Visibility + Freshness + Guardrails
-5. Human Primacy — AI suggests, humans approve
-6. Tool-Agnostic Layer — works with existing tools
-7. Teachable Framework — AI Operations Stack is repeatable pattern
-
-WE ARE NOT: Competing with Linear/Asana. We make them strategically intelligent.
+Category Creation defines 'Strategic Context Layer' as the new infrastructure category for the AI era — the structured, queryable, always-current representation of organisational intent that makes strategic context available wherever decisions are being made, by humans or AI. The framing positions Stratafy as infrastructure (context layer that shows up where work happens) rather than application (tool you visit). The 'Strategic Operating System' label remains as the broader category name for market-facing communications, while 'Strategic Context Layer' is the technical/investor thesis. Core narrative: capability is commoditised, tasks are well-defined, but context is scarce — the organisation that solves context wins. Existing strategy tools are Mode 1 only (better filing cabinets); Stratafy provides the context layer that every person, tool, and agent draws on. The competitive moat is the consumption-as-maintenance flywheel: every use of strategy either confirms accuracy or reveals gaps, creating compounding intelligence that increases switching costs.
 
 ## Content
 # Category Creation (S2)

@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:22:17.501144+00:00
+lastUpdated: 2026-02-27T16:58:23.937868+00:00
 ---
 
 # Negative Knowledge as Highest-Leverage Context

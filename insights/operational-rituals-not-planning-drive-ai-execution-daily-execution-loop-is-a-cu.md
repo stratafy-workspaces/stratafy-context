@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:49:49.167166+00:00
+lastUpdated: 2026-02-27T16:55:49.187995+00:00
 ---
 
 # Operational rituals (not planning) drive AI execution — Daily Execution Loop is a customer-facing product feature

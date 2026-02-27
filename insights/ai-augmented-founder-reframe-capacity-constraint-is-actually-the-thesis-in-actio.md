@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:28:16.7181+00:00
+lastUpdated: 2026-02-27T16:58:34.355789+00:00
 ---
 
 # AI-augmented founder reframe — capacity constraint is actually the thesis in action

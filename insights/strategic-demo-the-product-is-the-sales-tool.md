@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:28:18.023412+00:00
+lastUpdated: 2026-02-27T16:58:33.897858+00:00
 ---
 
 # Strategic Demo: The product IS the sales tool

@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:07:21.918006+00:00
+lastUpdated: 2026-02-27T16:56:32.951129+00:00
 ---
 
 # Perspective Reviews are Stratafy's "aha moment" feature

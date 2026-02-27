@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:08:33.629816+00:00
+lastUpdated: 2026-02-27T16:56:32.251048+00:00
 ---
 
 # Perspective Reviews emerged as a standalone product feature from external feedback processing

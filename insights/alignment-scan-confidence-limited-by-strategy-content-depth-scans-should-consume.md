@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-17T10:37:10.24554+00:00
+lastUpdated: 2026-02-27T16:55:53.897623+00:00
 ---
 
 # Alignment scan confidence limited by strategy content depth — scans should consume initiatives and objectives too

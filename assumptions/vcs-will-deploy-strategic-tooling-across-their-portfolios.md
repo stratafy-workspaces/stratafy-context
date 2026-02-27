@@ -5,7 +5,7 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-08T21:39:15.466195+00:00
+lastUpdated: 2026-02-27T16:56:29.933756+00:00
 ---
 
 # VCs will deploy strategic tooling across their portfolios
@@ -22,4 +22,4 @@ VCs will see portfolio-wide strategic visibility as a compelling value propositi
 ## Validation
 - **Method**: Test with Madrona (Ted already identified context problem) and Sequoia pathway. Ask directly: would you deploy a strategic context tool to portfolio companies? Would you pay for portfolio-level visibility? Track whether interest is fund-level or referral-level.
 - **Validated At**: Not yet validated
-- **Evidence**: No evidence recorded
+- **Evidence**: VALIDATION DEADLINE: March 31. Test with Madrona (Ted conversation), Knife Capital (Keet), and Sequoia pathway. Key question: "would you deploy this across portfolio companies and pay at fund level?" If all three say "interesting but that's a company decision" — collapse to VC-as-introducer model and restructure GTM channel strategy accordingly.

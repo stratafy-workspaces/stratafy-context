@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:57:07.446786+00:00
+lastUpdated: 2026-02-27T16:58:30.655145+00:00
 ---
 
 # Three framings for three buyer types — same product, different entry points

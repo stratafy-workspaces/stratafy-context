@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: pending
 actionable: true
-lastUpdated: 2026-02-16T14:58:02.780744+00:00
+lastUpdated: 2026-02-27T16:55:53.04247+00:00
 ---
 
 # Corporate AI projects underdelivering — validates Stratafy thesis

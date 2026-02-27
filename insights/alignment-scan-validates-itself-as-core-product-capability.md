@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: proven
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:22:37.001358+00:00
+lastUpdated: 2026-02-27T16:58:31.417695+00:00
 ---
 
 # Alignment Scan validates itself as core product capability

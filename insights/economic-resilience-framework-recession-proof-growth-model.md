@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2025-08-05T19:49:43.54371+00:00
+lastUpdated: 2026-02-27T16:58:08.896061+00:00
 ---
 
 # Economic Resilience Framework: Recession-Proof Growth Model

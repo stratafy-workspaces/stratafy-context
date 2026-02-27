@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:22:37.966768+00:00
+lastUpdated: 2026-02-27T16:58:34.816419+00:00
 ---
 
 # Why copying velocity culture fails — invisible infrastructure is the missing piece

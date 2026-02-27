@@ -5,7 +5,7 @@ confidence: likely
 assumptionType: strategic
 impactIfWrong: critical
 status: active
-lastUpdated: 2026-02-08T21:39:04.290359+00:00
+lastUpdated: 2026-02-27T16:56:30.207402+00:00
 ---
 
 # Strategic data flywheel compounds within months

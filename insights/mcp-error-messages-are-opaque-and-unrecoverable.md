@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-08T21:54:06.053523+00:00
+lastUpdated: 2026-02-27T16:58:35.722829+00:00
 ---
 
 # MCP error messages are opaque and unrecoverable

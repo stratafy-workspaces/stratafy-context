@@ -4,58 +4,21 @@ type: strategy
 status: active
 strategyType: functional
 parent: e5d9c6eb-d34b-4af5-a6e0-541d4beb6df2
-lastUpdated: 2026-02-11T09:38:45.881+00:00
+lastUpdated: 2026-02-25T06:12:47.903+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Clickatell Pieter Engagement
 
 ## Description
-Pieter de Villiers is both the warm path to Sequoia AND a potential lighthouse customer. Dual value: investor intro + use case validation.
+Engage Pieter de Villiers as a gateway to Sequoia and lighthouse customer for AI Chief of Staff validation, offering Stratafy stack for CEO leverage, targeting March 2026 meeting with live demos.
 
-THE OPPORTUNITY:
+**CRITICAL UPDATE (Feb 2026):** Roelof Botha was pushed out of Sequoia leadership in late 2025, replaced by Alfred Lin and Pat Grady. The Pieter → Roelof → Sequoia pathway is still valuable (Roelof retains relationships and influence) but Roelof is no longer the decision-maker. Key questions to resolve with Pieter:
+1. Does Pieter have any connection to Alfred Lin or Pat Grady?
+2. What is Roelof's current role/influence at Sequoia?
+3. Is Roelof investing independently or advising elsewhere?
 
-Pieter expressed excitement about Stratafy acting as his Chief of Staff. This is the AI Chief of Staff use case — Stratafy + Agent + Linear giving a CEO leverage without management overhead.
-
-DUAL ANGLE:
-1. As investor connector — Warm intro to Roelof at Sequoia (existing path)
-2. As customer — CEO using AI Chief of Staff, validates use case, becomes reference
-
-WHY PURSUE BOTH:
-
-If Pieter uses Stratafy and loves it, the Sequoia intro becomes: I use this myself. You should look at it.
-
-THE OFFERING:
-
-Not just Stratafy — the full AI Chief of Staff stack:
-- Stratafy workspace with his strategic context
-- Chief of Staff agent configured for him
-- Linear integration for coordination
-- Telegram for escalations
-
-ENGAGEMENT APPROACH:
-
-Meeting target: March 2026. By then STIR will be live and (ideally) ScaleUp will be piloting — giving Pieter real traction context, not just a pitch. Position him as early adopter, not favor-asker. The Pieter meeting is the gateway to Sequoia — it needs to land with conviction backed by customer evidence.
-
-WHAT WE LEARN:
-
-ScaleUp Company = Advisory firm use case (multi-client deployment)
-Pieter = CEO use case (individual executive leverage)
-STIR = Multi-subsidiary group use case (strategy across entities)
-
-Three different perspectives. All valid. The feedback shapes the product.
-
-SUCCESS CRITERIA:
-- Pieter agrees to pilot
-- Uses it for 2+ weeks
-- Provides feedback on CEO-specific needs
-- Sequoia intro happens with product context
-
-TIMELINE:
-- Feb 17: STIR kickoff (priority)
-- Feb 23: ScaleUp demo
-- March: Pieter meeting (with STIR + ScaleUp evidence)
-- April: Sequoia intro (with Pieter as user, not just connector)
+Additionally, Sequoia invested in Anthropic (Jan 2026, $25B round at $350B valuation). This creates a new angle: Stratafy as ecosystem infrastructure for a platform Sequoia has bet billions on. The Pieter conversation should surface whether this angle resonates and whether Pieter can help navigate to the right person at Sequoia given the leadership change.
 
 ## Content
 No content available

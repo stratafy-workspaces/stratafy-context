@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2025-08-05T19:49:43.54371+00:00
+lastUpdated: 2026-02-27T16:56:29.541696+00:00
 ---
 
 # Execution Excellence Blueprint: Speed Through Constraints

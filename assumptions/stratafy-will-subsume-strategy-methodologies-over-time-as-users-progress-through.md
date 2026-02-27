@@ -5,7 +5,7 @@ confidence: hypothesis
 assumptionType: strategic
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-09T05:27:06.247502+00:00
+lastUpdated: 2026-02-27T16:55:41.582299+00:00
 ---
 
 # Stratafy will subsume strategy methodologies over time as users progress through adoption phases

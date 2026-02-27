@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:26:33.102455+00:00
+lastUpdated: 2026-02-27T16:58:35.258618+00:00
 ---
 
 # Bidirectional strategy-execution loops are Stratafy's architecture — validated by StratClaw

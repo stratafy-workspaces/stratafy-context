@@ -4,13 +4,13 @@ type: decision
 decisionType: type_1_irreversible
 status: decided
 decidedAt: 2026-01-30T12:52:38.611+00:00
-lastUpdated: 2026-01-30T12:52:38.673902+00:00
+lastUpdated: 2026-02-27T16:56:24.419354+00:00
 ---
 
 # Role-Aware Strategic Intelligence as Core Architecture
 
 ## Description
-Decide whether to build one unified system with role-aware interfaces (CEO gets Strategic Advisor, board gets Strategic Interface, managers get Strategic Coach, ICs get Strategic Guide) vs. separate products per persona. This is a fundamental architectural bet that affects product development, go-to-market, and positioning.
+Decide whether to build one unified system with role-aware interfaces (CEO gets Strategic Advisor, board gets Strategic Interface, managers get Strategic Coach, ICs get Strategic Guide) vs. separate products per persona. This is a **fundamental architectural bet** that affects product development, go-to-market, and positioning.
 
 ## Details
 - **Type**: Type 1 (Irreversible)
@@ -46,20 +46,30 @@ Key assumptions being validated:
 No research recorded
 
 ## Decision
-Build one unified system with role-aware modes rather than separate products per persona. Single interface adapts based on user role through Context Packaging Engine. Role context flags control tone, access, agency, and insight capture. Phased rollout: Founder mode (now) → Prospect mode (Q1) → Investor mode (Q2) → Team modes (Q3-Q4, demand-dependent).
+Build one unified system with **role-aware modes** rather than separate products per persona.
+
+- Single interface adapts based on user role through Context Packaging Engine
+- Role context flags control tone, access, agency, and insight capture
+
+## Phased Rollout
+
+1. **Founder mode** (now) — validated through dogfooding
+2. **Prospect mode** (Q1) — for lighthouse demos
+3. **Investor mode** (Q2) — for Sequoia pitch
+4. **Team modes** (Q3-Q4) — demand-dependent
 
 ## Rationale
-1. Complexity reduction: 7 separate interfaces = 7 prompt architectures, divergence risk, maintenance burden. 1 interface with role modes = unified system, single prompt with role context.
+1. **Complexity reduction:** 7 separate interfaces = 7 prompt architectures, divergence risk, maintenance burden. 1 interface with role modes = unified system, single prompt with role context.
 
-2. User experience: Prospect using "prospect mode" feels like they're using the real product, not a demo version. This supports "demo is the product" principle.
+2. **User experience:** Prospect using "prospect mode" feels like they're using the real product, not a demo version. This supports "demo is the product" principle.
 
-3. Moat creation: Operational lock-in across roles is stronger than single-user adoption. When founder uses Advisor, board uses Interface, managers use Coach — switching means changing how the company operates.
+3. **Moat creation:** Operational lock-in across roles is stronger than single-user adoption. When founder uses Advisor, board uses Interface, managers use Coach — switching means changing how the company operates.
 
-4. Defensibility: AI giants (Microsoft, Salesforce) will build one-size-fits-all. Role-aware architecture with different permissions, tones, and agencies is structurally different and hard to replicate.
+4. **Defensibility:** AI giants (Microsoft, Salesforce) will build one-size-fits-all. Role-aware architecture with different permissions, tones, and agencies is structurally different and hard to replicate.
 
-5. Feedback loop multiplication: Different roles capture different signals — founder captures strategic decisions, managers capture execution friction, ICs capture ground-level reality, prospects capture buying signals. Whole org becomes sensing system.
+5. **Feedback loop multiplication:** Different roles capture different signals — founder captures strategic decisions, managers capture execution friction, ICs capture ground-level reality, prospects capture buying signals. Whole org becomes sensing system.
 
-6. Validation approach: Prove pattern with prospect mode first (ScaleUp demo), then extend. Don't build team modes until demand validated through lighthouse customers.
+6. **Validation approach:** Prove pattern with prospect mode first (ScaleUp demo), then extend. Don't build team modes until demand validated through lighthouse customers.
 
 ## Outcome
 No outcome recorded yet

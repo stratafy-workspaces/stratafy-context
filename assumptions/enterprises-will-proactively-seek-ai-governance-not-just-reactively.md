@@ -5,7 +5,7 @@ confidence: likely
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-16T10:45:54.054669+00:00
+lastUpdated: 2026-02-27T16:56:30.396561+00:00
 ---
 
 # Enterprises will proactively seek AI governance, not just reactively

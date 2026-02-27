@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:45:28.542363+00:00
+lastUpdated: 2026-02-27T16:56:33.597997+00:00
 ---
 
 # Methodology coaches shift from facilitators to intelligence interpreters — better business model

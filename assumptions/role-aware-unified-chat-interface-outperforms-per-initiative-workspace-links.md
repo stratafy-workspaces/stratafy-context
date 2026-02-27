@@ -5,7 +5,7 @@ confidence: hypothesis
 assumptionType: strategic
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-15T10:34:26.684795+00:00
+lastUpdated: 2026-02-27T16:55:41.817661+00:00
 ---
 
 # Role-aware unified chat interface outperforms per-initiative workspace links

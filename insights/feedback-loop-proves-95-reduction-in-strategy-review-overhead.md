@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:22:36.498317+00:00
+lastUpdated: 2026-02-27T16:58:31.603814+00:00
 ---
 
 # Feedback loop proves 95% reduction in strategy review overhead

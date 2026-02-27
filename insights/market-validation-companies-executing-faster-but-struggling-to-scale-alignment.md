@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:18:34.416414+00:00
+lastUpdated: 2026-02-27T16:58:11.559807+00:00
 ---
 
 # Market validation: Companies executing faster but struggling to scale alignment

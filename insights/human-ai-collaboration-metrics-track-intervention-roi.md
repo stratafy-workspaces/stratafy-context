@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: likely
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T08:49:46.659041+00:00
+lastUpdated: 2026-02-27T16:56:32.696305+00:00
 ---
 
 # Human-AI Collaboration Metrics: Track Intervention ROI

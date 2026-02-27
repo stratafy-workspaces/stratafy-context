@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:28:17.615021+00:00
+lastUpdated: 2026-02-27T16:58:36.124337+00:00
 ---
 
 # Strategic Context Distribution Architecture: Pre-computed, Role-Scoped, Regenerated on Change

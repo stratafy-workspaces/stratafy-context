@@ -1,26 +1,26 @@
 ---
 id: 73874148-87e3-48dc-9bcd-21c623585eba
 type: initiative
-status: active
+status: completed
 priority: critical
 strategy: Product-Market Fit
-completionPercentage: 0
-lastUpdated: 2026-02-11T09:38:03.709+00:00
+completionPercentage: 100
+lastUpdated: 2026-02-27T16:35:14.661+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # ScaleUp Company Demo — Feb 23
 
 ## Description
-First external lighthouse demo. The single most important event before the April pitch window. This isn't a product demo — it's an assumption validation experiment that tests whether the Stratafy thesis survives contact with a real advisory firm. Scheduled for Feb 23, one week after STIR kickoff — giving time to incorporate onboarding learnings from the first paying customer into the ScaleUp experience.
+First external lighthouse demo. The single most important event before the April pitch window. This isn't a product demo — it's an assumption validation experiment that tests whether the Stratafy thesis survives contact with a real advisory firm. Scheduled for Monday Feb 23, one week after STIR kickoff — giving time to incorporate onboarding learnings from the first paying customer into the ScaleUp experience. In-person demo in Cape Town.
 
 ## Parent Strategy
 [Product-Market Fit](../strategy/functional/product-market-fit.md)
 
 ## Status & Progress
-- **Status**: active
+- **Status**: completed
 - **Priority**: critical
-- **Completion**: 0%
+- **Completion**: 100%
 
 ## Key Objectives
 - [Nicholas commits to two-week pilot](../objectives/nicholas-commits-to-two-week-pilot.md)

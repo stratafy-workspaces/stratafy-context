@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:46:08.403715+00:00
+lastUpdated: 2026-02-27T16:55:48.794542+00:00
 ---
 
 # Public Narrative Misalignment as Demo Power Move

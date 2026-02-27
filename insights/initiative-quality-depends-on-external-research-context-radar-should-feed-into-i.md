@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: pending
 actionable: false
-lastUpdated: 2026-02-17T10:37:58.947105+00:00
+lastUpdated: 2026-02-27T16:55:54.138947+00:00
 ---
 
 # Initiative quality depends on external research context — Radar should feed into initiative design

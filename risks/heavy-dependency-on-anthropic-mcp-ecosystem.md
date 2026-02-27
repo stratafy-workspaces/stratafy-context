@@ -8,7 +8,7 @@ impact: high
 riskScore: 3
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-06T21:22:10.422789+00:00
+lastUpdated: 2026-02-27T16:55:45.0921+00:00
 ---
 
 # Heavy dependency on Anthropic/MCP ecosystem

@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:59:36.646281+00:00
+lastUpdated: 2026-02-27T16:58:25.491806+00:00
 ---
 
 # The Stratafy Flywheel: Core Defensibility Mechanism

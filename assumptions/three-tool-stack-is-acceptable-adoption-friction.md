@@ -5,7 +5,7 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-15T10:43:34.029129+00:00
+lastUpdated: 2026-02-27T16:55:42.489488+00:00
 ---
 
 # Three-tool stack is acceptable adoption friction
@@ -22,4 +22,4 @@ Customers will accept a three-tool stack (Claude + Stratafy + Linear) without si
 ## Validation
 - **Method**: Track during STIR onboarding (Feb 17+) and ScaleUp demo (Feb 23). Listen for: (1) cost objections during pricing conversations, (2) confusion about which tool does what, (3) resistance to creating Linear accounts, (4) requests to "just do it all in one place." Also track with Pieter engagement — does the CEO use case require all three tools? If 2+ early customers raise this as friction, assumption is weakened.
 - **Validated At**: Not yet validated
-- **Evidence**: No evidence recorded
+- **Evidence**: VALIDATION DEADLINE: Feb 23 (ScaleUp demo) + Feb 24 (Limbik, Gert/Bev) — listen for cost objections, confusion about tool boundaries, resistance to Linear sign-up, "can't you do it all in one place?" Must have signal by March 15 from at least 3 prospect conversations.

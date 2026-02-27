@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:34:53.589488+00:00
+lastUpdated: 2026-02-27T16:58:35.372179+00:00
 ---
 
 # 95% enterprise AI ROI failure rate validates execution gap thesis

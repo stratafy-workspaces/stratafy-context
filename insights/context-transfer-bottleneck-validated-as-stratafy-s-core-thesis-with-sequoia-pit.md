@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:49:48.734963+00:00
+lastUpdated: 2026-02-27T16:55:49.365447+00:00
 ---
 
 # Context transfer bottleneck validated as Stratafy's core thesis — with Sequoia pitch applications

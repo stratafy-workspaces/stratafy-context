@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-17T10:36:53.161169+00:00
+lastUpdated: 2026-02-27T16:55:54.62066+00:00
 ---
 
 # Alignment report recommendations double as the engagement workplan — natural retainer justification

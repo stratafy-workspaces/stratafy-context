@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:52:50.789576+00:00
+lastUpdated: 2026-02-27T16:55:53.680929+00:00
 ---
 
 # STIR Collective — first customer intelligence package: BEE moat, triple chairmanship, market tailwinds, digital gap as quick win

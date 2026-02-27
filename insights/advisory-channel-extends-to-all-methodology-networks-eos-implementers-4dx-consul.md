@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:45:28.675659+00:00
+lastUpdated: 2026-02-27T16:55:48.38165+00:00
 ---
 
 # Advisory channel extends to all methodology networks — EOS Implementers, 4DX consultants, OKR coaches, BSC practitioners — not just Scaling Up

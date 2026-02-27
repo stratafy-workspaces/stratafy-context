@@ -5,13 +5,19 @@ decisionType: type_2_reversible
 status: decided
 deadline: 2026-02-10T00:00:00+00:00
 decidedAt: 2026-02-08T21:52:49.489+00:00
-lastUpdated: 2026-02-08T21:52:49.562993+00:00
+lastUpdated: 2026-02-27T16:56:23.270167+00:00
 ---
 
 # Feb 10 MVP Sprint Scope
 
 ## Description
-Define the scope for the Feb 10 MVP sprint. Three deliverables identified: Alignment Scan MVP, Context Packaging Engine, AI Visibility Dashboard. Need to confirm scope, trade-offs, and what's explicitly out of scope for this sprint.
+Define the scope for the **Feb 10 MVP sprint**. Three deliverables identified:
+
+1. **Alignment Scan MVP**
+2. **Context Packaging Engine**
+3. **AI Visibility Dashboard**
+
+Need to confirm scope, trade-offs, and what's explicitly out of scope.
 
 ## Details
 - **Type**: Type 2 (Reversible)
@@ -27,10 +33,21 @@ No context recorded
 No research recorded
 
 ## Decision
-Alignment Scan MVP is the critical deliverable. Context Packaging Engine and AI Visibility Dashboard are secondary — nice to have for demo but not blockers. Priority: (1) Alignment Scan functional on at least one strategy, (2) MCP workspace cleanup and metrics population, (3) Demo prep for ScaleUp. The Feb 10 deadline slipped — realistic completion is Feb 15 given travel.
+**Alignment Scan MVP** is the critical deliverable. Context Packaging Engine and AI Visibility Dashboard are secondary.
+
+### Priority order:
+1. Alignment Scan functional on at least one strategy
+2. MCP workspace cleanup and metrics population
+3. Demo prep for ScaleUp
+
+### Timeline adjustment:
+The Feb 10 deadline slipped — realistic completion is **Feb 15** given travel.
 
 ## Rationale
-Feb 10 deadline passed during travel/Dakar recovery period. ScaleUp demo pushed to week of Feb 17 due to Cape Town arrival on Feb 16. Extra days allow focused completion of Alignment Scan without rushing. Context Packaging and Dashboard deferred — the demo doesn't need them to be compelling.
+- **Feb 10 deadline passed** during travel/Dakar recovery period
+- ScaleUp demo pushed to **week of Feb 17** due to Cape Town arrival on Feb 16
+- Extra days allow focused completion of Alignment Scan **without rushing**
+- Context Packaging and Dashboard deferred — the **demo doesn't need them** to be compelling
 
 ## Outcome
 No outcome recorded yet

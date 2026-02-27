@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:34:53.776544+00:00
+lastUpdated: 2026-02-27T16:55:48.274584+00:00
 ---
 
 # Agentic AI hitting production deployment inflection — governance demand imminent

@@ -181,6 +181,11 @@ If Strategic Advisor isn't the hook by end of Q1, have validated alternative rea
 - [Investor Update Generator](../initiatives/investor-update-generator.md)
 - [Public Narrative Alignment Scan](../initiatives/public-narrative-alignment-scan.md)
 - [STIR Collective: First Customer Engagement](../initiatives/stir-collective-first-customer-engagement.md)
+- [Gert Vermaak + Bev Buchanan Demo — Feb 24](../initiatives/gert-vermaak-bev-buchanan-demo-feb-24.md)
+- [Henniel Smit / Limbik Strategy Advisors Demo — Feb 24](../initiatives/henniel-smit-limbik-strategy-advisors-demo-feb-24.md)
+- [Pricing Model & Revenue Architecture](../initiatives/pricing-model-revenue-architecture.md)
+- [Brad Wilson / Rolling Start + Global Access Demo — Week of Feb 27](../initiatives/brad-wilson-rolling-start-global-access-demo-week-of-feb-27.md)
+- [Too Many Robots / Keegan Da Costa Follow-up — Week of Mar 2](../initiatives/too-many-robots-keegan-da-costa-follow-up-week-of-mar-2.md)
 
 ## Alignment Score
 Not calculated

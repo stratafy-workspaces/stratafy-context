@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:19:51.195781+00:00
+lastUpdated: 2026-02-27T16:58:23.96875+00:00
 ---
 
 # Velocity = learning velocity — speed drives ability to compound knowledge

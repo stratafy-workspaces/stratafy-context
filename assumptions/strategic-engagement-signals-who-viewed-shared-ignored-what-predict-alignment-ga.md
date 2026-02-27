@@ -5,7 +5,7 @@ confidence: likely
 assumptionType: market
 impactIfWrong: medium
 status: active
-lastUpdated: 2026-02-15T10:30:31.638449+00:00
+lastUpdated: 2026-02-27T16:55:41.628138+00:00
 ---
 
 # Strategic engagement signals (who viewed, shared, ignored what) predict alignment gaps

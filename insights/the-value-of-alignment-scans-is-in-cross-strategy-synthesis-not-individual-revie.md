@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-17T10:35:07.474679+00:00
+lastUpdated: 2026-02-27T16:56:32.263994+00:00
 ---
 
 # The value of alignment scans is in cross-strategy synthesis, not individual reviews

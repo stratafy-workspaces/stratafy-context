@@ -1,30 +1,31 @@
 ---
 type: risks-overview
-total: 12
-lastUpdated: 2026-02-19T11:53:56.935Z
+total: 16
+lastUpdated: 2026-02-27T17:00:52.552Z
 ---
 
 # Risks Overview
 
-**Total Risks**: 12
+**Total Risks**: 16
 
 ## By Status
 
-- **active**: 12
+- **active**: 16
 
 ## By Risk Type
 
 - **financial**: 1
-- **technical**: 2
+- **execution**: 2
+- **technical**: 3
+- **regulatory**: 1
 - **people**: 1
-- **competitive**: 4
-- **execution**: 1
+- **competitive**: 5
 - **market**: 3
 
 ## Highest Risk Items
 
 - **No revenue model or pricing strategy defined** (score: 9) - active
+- **Lead-to-Engagement Conversion Gap** (score: 9) - active
 - **MCP-first architecture limits demo accessibility** (score: 9) - active
-- **Solo founder bottleneck / co-founder doesn't join** (score: 8) - active
-- **AI-enhanced incumbent tools add 'good enough' strategy context features** (score: 6) - active
-- **Complexity creep from attempting all 7 role interfaces simultaneously** (score: 6) - active
+- **Methodology IP/Trademark Conflict** (score: 8) - active
+- **Agent Intake Quality Erodes Coach Trust** (score: 8) - active

@@ -5,7 +5,7 @@ confidence: validated
 assumptionType: market
 impactIfWrong: critical
 status: active
-lastUpdated: 2026-02-16T13:33:40.171364+00:00
+lastUpdated: 2026-02-27T16:55:42.732273+00:00
 ---
 
 # 18-24 month category-creation window is real

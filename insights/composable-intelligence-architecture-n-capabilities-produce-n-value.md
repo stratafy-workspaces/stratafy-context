@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:10:38.098191+00:00
+lastUpdated: 2026-02-27T16:56:32.810251+00:00
 ---
 
 # Composable intelligence architecture — N capabilities produce N² value

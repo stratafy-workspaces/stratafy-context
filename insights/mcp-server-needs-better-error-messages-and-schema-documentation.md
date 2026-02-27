@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:26:34.118018+00:00
+lastUpdated: 2026-02-27T16:58:30.650091+00:00
 ---
 
 # MCP server needs better error messages and schema documentation

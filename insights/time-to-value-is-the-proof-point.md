@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:25:54.286433+00:00
+lastUpdated: 2026-02-27T16:58:23.797368+00:00
 ---
 
 # Time-to-Value Is the Proof Point

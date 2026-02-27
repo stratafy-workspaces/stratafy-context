@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:26:04.73235+00:00
+lastUpdated: 2026-02-27T16:58:34.781973+00:00
 ---
 
 # Context transfer is the core execution bottleneck, not intelligence

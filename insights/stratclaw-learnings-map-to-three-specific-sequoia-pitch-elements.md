@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:26:05.002489+00:00
+lastUpdated: 2026-02-27T16:58:35.23387+00:00
 ---
 
 # StratClaw learnings map to three specific Sequoia pitch elements

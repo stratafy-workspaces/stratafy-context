@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-08T21:54:05.782972+00:00
+lastUpdated: 2026-02-27T16:58:35.273131+00:00
 ---
 
 # MCP parity gap is the biggest demo risk

@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:28:17.747254+00:00
+lastUpdated: 2026-02-27T16:58:32.917026+00:00
 ---
 
 # The feedback loop IS the product — not a feature, the core

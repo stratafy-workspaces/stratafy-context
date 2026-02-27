@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:22:36.633631+00:00
+lastUpdated: 2026-02-27T16:58:31.152203+00:00
 ---
 
 # Category positioning crystallized: "Agile for Strategy"

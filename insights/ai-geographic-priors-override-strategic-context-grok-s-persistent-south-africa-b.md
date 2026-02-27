@@ -7,7 +7,7 @@ impactLevel: low
 confidenceLevel: confirmed
 status: pending
 actionable: false
-lastUpdated: 2026-02-18T14:10:07.970198+00:00
+lastUpdated: 2026-02-27T16:56:33.450529+00:00
 ---
 
 # AI geographic priors override strategic context — Grok's persistent South Africa bias across both reviews

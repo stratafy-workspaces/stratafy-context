@@ -1,26 +1,26 @@
 ---
 id: 0327f9f0-3b69-4a0f-a35a-644ff10860d9
 type: initiative
-status: in_progress
+status: completed
 priority: critical
 strategy: Product-Market Fit
-completionPercentage: 0
-lastUpdated: 2026-02-11T09:46:42.037+00:00
+completionPercentage: 80
+lastUpdated: 2026-02-27T16:35:35.004+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Alignment Scan MVP
 
 ## Description
-Ship Foundation Alignment perspective within existing Strategy Reviews system. AI-powered analysis that checks strategies against mission, vision, values, beliefs, and principles. Parallel execution for speed. Being finalised alongside STIR onboarding (week of Feb 17) — STIR's real strategy data provides the ideal test environment. Demo-ready for ScaleUp Company meeting on Feb 23.
+SUPERSEDED: Original Alignment Scan MVP has been folded into the Strategic Alignment Suite initiative (638c159e). The MVP exists and works — now being extended as part of the full 4-lens suite for Brad Wilson demo March 3.
 
 ## Parent Strategy
 [Product-Market Fit](../strategy/functional/product-market-fit.md)
 
 ## Status & Progress
-- **Status**: in progress
+- **Status**: completed
 - **Priority**: critical
-- **Completion**: 0%
+- **Completion**: 80%
 
 ## Key Objectives
 No objectives defined

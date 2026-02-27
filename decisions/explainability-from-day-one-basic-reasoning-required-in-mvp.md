@@ -4,13 +4,17 @@ type: decision
 decisionType: type_1_irreversible
 status: decided
 decidedAt: 2026-02-06T13:18:36.15+00:00
-lastUpdated: 2026-02-06T13:18:36.213638+00:00
+lastUpdated: 2026-02-27T16:56:24.188212+00:00
 ---
 
 # Explainability from Day One — basic reasoning required in MVP
 
 ## Description
-Alignment scan identified that delaying explainability to Phase 4 violates the core principle 'Explainability is non-negotiable.' Decided to require basic reasoning from day one.
+Alignment scan identified that **delaying explainability to Phase 4** violates the core principle:
+
+> "Explainability is non-negotiable."
+
+Decided to require basic reasoning from day one.
 
 ## Details
 - **Type**: Type 1 (Irreversible)
@@ -26,10 +30,14 @@ No context recorded
 No research recorded
 
 ## Decision
-Basic AI reasoning (why did AI recommend this?) must be visible from Phase 1 MVP. Full explainability (confidence intervals, counterfactuals) can wait for Phase 4.
+**Basic AI reasoning** ("why did AI recommend this?") must be visible from **Phase 1 MVP**.
+
+Full explainability (confidence intervals, counterfactuals) can wait for **Phase 4**.
 
 ## Rationale
-Violates core principle if deferred entirely. Basic reasoning builds trust from first interaction. Full explainability can be phased but the foundation must be present at MVP.
+- **Violates core principle** if deferred entirely
+- Basic reasoning **builds trust from first interaction**
+- Full explainability can be phased but the **foundation must be present at MVP**
 
 ## Outcome
 No outcome recorded yet

@@ -5,7 +5,7 @@ objectiveType: key_result
 status: active
 priority: high
 initiative: Website Content Architecture Implementation
-lastUpdated: 2026-02-15T09:43:41.556381+00:00
+lastUpdated: 2026-02-26T07:12:28.879+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
@@ -23,7 +23,7 @@ Publish parent hub (/why-strategies-fail) + AI Factor sub-hub + Execution Princi
 - **Status**: active
 - **Priority**: high
 - **Target Value**: 4
-- **Current Value**: 0
+- **Current Value**: 4
 
 ## OKR Scoring
 No OKR score set

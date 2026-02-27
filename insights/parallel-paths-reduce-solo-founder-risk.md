@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-01-27T00:15:49.887815+00:00
+lastUpdated: 2026-02-27T16:58:10.142139+00:00
 ---
 
 # Parallel paths reduce solo founder risk

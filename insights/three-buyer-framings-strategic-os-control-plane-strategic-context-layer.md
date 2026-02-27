@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:28:17.151872+00:00
+lastUpdated: 2026-02-27T16:58:32.373857+00:00
 ---
 
 # Three Buyer Framings: Strategic OS, Control Plane, Strategic Context Layer

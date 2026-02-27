@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-01-27T00:14:54.073695+00:00
+lastUpdated: 2026-02-27T16:58:08.896061+00:00
 ---
 
 # Strategic Advisor workflow is the real value hook, not Radar

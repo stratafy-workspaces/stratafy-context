@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:59:18.24028+00:00
+lastUpdated: 2026-02-27T16:58:31.047101+00:00
 ---
 
 # Strategic Intelligence as Cortex layer strategy

@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: hypothesis
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:46:08.048721+00:00
+lastUpdated: 2026-02-27T16:55:48.95916+00:00
 ---
 
 # Role-specific onboarding creates an organizational sensing network

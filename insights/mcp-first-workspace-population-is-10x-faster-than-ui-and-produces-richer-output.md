@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-17T10:35:44.964278+00:00
+lastUpdated: 2026-02-27T16:55:54.160216+00:00
 ---
 
 # MCP-first workspace population is 10x faster than UI and produces richer output

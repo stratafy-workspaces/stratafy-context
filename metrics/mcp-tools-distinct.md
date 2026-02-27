@@ -4,9 +4,9 @@ type: metric
 name: MCP Tools (Distinct)
 category: Product
 unit: tools
-frequency: monthly
+frequency: weekly
 currentValue: 115
-lastUpdated: 2026-02-08T21:53:36.361053+00:00
+lastUpdated: 2026-02-20T12:51:06.125+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 

@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:11:01.547509+00:00
+lastUpdated: 2026-02-27T16:55:54.019025+00:00
 ---
 
 # Perspective Reviews are the advisory firm's productized service offering

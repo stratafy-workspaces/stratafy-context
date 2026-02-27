@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: likely
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:09:30.400191+00:00
+lastUpdated: 2026-02-27T16:56:33.649856+00:00
 ---
 
 # AI advisory quality follows a context × lens specificity curve — Stratafy owns the context axis

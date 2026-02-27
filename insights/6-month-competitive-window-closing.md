@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2025-08-05T19:36:22.046438+00:00
+lastUpdated: 2026-02-27T16:58:09.343531+00:00
 ---
 
 # 6-Month Competitive Window Closing

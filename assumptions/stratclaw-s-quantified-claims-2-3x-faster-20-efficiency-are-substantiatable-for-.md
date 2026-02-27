@@ -5,7 +5,7 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-15T08:57:42.334822+00:00
+lastUpdated: 2026-02-27T16:56:30.534841+00:00
 ---
 
 # StratClaw's quantified claims (2-3x faster, 20% efficiency) are substantiatable for fundraise
@@ -22,4 +22,4 @@ StratClaw claims "execution evolves strategy 2-3x faster" with bidirectional loo
 ## Validation
 - **Method**: Track STIR engagement metrics from Feb 17. Measure: time to decision with vs without strategic context, frequency of re-litigated decisions before/after Decision Graveyard. If quantifiable evidence isn't available by March, downgrade to qualitative framing for pitch.
 - **Validated At**: Not yet validated
-- **Evidence**: No evidence recorded
+- **Evidence**: VALIDATION DEADLINE: March 28 — 6 weeks of STIR data. Track: time-to-decision with vs without strategic context, re-litigation frequency before/after Decision Graveyard. If quantifiable evidence isn't available by March 28, MUST downgrade to qualitative framing for Sequoia pitch. Do NOT cite specific numbers without data. Qualitative fallback: "customers report faster decisions and less re-litigation" with STIR testimonial.

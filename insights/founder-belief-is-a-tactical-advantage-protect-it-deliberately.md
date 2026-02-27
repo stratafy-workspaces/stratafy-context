@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-01-27T00:16:41.809646+00:00
+lastUpdated: 2026-02-27T16:58:10.551088+00:00
 ---
 
 # Founder belief is a tactical advantage — protect it deliberately

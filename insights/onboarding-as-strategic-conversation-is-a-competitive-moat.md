@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:46:07.799361+00:00
+lastUpdated: 2026-02-27T16:55:48.535323+00:00
 ---
 
 # Onboarding-as-strategic-conversation is a competitive moat

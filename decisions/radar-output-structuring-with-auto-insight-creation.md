@@ -4,13 +4,15 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-01-30T15:18:14.362+00:00
-lastUpdated: 2026-01-30T15:18:14.656693+00:00
+lastUpdated: 2026-02-27T16:56:23.694488+00:00
 ---
 
 # Radar Output Structuring with Auto-Insight Creation
 
 ## Description
-How should we structure Radar scan outputs for MCP consumption and Insights integration? The existing Radar layer stores results as unstructured JSON in `radar_executions.result`. We need structured data for Claude to interact with Radar directly and to feed the learning loop.
+How should we structure Radar scan outputs for **MCP consumption** and **Insights integration**?
+
+The existing Radar layer stores results as unstructured JSON in `radar_executions.result`. We need structured data for Claude to interact with Radar directly and to feed the learning loop.
 
 ## Details
 - **Type**: Type 2 (Reversible)
@@ -20,13 +22,27 @@ How should we structure Radar scan outputs for MCP consumption and Insights inte
 - **Decided At**: 2026-01-30T15:18:14.362+00:00
 
 ## Context
-Existing infrastructure: Full `layers/radar/` with sessions, prompts, executions. Insights system has `source: 'stratafy_radar'` enum. No MCP tools for Radar currently exist. Strategic Intelligence strategy specifies Radar as external sensing capability with Phase 1 prototype functional.
+**Existing infrastructure:**
+- Full `layers/radar/` with sessions, prompts, executions
+- Insights system has `source: 'stratafy_radar'` enum
+- No MCP tools for Radar currently exist
+
+**Strategic Intelligence** strategy specifies Radar as external sensing capability with Phase 1 prototype functional.
 
 ## Research
 No research recorded
 
 ## Decision
-Add three new tables to structure Radar output: `radar_findings` (individual signals), `radar_implications` (linked to strategies), and `radar_recommendations` (actionable items). Findings auto-create Insights with `source: 'stratafy_radar'`. Add MCP tools for full CRUD operations. This enhances the existing Radar layer rather than replacing it.
+Add **three new tables** to structure Radar output:
+
+1. **`radar_findings`** — Individual signals detected
+2. **`radar_implications`** — Linked to strategies
+3. **`radar_recommendations`** — Actionable items
+
+### Integration:
+- Findings **auto-create Insights** with `source: 'stratafy_radar'`
+- Add **MCP tools** for full CRUD operations
+- Enhances the existing Radar layer rather than replacing it
 
 ## Rationale
 1. **Enables MCP integration** — Claude can interact with structured findings, not raw JSON blobs

@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:22:37.851882+00:00
+lastUpdated: 2026-02-27T16:58:33.895549+00:00
 ---
 
 # 6 velocity patterns shared by Tesla, Ramp, and Linear

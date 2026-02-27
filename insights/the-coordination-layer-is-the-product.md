@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:26:27.151647+00:00
+lastUpdated: 2026-02-27T16:58:24.713117+00:00
 ---
 
 # The Coordination Layer Is the Product

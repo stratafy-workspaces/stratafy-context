@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:25:41.568614+00:00
+lastUpdated: 2026-02-27T16:58:25.104264+00:00
 ---
 
 # AI Chief of Staff for CEOs — Validated Use Case

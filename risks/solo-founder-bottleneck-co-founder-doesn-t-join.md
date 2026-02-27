@@ -8,7 +8,7 @@ impact: critical
 riskScore: 8
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-05T10:04:29.822394+00:00
+lastUpdated: 2026-02-27T16:55:45.145136+00:00
 ---
 
 # Solo founder bottleneck / co-founder doesn't join

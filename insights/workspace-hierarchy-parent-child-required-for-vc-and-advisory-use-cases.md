@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:48:33.156672+00:00
+lastUpdated: 2026-02-27T16:55:49.478039+00:00
 ---
 
 # Workspace hierarchy (parent/child) required for VC and advisory use cases

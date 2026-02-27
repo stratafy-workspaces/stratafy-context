@@ -1,19 +1,19 @@
 # Workspace Strategic Snapshot
 
-Generated: 2026-02-19T11:53:56.935Z
+Generated: 2026-02-27T17:00:52.552Z
 
 ## Overview
 Workspace ID: 5c1743d9-1030-4c2e-85e5-f642fe9a7ef9
 
 ## Statistics
-- **Total Strategies**: 25
-- **Total Initiatives**: 52
-- **Total Objectives**: 14
-- **Total Metrics**: 5
-- **Total Assumptions**: 21
-- **Total Risks**: 12
-- **Total Decisions**: 17
-- **Total Insights**: 227
+- **Total Strategies**: 26
+- **Total Initiatives**: 73
+- **Total Objectives**: 30
+- **Total Metrics**: 11
+- **Total Assumptions**: 22
+- **Total Risks**: 16
+- **Total Decisions**: 20
+- **Total Insights**: 256
 
 ## Navigation
 - [Foundation](./foundation/) - Mission, Vision, Values, Beliefs, Principles

@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2025-08-05T19:34:04.885572+00:00
+lastUpdated: 2026-02-27T16:56:28.917171+00:00
 ---
 
 # $2.6 Trillion M&A Opportunity Window

@@ -5,7 +5,7 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-08T21:38:52.548785+00:00
+lastUpdated: 2026-02-27T16:56:29.981302+00:00
 ---
 
 # MCP achieves broad ecosystem adoption
@@ -22,4 +22,6 @@ MCP (Model Context Protocol) will achieve broad adoption as the standard interfa
 ## Validation
 - **Method**: Track MCP adoption metrics: number of MCP-compatible tools, developer community growth, enterprise adoption announcements. Monitor competing protocols from OpenAI, Google, Microsoft. Track whether Claude Desktop / MCP clients become standard enterprise tooling.
 - **Validated At**: Not yet validated
-- **Evidence**: Anthropic actively investing in MCP. Growing ecosystem of MCP servers. Claude Desktop shipping MCP support. However, OpenAI has not yet committed to MCP and may launch a competing standard.
+- **Evidence**: PREVIOUS: Anthropic actively investing in MCP. Growing ecosystem of MCP servers. Claude Desktop shipping MCP support. However, OpenAI has not yet committed to MCP and may launch a competing standard.
+
+VALIDATION DEADLINE: Ongoing — monitor quarterly. Key trigger: if OpenAI launches competing protocol with significant adoption, reassess architecture. Next check: March 31. This is a background assumption — not blocking near-term execution but shapes long-term architecture bets.

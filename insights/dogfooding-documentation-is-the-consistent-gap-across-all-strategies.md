@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:22:36.873453+00:00
+lastUpdated: 2026-02-27T16:58:30.148579+00:00
 ---
 
 # Dogfooding documentation is the consistent gap across all strategies

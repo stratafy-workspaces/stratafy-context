@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:23:03.721871+00:00
+lastUpdated: 2026-02-27T16:58:24.796124+00:00
 ---
 
 # Two Lighthouse Strategy — Different Use Cases, De-Risked Bet

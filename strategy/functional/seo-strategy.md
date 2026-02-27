@@ -4,7 +4,7 @@ type: strategy
 status: active
 strategyType: functional
 parent: ed746e23-0f16-4599-a453-5e3f80aa5387
-lastUpdated: 2026-02-15T09:43:10.822+00:00
+lastUpdated: 2026-02-25T12:55:23.627458+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
@@ -18,15 +18,19 @@ WEBSITE CONTENT ARCHITECTURE (Feb 2026):
 Hub-and-spoke model:
 - Parent Hub: /why-strategies-fail (canonical pillar page, 10+ blog spokes)
 - Sub-Hub 1: /why-strategies-fail/ai-factor (6-8 spokes)
+  - Sub-resource: /why-strategies-fail/ai-factor/ai-tool-governance (governance anchor page)
 - Sub-Hub 2: /why-strategies-fail/execution-principles (5-7 spokes)
 
 Navigation (Phase 1): "Why Strategies Fail ▾" with AI Factor and Execution Principles sub-items. "The Execution Gap" reserved for Phase 2/3 once category owned.
 
 INVESTOR JOURNEY: About/Methodology → parent hub (problem validation) → sub-hubs (proof) → /demo or contact.
 
-KEYWORD TARGETS: Parent: "why strategies fail," "strategy execution gap." AI Factor: "AI strategy execution." Execution: "startup execution principles," "velocity vs process." Category-defining: strategic operating system, control plane for AI.
+KEYWORD TARGETS: Parent: "why strategies fail," "strategy execution gap." AI Factor: "AI strategy execution." AI Governance: "AI tool governance," "AI agent governance," "MCP governance," "AI governance framework." Execution: "startup execution principles," "velocity vs process." Category-defining: strategic operating system, control plane for AI.
 
 8 CONTENT PILLARS: First Principles, Business Stages, AI Era, Measuring Success, Foundation+AI, AI Technical, AI Tools, Startup Execution Principles.
+
+CROSS-PILLAR CONTENT CLUSTERS:
+- AI Governance Cluster (Pillars 3+6): Website page + 2 blog spokes. Supports TAM expansion pitch narrative. Targets nascent governance keywords.
 
 METRICS: Phase 0 complete (17+ articles). Phase 1: hubs live by March, 100+ monthly organic by June, Top 20 for 2+ keywords. Phase 2 (H2 2026): Top 10 rankings, expanded nav. Phase 3 (2027+): category dominance.
 
@@ -94,6 +98,29 @@ Content serves two masters simultaneously:
 - Problem path: 1→2→3→4→5 (problem to solution)
 - Technical path: 6→7→5 (technical validation)
 - Execution path: 8→1→5 (principles to strategy to solution)
+- Governance path: 3→6→5 (AI era → technical architecture → thesis)
+
+## Cross-Pillar Content Clusters
+
+Content clusters group pieces from multiple pillars into coherent narratives that serve specific strategic objectives.
+
+### AI Governance Cluster (Pillars 3 + 6) — NEW Feb 2026
+
+**Strategic purpose**: TAM expansion narrative for investor pitch. Positions Stratafy's strategic context as the missing governance layer for AI agents. Supports the AI Tool Governance initiative under Product Architecture.
+
+**Why now**: Cowork launched with 11 plugins. Cloudflare, Azure, AWS all shipped MCP governance APIs in past 6 months. The enforcement infrastructure is ready. The intelligence layer is the gap. This is timely, technically grounded, and directly supports the Sequoia/Madrona pitch.
+
+| Piece | Type | Pillar | Location | Keywords |
+|-------|------|--------|----------|----------|
+| **Why AI Tool Governance Needs Strategic Context** | Website page (sub-resource) | 6 | /why-strategies-fail/ai-factor/ai-tool-governance | AI tool governance, AI agent governance, MCP governance |
+| **Your AI Can Access Everything. Who Decided That?** | Blog post (spoke) | 3 | /blog/your-ai-can-access-everything | AI agent permissions, AI tool access, AI desktop agent risks |
+| **The Four Layers of AI Governance (And the One Nobody's Building)** | Blog post (spoke) | 6 | /blog/four-layers-ai-governance | AI governance framework, MCP governance layers, enterprise AI security |
+
+**Cross-linking**: Both blog posts link to website page as hub. Website page links to both as supporting evidence. All three link back to AI Factor sub-hub. Website page connects to parent execution gap thesis.
+
+**Pitch integration**: After investor meeting, send "Your AI Can Access Everything" as follow-up reading. The governance narrative demonstrates TAM expansion beyond strategic planning software into the "control plane for the AI-augmented organization."
+
+**Content status**: Drafts complete (Feb 25, 2026). Pending Leonard review and publish.
 
 ## Pillar 8: Startup Execution Principles
 
@@ -111,7 +138,7 @@ This pillar draws from founder's direct experience at Troop, research on Linear/
 ### Pillar 8 Article Sequence (Updated)
 
 | Priority | Article | Principle | Keyword Targets |
-|----------|---------|-----------|-----------------|
+|----------|---------|-----------|-----------------
 | 1 | **Velocity as Religion: How the Fastest Companies Actually Operate** | Velocity Research | startup velocity, Ramp growth, Linear methodology, Tesla innovation |
 | 2 | **Why Velocity Culture Fails (And How to Fix It)** | Velocity Problem | startup velocity culture, move fast culture, velocity vs quality |
 | 3 | **The Founder's Bottleneck: When Strategy Lives in Your Head** | Systematization | founder bottleneck, scaling founder knowledge |
@@ -177,6 +204,7 @@ This pillar draws from founder's direct experience at Troop, research on Linear/
 - **Cadence**: 1 article/week (sustainable for solo founder)
 - **Target**: 7 articles published before pitch window
 - **Pillar focus**: Pillar 8 (Execution Principles) + Pillar 1 (First Principles)
+- **Cross-pillar**: AI Governance cluster (3 pieces) for TAM expansion narrative
 - **Dogfooding**: Internal only — strategy in Stratafy, AI-assisted writing
 
 ### Phase 1: Growth (Apr-Dec 2026)
@@ -201,6 +229,10 @@ These emerging keywords have low competition—opportunity to define the categor
 | "organizational identity AI" | <20/mo | Own the concept |
 | "continuous strategy alignment" | <30/mo | Own the cadence shift |
 | "AI agent governance" | <100/mo | Own governance narrative |
+| "AI tool governance" | <50/mo | Own governance + tool intersection |
+| "MCP governance" | <30/mo | Own protocol governance narrative |
+| "AI governance framework" | <200/mo | Capture framework searches |
+| "AI agent permissions" | <50/mo | Capture permission concern searches |
 | "MCP for business" | <50/mo | Define protocol for business |
 | "startup velocity culture" | <100/mo | Own the execution narrative |
 | "velocity vs process" | <50/mo | Own the trade-off reframe |
@@ -281,6 +313,7 @@ This operationalizes our belief: "Strategy must be consumable by both humans and
 ## Integration with Initiatives
 
 - **Content Foundation Initiative** (Phase 0): 7 foundational articles (5+ from Pillar 8)
+- **AI Governance Cluster** (Phase 0): 1 website page + 2 blog posts — supports AI Tool Governance initiative under Product Architecture
 - **Phase 1**: "How Stratafy Manages Content Strategy" case study
 - **Phase 2+**: API-queryable content, Human-AI workflow transparency
 
@@ -306,6 +339,14 @@ This operationalizes our belief: "Strategy must be consumable by both humans and
 - ✅ New content principle: "Lived experience over theory"
 - ✅ New keywords added for velocity/execution narrative
 - ✅ "Velocity as Religion" elevated to lead article (Jan 27)
+
+**Updates (Feb 25, 2026):**
+- ✅ AI Governance content cluster added (cross-pillar: Pillars 3+6)
+- ✅ Website architecture updated with governance sub-resource page
+- ✅ 4 new governance keywords added to category creation table
+- ✅ Governance path added to pillar flow (3→6→5)
+- ✅ Phase 0 updated to include governance cluster for pitch support
+- ✅ Initiative integration updated to reference AI Tool Governance initiative
 
 **Sequencing principle**: Demonstrate internally → publish proof points post-funding → full transparency at scale
 

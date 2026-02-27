@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-01-27T00:15:56.088164+00:00
+lastUpdated: 2026-02-27T16:58:10.99804+00:00
 ---
 
 # External deadlines drive execution — internal deadlines drift

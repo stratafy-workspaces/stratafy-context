@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-01-27T00:16:20.797846+00:00
+lastUpdated: 2026-02-27T16:58:10.293207+00:00
 ---
 
 # Parallel paths unlock everything — 3 conversations this week

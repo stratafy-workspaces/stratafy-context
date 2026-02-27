@@ -5,7 +5,7 @@ confidence: likely
 assumptionType: operational
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-05T10:03:50.008188+00:00
+lastUpdated: 2026-02-27T16:56:29.903924+00:00
 ---
 
 # Solo founder with AI leverage can reach seed-stage traction

@@ -21,6 +21,7 @@ No content available
 - [Methodology Import Templates (OPSP, V/TO, OKR)](../initiatives/methodology-import-templates-opsp-v-to-okr.md)
 - [Coach Portfolio Intelligence Platform](../initiatives/coach-portfolio-intelligence-platform.md)
 - [Methodology Persistence Content Series](../initiatives/methodology-persistence-content-series.md)
+- [Global Coach Network & Directory](../initiatives/global-coach-network-directory.md)
 
 ## Alignment Score
 Not calculated

@@ -5,7 +5,7 @@ confidence: likely
 assumptionType: technical
 impactIfWrong: critical
 status: active
-lastUpdated: 2026-02-08T21:39:39.604594+00:00
+lastUpdated: 2026-02-27T16:55:43.359934+00:00
 ---
 
 # Conversational-first interface is sufficient for early adoption
@@ -22,4 +22,4 @@ A conversational MCP-first interface is sufficient for initial product adoption 
 ## Validation
 - **Method**: Observe ScaleUp demo reaction — do they engage naturally with conversational interface or ask "where's the dashboard?" Track whether prospects request UI features before committing. Measure time-to-value in conversational onboarding vs expectation.
 - **Validated At**: Not yet validated
-- **Evidence**: No evidence recorded
+- **Evidence**: VALIDATION DEADLINE: Feb 23 (ScaleUp demo) — first external test. Watch for: do they engage naturally with conversation or ask "where's the dashboard?" Follow-up signals from Limbik (Feb 24) and Gert/Bev (Feb 24) demos. Must have directional answer by March 15.

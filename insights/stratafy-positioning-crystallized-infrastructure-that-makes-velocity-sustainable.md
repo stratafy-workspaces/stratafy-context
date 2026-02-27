@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:30:52.857124+00:00
+lastUpdated: 2026-02-27T16:58:33.872872+00:00
 ---
 
 # Stratafy positioning crystallized — infrastructure that makes velocity sustainable

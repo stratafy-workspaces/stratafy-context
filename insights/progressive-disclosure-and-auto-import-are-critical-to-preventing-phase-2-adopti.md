@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:46:08.16654+00:00
+lastUpdated: 2026-02-27T16:55:48.900558+00:00
 ---
 
 # Progressive disclosure and auto-import are critical to preventing Phase 2 adoption stall

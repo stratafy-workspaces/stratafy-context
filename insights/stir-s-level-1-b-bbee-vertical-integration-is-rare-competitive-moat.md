@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:47:59.199728+00:00
+lastUpdated: 2026-02-27T16:55:49.165642+00:00
 ---
 
 # STIR's Level 1 B-BBEE + vertical integration is rare competitive moat

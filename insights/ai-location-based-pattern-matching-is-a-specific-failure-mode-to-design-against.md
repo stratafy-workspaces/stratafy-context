@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: likely
 status: pending
 actionable: false
-lastUpdated: 2026-02-18T14:11:22.941596+00:00
+lastUpdated: 2026-02-27T16:55:54.190376+00:00
 ---
 
 # AI location-based pattern matching is a specific failure mode to design against

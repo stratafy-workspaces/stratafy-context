@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:28:18.156484+00:00
+lastUpdated: 2026-02-27T16:58:32.398124+00:00
 ---
 
 # Competitive insight: Role-aware architecture is defensible against AI giants

@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:19:56.928746+00:00
+lastUpdated: 2026-02-27T16:58:22.943333+00:00
 ---
 
 # Velocity killers identified — 5 patterns that destroy speed

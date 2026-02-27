@@ -4,13 +4,16 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-02-06T13:18:21.586+00:00
-lastUpdated: 2026-02-06T13:18:21.66334+00:00
+lastUpdated: 2026-02-27T16:56:22.788254+00:00
 ---
 
 # One interface with role-aware modes, not 7 separate interfaces
 
 ## Description
-Build one Strategic Advisor interface with role-aware modes instead of 7 separate interfaces. Same prompt architecture, different context flags. Reduces near-term complexity while preserving the architecture vision.
+Build **one Strategic Advisor interface** with role-aware modes instead of 7 separate interfaces.
+
+- Same prompt architecture, different context flags
+- Reduces near-term complexity while preserving the architecture vision
 
 ## Details
 - **Type**: Type 2 (Reversible)
@@ -26,10 +29,18 @@ No context recorded
 No research recorded
 
 ## Decision
-Build one Advisor interface with role-aware modes. The system detects or is told the user's role and adapts tone, access, agency, and capture accordingly.
+Build **one Advisor interface** with role-aware modes. The system detects or is told the user's role and adapts:
+
+- **Tone** — executive vs. operational
+- **Access** — what data is visible
+- **Agency** — what actions are available
+- **Capture** — what gets recorded
 
 ## Rationale
-7 separate interfaces creates complexity creep risk. One interface with modes ships faster, maintains architecture vision, and the prospect feels like they're using the real product. AI leverage makes modes feasible without massive engineering.
+- **7 separate interfaces = complexity creep risk**
+- One interface with modes **ships faster**
+- Maintains architecture vision — the prospect feels like they're using the real product
+- **AI leverage makes modes feasible** without massive engineering
 
 ## Outcome
 No outcome recorded yet

@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-17T10:37:41.056404+00:00
+lastUpdated: 2026-02-27T16:55:54.670784+00:00
 ---
 
 # Strategic Alignment Score as a trackable KPI creates the retention loop

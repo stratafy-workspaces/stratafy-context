@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-16T14:56:50.086942+00:00
+lastUpdated: 2026-02-27T16:55:54.383515+00:00
 ---
 
 # Solo founder focus drift toward tactical over strategic

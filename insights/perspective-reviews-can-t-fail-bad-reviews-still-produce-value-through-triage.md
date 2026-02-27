@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:10:15.401299+00:00
+lastUpdated: 2026-02-27T16:56:32.460872+00:00
 ---
 
 # Perspective Reviews can't fail — bad reviews still produce value through triage

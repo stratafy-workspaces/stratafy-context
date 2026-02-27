@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-16T13:44:50.720417+00:00
+lastUpdated: 2026-02-27T16:55:48.369995+00:00
 ---
 
 # Document generation features are retention drivers, not export utilities — they create forcing functions for workspace currency

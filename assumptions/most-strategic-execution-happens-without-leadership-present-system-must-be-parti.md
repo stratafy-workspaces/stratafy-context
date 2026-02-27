@@ -5,7 +5,7 @@ confidence: likely
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-15T10:30:18.134344+00:00
+lastUpdated: 2026-02-27T16:55:43.495675+00:00
 ---
 
 # Most strategic execution happens without leadership present — system must be participant-led

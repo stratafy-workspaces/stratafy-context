@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:28:16.520627+00:00
+lastUpdated: 2026-02-27T16:58:34.830495+00:00
 ---
 
 # Founder-Market Fit Evidence Chain: Lived → Failed → Built → Proved → Validated

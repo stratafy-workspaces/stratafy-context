@@ -4,7 +4,7 @@ type: strategy
 status: active
 strategyType: functional
 parent: ef7987af-9198-4259-8f1a-f73f25c7b94a
-lastUpdated: 2026-01-27T11:10:19.268172+00:00
+lastUpdated: 2026-02-20T16:51:40.710474+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
@@ -106,57 +106,6 @@ Roelof Botha specifically:
 
 The pitch isn't just "invest in Stratafy" — it's "here's how you could see strategic drift across your entire portfolio."
 
-## Capability Requirements
-
-- Pitch materials (deck, memo, demo)
-- Investor network access (Sequoia path via Pieter de Villiers)
-- Documented traction and metrics
-- Clear use-of-funds narrative
-- Founding story narrative (developed and rehearsed)
-
-## Success Indicators
-
-- 10+ quality investor meetings
-- Term sheet received
-- Round closed at appropriate valuation
-- Strategic investors who add value beyond capital
-- Investors reference the founding story in follow-up conversations
-
-## Strategic Constraints
-
-What this strategy constrains—explicit choices about what we will NOT do:
-
-- We do NOT optimize pitch for maximum valuation—optimize for right partners
-- We do NOT distract from product/customers for fundraising theater
-- We do NOT pursue funding before having something to show
-- We do NOT accept terms that compromise long-term vision
-- We do NOT pitch with slides when we can demo live
-- We do NOT hide the Troop experience — it's founder-market fit evidence
-
-## Target Round
-
-- **Stage**: Pre-Seed / Seed
-- **Target**: ~$5M by Q3 2026
-- **Optimal Pitch Window**: Q2-Q3 2026 (April-June)
-
-## Key Milestones Before Pitching
-
-- MVP with core functionality
-- 2-3 beta customers
-- Early traction signals
-- Referenceable testimonials
-- Demo that runs flawlessly
-- Founding story narrative polished
-
-## Investor Strategy
-
-**Primary Path**: Sequoia via Pieter de Villiers → Roelof Botha
-
-**Backup Paths**:
-- a16z / Greylock direct outreach
-- SA investors (Knife Capital, 4Di)
-- Angel investors
-
 ## Key Assumptions
 
 | ID | Assumption | Confidence | Validation Deadline |
@@ -183,18 +132,23 @@ What this strategy constrains—explicit choices about what we will NOT do:
 
 **A24 (Founding story backfires)**: Focus on forward-looking narrative, reduce Troop references, emphasize product evidence over personal journey.
 
-## Next Actions
+## Strategic Constraints
 
-| Action | Owner | Deadline |
-|--------|-------|----------|
-| Develop founding story narrative (Troop → Stratafy) | Leonard | March 2026 |
-| Complete Alignment Scan MVP | Leonard | Feb 10 |
-| Prepare 1-pager for Pieter | Leonard | March 25 |
-| Request intro from Pieter | Leonard | Late March |
-| Demo meeting with Roelof | Leonard | April |
+What this strategy constrains—explicit choices about what we will NOT do:
+
+- We do NOT optimize pitch for maximum valuation—optimize for right partners
+- We do NOT distract from product/customers for fundraising theater
+- We do NOT pursue funding before having something to show
+- We do NOT accept terms that compromise long-term vision
+- We do NOT pitch with slides when we can demo live
+- We do NOT hide the Troop experience — it's founder-market fit evidence
+
+## Execution
+
+All operational execution — investor pathway rankings, live timeline, materials prep, demo rehearsal, and round mechanics — lives in the **Fundraising Playbook** sub-strategy and its initiatives. This parent strategy owns the narrative and positioning; the playbook owns the how and now.
 
 ## Key Initiatives
-- [Seed Fundraise](../initiatives/seed-fundraise.md)
+No initiatives defined
 
 ## Alignment Score
 Not calculated

@@ -4,14 +4,24 @@ type: strategy
 status: active
 strategyType: functional
 parent: ef7987af-9198-4259-8f1a-f73f25c7b94a
-lastUpdated: 2026-01-27T10:10:43.236577+00:00
+lastUpdated: 2026-02-20T12:28:43.389+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Product Architecture
 
 ## Description
-The 4+3 architecture blueprint—4 execution levels (Foundation, Strategy, Initiatives, Tactics) + 3 enablers (Cortex, Context, Tools). This defines WHAT we're building; Product-Market Fit validates WHO wants it and WHY.
+Stratafy's product architecture operates as two layers on the same strategic architecture:
+
+**The Strategy Workbench** (Mode 1) — the Stratafy UI where strategic architecture is deliberately built and maintained. Foundation, strategies, initiatives, objectives, risks, assumptions, reviews. This is working ON the strategy.
+
+**The Strategic Layer** (Mode 2 + Mode 3) — the strategic architecture made available wherever decisions happen. Through conversational interfaces (Claude/MCP), development environments, agent context injection, API queries, and external context packages. This is working WITH the strategy and working ON the strategy through exploratory/analytical interfaces.
+
+Three consumption modes: Mode 1 (Workbench — structured, architectural), Mode 2 (Conversational/Integrated — fluid, contextual, where richest co-working happens), Mode 3 (Autonomous Agents — always-on, boundary-governed).
+
+Four resolution levels for context serving: Full (complete architecture for perspective reviews), Strategic (foundation + active strategies + critical assumptions/risks for leadership/investors), Operational (function-specific strategy/initiatives/metrics for teams), Minimal (core values + mission + priorities for basic agent alignment).
+
+The 4+3 internal architecture (4 execution levels: Foundation, Strategy, Initiatives, Tactics + 3 enablers: Cortex, Context, Tools) provides the technical substrate. The two-layer model (Workbench + Strategic Layer) is how the product is experienced and explained.
 
 ## Content
 # Product Development Strategy
@@ -223,6 +233,14 @@ What this strategy constrains:
 - [Workspace Hierarchy (Parent/Child)](../initiatives/workspace-hierarchy-parent-child.md)
 - [Organigram-Strategy Alignment Scan](../initiatives/organigram-strategy-alignment-scan.md)
 - [[FUTURE] Dependency & Sequencing Intelligence](../initiatives/future-dependency-sequencing-intelligence.md)
+- [Strategic Coherence Scan](../initiatives/strategic-coherence-scan.md)
+- [AI-Powered Strategy Contribution & Approval Engine](../initiatives/ai-powered-strategy-contribution-approval-engine.md)
+- [Document Tree — Hierarchical Knowledge Base](../initiatives/document-tree-hierarchical-knowledge-base.md)
+- [Document Signing & Finalization](../initiatives/document-signing-finalization.md)
+- [Build Stratafy Cowork Plugin](../initiatives/build-stratafy-cowork-plugin.md)
+- [Universal Entity Embedding & Semantic Search](../initiatives/universal-entity-embedding-semantic-search.md)
+- [Claude Cowork Plugin for Stratafy](../initiatives/claude-cowork-plugin-for-stratafy.md)
+- [AI Tool Governance Layer](../initiatives/ai-tool-governance-layer.md)
 
 ## Alignment Score
 Not calculated

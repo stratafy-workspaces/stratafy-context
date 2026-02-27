@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: proven
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:19:27.290363+00:00
+lastUpdated: 2026-02-27T16:58:22.900553+00:00
 ---
 
 # Tesla "compile time" metaphor — idea to production in 3 hours

@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: proven
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:19:21.344534+00:00
+lastUpdated: 2026-02-27T16:58:11.271816+00:00
 ---
 
 # Ramp hard numbers — $0 to $1B ARR in 3 years, 153% YoY growth

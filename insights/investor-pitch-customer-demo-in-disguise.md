@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-01-27T00:15:40.651822+00:00
+lastUpdated: 2026-02-27T16:58:10.842823+00:00
 ---
 
 # Investor pitch = customer demo in disguise

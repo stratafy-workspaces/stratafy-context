@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-17T10:38:17.29533+00:00
+lastUpdated: 2026-02-27T16:56:33.119485+00:00
 ---
 
 # STIR demo sequence proves the complete Stratafy value loop — replicable for all demos

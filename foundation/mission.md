@@ -1,9 +1,9 @@
 ---
 id: 05abdfb3-f1e0-44fa-a43a-8182f37e6131
 type: mission
-lastUpdated: 2026-01-26T07:31:51.752+00:00
+lastUpdated: 2026-02-23T21:02:52.79+00:00
 ---
 
 # Mission Statement
 
-To close the gap between organizational intent and execution—making strategy the shared infrastructure for humans and AI agents.
+To empower scale-up leadership teams to unlock the full potential of their organisations through proven growth methodologies, expert coaching, and a powerful entrepreneurial network.

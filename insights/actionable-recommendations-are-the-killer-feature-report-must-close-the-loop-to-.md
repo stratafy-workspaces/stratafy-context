@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-17T10:36:24.36928+00:00
+lastUpdated: 2026-02-27T16:55:54.628289+00:00
 ---
 
 # Actionable recommendations are the killer feature — report must close the loop to execution

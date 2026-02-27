@@ -5,7 +5,7 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-09T05:17:15.243809+00:00
+lastUpdated: 2026-02-27T16:55:41.37659+00:00
 ---
 
 # Advisory firms across all methodology networks will adopt Stratafy as persistence layer
@@ -22,4 +22,4 @@ Advisory firms delivering strategy methodologies (Scaling Up, EOS, OKRs, Balance
 ## Validation
 - **Method**: Phase 1: ScaleUp Company demo (Feb 17-20) tests with Scaling Up methodology. Phase 2: If validated, approach 1-2 EOS Implementers to test cross-methodology applicability. Phase 3: Build methodology-specific onboarding templates (OPSP → Stratafy, V/TO → Stratafy, OKR → Stratafy).
 - **Validated At**: Not yet validated
-- **Evidence**: No evidence recorded
+- **Evidence**: VALIDATION DEADLINE: Feb 23 (ScaleUp demo) — first advisory firm test of persistence layer pitch. Feb 24 (Limbik/Henniel) — second test with established strategy advisory. Feb 24 (Gert/Bev) — third test via consultant-to-client pathway. Must have directional signal from 3 advisory conversations by March 7. Cross-methodology test (EOS implementer) needed by April 1.

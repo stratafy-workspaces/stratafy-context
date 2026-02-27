@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:08:51.984696+00:00
+lastUpdated: 2026-02-27T16:56:32.932455+00:00
 ---
 
 # Context depth is the primary determinant of AI review quality — validates the Stratafy context moat

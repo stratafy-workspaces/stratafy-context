@@ -294,6 +294,8 @@ What this strategy constrains:
 - [[FUTURE] Cultural & Values Coherence Sensing](../initiatives/future-cultural-values-coherence-sensing.md)
 - [Workspace Documents & Knowledge Store](../initiatives/workspace-documents-knowledge-store.md)
 - [Strategic Alignment Suite](../initiatives/strategic-alignment-suite.md)
+- [Strategic Signals — First-Class Entity & Processing Pipeline](../initiatives/strategic-signals-first-class-entity-processing-pipeline.md)
+- [CEO Morning Briefing (WhatsApp)](../initiatives/ceo-morning-briefing-whatsapp.md)
 
 ## Alignment Score
 Not calculated

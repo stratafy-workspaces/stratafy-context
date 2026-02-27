@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:07:44.168511+00:00
+lastUpdated: 2026-02-27T16:56:32.240884+00:00
 ---
 
 # Context specificity determines AI review quality — proven by A/B comparison

@@ -4,9 +4,9 @@ type: metric
 name: Demos Completed
 category: Pipeline
 unit: demos
-frequency: monthly
-currentValue: 0
-lastUpdated: 2026-02-08T21:53:17.984962+00:00
+frequency: weekly
+currentValue: 1
+lastUpdated: 2026-02-23T14:00:47.305+00:00
 owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
@@ -16,7 +16,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Number of demos completed with external prospects. First demo target: ScaleUp Company week of Feb 17.
 
 ## Current Performance
-- **Latest Value**: 0 demos
+- **Latest Value**: 1 demos
 - **Category**: Pipeline
 - **Unit**: demos
 

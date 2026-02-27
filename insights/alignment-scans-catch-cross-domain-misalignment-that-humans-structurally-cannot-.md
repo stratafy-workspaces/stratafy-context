@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: pending
 actionable: true
-lastUpdated: 2026-02-17T10:36:26.12656+00:00
+lastUpdated: 2026-02-27T16:55:53.685167+00:00
 ---
 
 # Alignment scans catch cross-domain misalignment that humans structurally cannot — this is the defensible AI-native moat

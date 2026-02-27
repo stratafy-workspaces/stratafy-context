@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: likely
 status: pending
 actionable: true
-lastUpdated: 2026-02-18T14:09:48.121754+00:00
+lastUpdated: 2026-02-27T16:56:33.392355+00:00
 ---
 
 # Compound before you promote — SEO indexing decision reveals a reusable GTM timing pattern

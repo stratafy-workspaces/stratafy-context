@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:52:49.772059+00:00
+lastUpdated: 2026-02-27T16:55:49.085568+00:00
 ---
 
 # Methodology networks are Stratafy's GTM channel — coaches upgrade from facilitators to intelligence interpreters across all frameworks

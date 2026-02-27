@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:28:17.477787+00:00
+lastUpdated: 2026-02-27T16:58:34.42908+00:00
 ---
 
 # ScaleUp Company is validation partner, not just customer — over-invest in their success

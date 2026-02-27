@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:52:50.64811+00:00
+lastUpdated: 2026-02-27T16:55:53.985965+00:00
 ---
 
 # Content architecture creates triple moat — category vocabulary ownership, AI-engine citation infrastructure, and topical authority clustering

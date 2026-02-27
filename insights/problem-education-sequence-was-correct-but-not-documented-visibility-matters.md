@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T13:22:37.131742+00:00
+lastUpdated: 2026-02-27T16:58:31.566302+00:00
 ---
 
 # Problem education sequence was correct but not documented — visibility matters

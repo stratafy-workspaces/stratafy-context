@@ -7,7 +7,7 @@ impactLevel: high
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:50:55.698396+00:00
+lastUpdated: 2026-02-27T16:55:53.504025+00:00
 ---
 
 # Salesforce analogy validated but needs quantified pilot metrics to move from theoretical to proven

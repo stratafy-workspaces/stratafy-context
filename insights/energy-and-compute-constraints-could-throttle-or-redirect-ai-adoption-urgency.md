@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-16T13:34:54.173124+00:00
+lastUpdated: 2026-02-27T16:55:48.395271+00:00
 ---
 
 # Energy and compute constraints could throttle or redirect AI adoption urgency

@@ -7,7 +7,7 @@ impactLevel: critical
 confidenceLevel: likely
 status: pending
 actionable: true
-lastUpdated: 2026-02-17T10:36:06.040161+00:00
+lastUpdated: 2026-02-27T16:55:53.739076+00:00
 ---
 
 # Consolidated alignment reports are automated consulting deliverables — the monetization mechanism for the advisory GTM channel

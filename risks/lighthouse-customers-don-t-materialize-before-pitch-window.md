@@ -8,7 +8,7 @@ impact: high
 riskScore: 6
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-05T10:04:38.963478+00:00
+lastUpdated: 2026-02-27T16:55:46.104331+00:00
 ---
 
 # Lighthouse customers don't materialize before pitch window

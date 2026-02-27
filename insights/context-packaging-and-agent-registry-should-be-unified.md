@@ -7,7 +7,7 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-06T08:22:50.060676+00:00
+lastUpdated: 2026-02-27T16:58:25.233471+00:00
 ---
 
 # Context Packaging and Agent Registry should be unified

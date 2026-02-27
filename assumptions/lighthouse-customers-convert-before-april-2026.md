@@ -5,7 +5,7 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: critical
 status: active
-lastUpdated: 2026-02-05T10:04:08.8173+00:00
+lastUpdated: 2026-02-27T16:55:42.500938+00:00
 ---
 
 # Lighthouse customers convert before April 2026
@@ -22,4 +22,4 @@ Early target customers will convert to active users before the April 2026 pitch 
 ## Validation
 - **Method**: Track meeting outcomes, onboarding completion, and weekly usage after activation.
 - **Validated At**: Not yet validated
-- **Evidence**: No evidence recorded
+- **Evidence**: VALIDATION DEADLINE: March 31 — hard deadline. STIR is active (Feb 17+). ScaleUp demo Feb 23. Limbik Feb 24. Gert/Bev Feb 24. Need at least 2 of these converting to active users with weekly engagement by March 31. If only STIR is active by then, assumption is weakening — pitch will lean on single case study. Escalation trigger: if zero additional conversions by March 15, activate Pipeline Diversification Sprint emergency mode.
