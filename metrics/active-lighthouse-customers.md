@@ -6,8 +6,6 @@ category: Pipeline
 unit: customers
 frequency: weekly
 currentValue: 1
-lastUpdated: 2026-02-20T12:50:39.844+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Active Lighthouse Customers

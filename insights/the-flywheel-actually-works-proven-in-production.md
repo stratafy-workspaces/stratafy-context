@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: proven
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:30.610974+00:00
 ---
 
 # The Flywheel Actually Works — Proven in Production

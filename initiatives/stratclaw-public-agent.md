@@ -5,8 +5,6 @@ status: in_progress
 priority: high
 strategy: StratMD Open Specification
 completionPercentage: 0
-lastUpdated: 2026-02-04T17:26:46.918071+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # StratClaw Public Agent
@@ -44,7 +42,7 @@ StratClaw is the public-facing AI agent that demonstrates the StratMD thesis in 
 - Public can see the feedback loop (strategy file → agent behavior → insights → strategy updates)
 
 ## Parent Strategy
-[StratMD Open Specification](../strategy/functional/stratmd-open-specification.md)
+[StratMD Open Specification](../strategy/go-to-market/stratmd-open-specification.md)
 
 ## Status & Progress
 - **Status**: in progress

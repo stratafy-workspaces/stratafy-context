@@ -4,7 +4,6 @@ type: decision
 decisionType: type_2_reversible
 status: pending
 deadline: 2026-03-15T00:00:00+00:00
-lastUpdated: 2026-02-27T16:56:23.265576+00:00
 ---
 
 # Coach Network positioning in Sequoia pitch deck
@@ -28,7 +27,7 @@ The network story is the "why this becomes a $1B company" slide. But without evi
 - **Decided At**: Not yet decided
 
 ## Context
-As of Feb 22, 2026: Zero advisory firms have used Stratafy with clients. ScaleUp demo scheduled Feb 23, Limbik Feb 24, Gert/Bev Feb 24. STIR is active but as a direct engagement, not through a coach channel. The Global Coach Network initiative is fully designed but at draft status. All 5 methodology network assumptions are at hypothesis confidence.
+UPDATED Feb 27, 2026: New evidence strongly favors Option B (validated GTM, 2-3 slides). OpenAI signed multiyear alliances with McKinsey, BCG, Accenture, and Capgemini on Feb 23 — Big 4 consulting firms are now officially AI-partnered. This provides external third-party validation that: (1) AI disruption of consulting is real and happening now, (2) mid-tier advisory firms face existential pressure, (3) Stratafy's coach network as AI hedge for these firms is a validated market thesis, not aspirational positioning. Combined with STIR as first paying customer and Cowork plugin acceleration, Option B now has concrete external evidence to support the pitch narrative.
 
 ## Research
 No research recorded

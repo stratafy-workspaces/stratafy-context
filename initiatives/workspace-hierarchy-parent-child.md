@@ -5,8 +5,6 @@ status: active
 priority: medium
 strategy: Product Architecture
 completionPercentage: 0
-lastUpdated: 2026-02-08T09:20:47.246092+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Workspace Hierarchy (Parent/Child)
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Introduce parent/child workspace hierarchy to support aggregator use cases (VC firms, advisory firms). Parent workspaces can query across child workspaces for portfolio-level insights, alignment scores, and strategic health.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: active

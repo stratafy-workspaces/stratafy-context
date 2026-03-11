@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:48.522578+00:00
 ---
 
 # Four-Scan Strategic Intelligence: Intent, Capacity, Reality, Perception

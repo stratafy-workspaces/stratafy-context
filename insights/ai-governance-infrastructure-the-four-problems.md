@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:31.931353+00:00
 ---
 
 # AI Governance Infrastructure: The Four Problems

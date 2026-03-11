@@ -5,33 +5,21 @@ status: in_progress
 priority: high
 strategy: Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-27T16:22:53.883+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Strategic Alignment Suite
 
 ## Description
-Productize the complete set of alignment tools as an integrated suite — four lenses on the same living strategy, powered by Stratafy's structured strategic context layer.
+Productize alignment tools as an integrated suite — six lenses on the same living strategy, powered by Stratafy's structured strategic context layer.
 
-THE FOUR ALIGNMENT TOOLS:
+SIX ALIGNMENT LENSES: 1) Foundation Alignment (Vertical) — strategies vs. mission/vision/values. Live. 2) Strategic Coherence (Horizontal) — strategy-vs-strategy conflicts. Live. 3) Radar Scanning (Outside-In) — external environment vs. assumptions. Live. 4) Public Presence (Inside-Out) — market expression vs. intent. Proven. 5) Organizational (Structural) — people/roles/structure vs. strategy. Draft. 6) Financial (Economic) — COA, cost classification, revenue segmentation vs. strategic commitments. New.
 
-1. Foundation Alignment (Vertical) — Strategies measured against mission, vision, values, beliefs, principles. Catches philosophical drift. STATUS: Live.
+SIX-DIMENSION MODEL: Intent + Coherence + Reality + Perception + Capacity + Resources = complete misalignment coverage. One engine.
 
-2. Strategic Coherence (Horizontal) — Portfolio-level check ensuring strategic bets aren't pulling in opposite directions. Catches internal conflict and resource tension. STATUS: Planned.
-
-3. Radar Scanning (Outside-In) — Continuous external monitoring filtered through strategic context. Catches when assumptions break or opportunities emerge. STATUS: Live.
-
-4. Public Presence Alignment (Inside-Out) — Evaluates external expression against strategic intent. Catches the gap between stated strategy and market-facing reality. STATUS: Proven with STIR (Feb 2026).
-
-WHY COMPLETE: Vertical + Horizontal + Inbound + Outbound = every direction of misalignment covered. All four share the same engine — Stratafy's structured strategic context. No other tool offers this integrated.
-
-MAPS TO FOUR-SCAN MODEL: Alignment Scan = Intent, Organigram Scan = Capacity (future), Radar Scan = Reality, Public Narrative Scan = Perception.
-
-PITCH: "Stratafy doesn't just store strategy — it uses strategic context programmatically to evaluate whether your organization is aligned internally, coherent across strategies, oriented to reality, and perceived correctly. Continuously."
+PITCH: "Six lenses. One engine. Stratafy evaluates alignment internally, across strategies, against reality, in perception, through structure, and in financial architecture. Continuously."
 
 ## Parent Strategy
-[Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: in progress
@@ -39,56 +27,121 @@ PITCH: "Stratafy doesn't just store strategy — it uses strategic context progr
 - **Completion**: 0%
 
 ## Key Objectives
-- [Internal Alignment Scan — demo-ready](../objectives/internal-alignment-scan-demo-ready.md)
-- [Strategic Coherence Scan — demo-ready](../objectives/strategic-coherence-scan-demo-ready.md)
-- [Radar Scan — demo-ready with Global Access example](../objectives/radar-scan-demo-ready-with-global-access-example.md)
-- [Public Presence Alignment Scan — demo-ready](../objectives/public-presence-alignment-scan-demo-ready.md)
 - [Cowork Plugin — workspace creation with Scaling Up artifacts](../objectives/cowork-plugin-workspace-creation-with-scaling-up-artifacts.md)
+- [Public Presence Alignment Scan — demo-ready](../objectives/public-presence-alignment-scan-demo-ready.md)
+- [Radar Scan — demo-ready with Global Access example](../objectives/radar-scan-demo-ready-with-global-access-example.md)
+- [Strategic Coherence Scan — demo-ready](../objectives/strategic-coherence-scan-demo-ready.md)
+- [Internal Alignment Scan — demo-ready](../objectives/internal-alignment-scan-demo-ready.md)
 
 ## Timeline
 - **Start Date**: 2026-02-18
 - **Target Date**: 2026-03-06
 
 ## Content
-## Strategic Alignment Suite — Five Directional Lenses on Strategic Drift
+## Strategic Alignment Suite — Six Directional Lenses on Strategic Drift
 
-The Strategic Alignment Suite is the complete system for detecting and correcting strategic drift. Five directional lenses, each catching a different class of misalignment, all operating on the same living strategy.
+The Strategic Alignment Suite is the complete system for detecting and correcting strategic drift. Six directional lenses, each catching a different class of misalignment, all operating on the same living strategy.
 
-Methodology reference: Part 2 of 7 — Strategic Alignment (`/methodology/strategic-alignment`)
+### The Six Lenses
 
-### The Five Lenses
+| # | Lens | Direction | What It Checks | Maps To |
+|---|------|-----------|----------------|---------|
+| 1 | **Internal Alignment** | Vertical (Foundation ↔ Strategy) | Do strategies reflect mission, vision, values? | Intent |
+| 2 | **Strategic Coherence** | Horizontal (Strategy ↔ Strategy) | Do strategies reinforce or contradict? | Coherence |
+| 3 | **Radar Scanning** | Inbound (External ↔ Strategy) | Is the world changing in ways that matter? | Reality |
+| 4 | **Public Presence** | Outbound (Strategy ↔ Expression) | Does the market see what we intend? | Perception |
+| 5 | **Organizational** | Structural (Strategy ↔ People) | Can the org execute the strategy? | Capacity |
+| 6 | **Financial** | Economic (Strategy ↔ Money) | Does the financial reality fund the strategy? | Resources |
 
-| # | Lens | Direction | What It Checks | Initiative | Status |
-|---|------|-----------|----------------|------------|--------|
-| 1 | **Internal Alignment** | Vertical (Foundation ↔ Strategy) | Do strategies reflect mission, vision, values, beliefs, principles? | Alignment Scan MVP | MVP built |
-| 2 | **Strategic Coherence** | Horizontal (Strategy ↔ Strategy) | Do strategies reinforce or contradict each other? | Strategic Coherence Scan | Draft |
-| 3 | **Radar Scanning** | Inbound (External ↔ Strategy) | Is the world changing in ways that validate or invalidate strategy? | Radar MVP (separate project) | In Progress |
-| 4 | **Public Presence** | Outbound (Strategy ↔ External Expression) | Does market-facing expression match strategic intent? | Public Narrative Alignment Scan | Draft |
-| 5 | **Organizational** | Structural (Strategy ↔ People & Structure) | Right people, roles, capabilities, structure to execute? | Organigram-Strategy Alignment Scan | Draft |
+### Lens 6: Financial Alignment — Three Levels of Depth
 
-### Architecture
+The Financial Lens operates at three levels, each answering a progressively deeper question:
 
-All scan types (except Radar) share the same database tables:
-- `strategy_reviews` — one row per scan, discriminated by `review_type`
-- `review_perspectives` — findings per scan, discriminated by `perspective_type`
-- `review_comments` — discussion threads on findings
+#### Level 1 — Structural Alignment (COA Scan) ✅ Built
+**Question:** Does the chart of accounts reflect strategic commitments?
+**Input:** Chart of accounts + strategy tree
+**Checks:** Account existence, classification correctness, segmentation adequacy
+**Finds:** Invisible investments, misclassified costs, missing revenue segmentation
+**Review type:** `financial_alignment_scan`
+**Perspectives:** `revenue_alignment`, `cost_alignment`, `ai_economics`, `channel_economics`, `fx_exposure`, `fundraise_readiness`, `entity_structure`
 
-Review type values: `alignment_scan`, `coherence_scan`, `presence_scan`, `org_scan`
+#### Level 2 — Operational Alignment (P&L Scan) 🆕
+**Question:** Is money actually flowing where strategy says it should?
+**Input:** Profit & Loss statement + strategy tree + initiative priorities
+**Checks:** Spend-to-strategy mapping, allocation proportionality, trend trajectory
+**Finds:** Strategic underfunding, phantom priorities (strategy says critical but spend says otherwise), cost trajectory warnings
 
-### Synthesis Layer
+P&L Scan dimensions:
+| Dimension | What It Checks |
+|-----------|---------------|
+| **Strategic Investment Ratio** | R&D + Category spend as % of revenue vs. strategy ambition level |
+| **Channel P&L** | Revenue, COGS, and margin by GTM channel — does the winning channel match strategy? |
+| **AI Cost Trajectory** | AI spend growth rate vs. revenue growth rate — is the ratio improving? |
+| **Priority-Spend Alignment** | Do "critical" initiatives have proportional budget allocation? |
+| **Burn Composition** | What % of burn is strategy-advancing vs. operational maintenance? |
+| **People Investment Mix** | Engineering vs. Sales vs. G&A headcount cost vs. strategy stage requirements |
+| **Gross Margin Story** | COGS trends by component — is the margin trajectory investable? |
+| **Customer Unit Economics** | Revenue per customer vs. cost to serve — per customer P&L |
 
-The **Strategic Review Reports** project (STR-94 → STR-98) sits above all scan types as the synthesis layer — aggregating individual scans into consolidated executive reports with cross-cutting insights and actionable recommendations.
+**Review type:** `pnl_alignment_scan`
+**Perspectives:** `investment_ratio`, `channel_pnl`, `ai_trajectory`, `priority_spend`, `burn_composition`, `people_mix`, `margin_story`, `unit_economics`
 
-### Related Initiatives
+#### Level 3 — Positional Alignment (Balance Sheet Scan) 🆕
+**Question:** Can the company's financial position sustain its strategic ambitions?
+**Input:** Balance sheet + strategy tree + time horizons
+**Checks:** Runway-to-horizon match, asset base adequacy, capital structure fitness
+**Finds:** Runway gaps, underfunded futures, structural financial risks
 
-- **Alignment Scan MVP** (Product-Market Fit) — Lens 1, foundation alignment. Built.
-- **Strategic Coherence Scan** (Product Architecture) — Lens 2, strategy-vs-strategy. Next priority.
-- **Radar MVP** (Strategic Intelligence) — Lens 3, external environment. Separate project.
-- **Public Narrative Alignment Scan** (Product-Market Fit) — Lens 4, outbound expression. Draft.
-- **Organigram-Strategy Alignment Scan** (Product Architecture) — Lens 5, organizational fit. Draft.
+Balance Sheet Scan dimensions:
+| Dimension | What It Checks |
+|-----------|---------------|
+| **Runway vs. Time Horizon** | Cash + burn rate vs. longest strategic time horizon — can you afford your own strategy? |
+| **Capital Structure Fitness** | Debt, equity, SAFEs vs. growth stage — is the cap table clean for next raise? |
+| **Working Capital Health** | AR days, AP days, cash conversion — can operations self-fund? |
+| **Deferred Revenue Signal** | Pre-paid commitments as indicator of customer confidence and product stickiness |
+| **IP Asset Position** | Capitalized software + patents vs. R&D strategy — is the asset base growing? |
+| **FX Exposure Position** | Net USD/ZAR exposure on balance sheet vs. strategic hedging needs |
+| **Contingent Liabilities** | Convertible notes, SAFEs, option pool — dilution trajectory vs. fundraise plan |
+| **Strategic Reserve** | Unallocated cash available for opportunistic strategic moves |
 
-### Future Extensions
+**Review type:** `balance_sheet_alignment_scan`
+**Perspectives:** `runway_horizon`, `capital_structure`, `working_capital`, `deferred_revenue`, `ip_position`, `fx_position`, `contingent_liabilities`, `strategic_reserve`
 
-- `[FUTURE] Cultural & Values Coherence Sensing` — deeper layer of Lens 1
-- `[FUTURE] Dependency & Sequencing Intelligence` — deeper layer of Lens 2
-- `[FUTURE] Stakeholder Alignment Mapping` — deeper layer of Lens 5
+### How the Three Levels Work Together
+
+```
+Level 1 (Structural)  →  "Is the financial architecture right?"
+         ↓
+Level 2 (Operational) →  "Is the money flowing to the right places?"
+         ↓
+Level 3 (Positional)  →  "Can the balance sheet sustain the strategy?"
+```
+
+Level 1 is a prerequisite — if the COA doesn't mirror strategy, Levels 2 and 3 produce misleading results. But once structure is clean, the P&L scan becomes the quarterly heartbeat ("are we funding what we said matters?") and the balance sheet scan becomes the annual health check ("can we afford our ambitions?").
+
+### The Compound Insight
+
+When all three levels run together, Stratafy can produce findings no traditional financial analysis delivers:
+
+- "Your Category Creation strategy is marked critical, but only 4% of S&M spend goes to category education vs. 68% to demand-gen — at your stage, this ratio should be inverted"
+- "AI compute costs are growing 3.2x faster than revenue. At current trajectory, your gross margin drops below 60% in 8 months — triggering a strategic decision point"
+- "You have 14 months of runway but your longest strategy has a 24-month time horizon. Either the strategy needs shorter milestones or the fundraise timeline needs to accelerate"
+- "Channel B generates 2.4x the LTV:CAC of Channel A, but your GTM strategy allocates 70% of S&M budget to Channel A"
+
+These are findings that require both strategic context AND financial data. Neither a CFO nor a strategy consultant can produce them alone. Stratafy can because it holds both.
+
+### Architecture (All Three Levels)
+
+All scan types use the same `strategy_reviews` / `review_perspectives` tables:
+- `financial_alignment_scan` — Level 1, structural
+- `pnl_alignment_scan` — Level 2, operational
+- `balance_sheet_alignment_scan` — Level 3, positional
+
+### Integration Points
+
+- **Accounting System (Xero/QBO):** Pull trial balance, P&L, and balance sheet via API
+- **Stratafy Strategy Tree:** Strategy, initiative, objective hierarchy with priorities
+- **Stratafy Metrics:** MRR, burn rate, customer count for normalization
+- **Manual Upload:** CSV/Excel for companies not on integrated accounting
+
+**PITCH:** "Six lenses. One engine. The Financial Lens goes three levels deep: your chart of accounts mirrors your strategy, your P&L funds your priorities, and your balance sheet can sustain your ambitions. Every quarter. Automatically."

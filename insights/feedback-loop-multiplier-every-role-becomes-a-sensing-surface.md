@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:49.431952+00:00
 ---
 
 # Feedback loop multiplier: Every role becomes a sensing surface

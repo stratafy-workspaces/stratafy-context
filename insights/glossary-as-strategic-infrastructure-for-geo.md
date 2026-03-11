@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:48.925229+00:00
 ---
 
 # Glossary as Strategic Infrastructure for GEO

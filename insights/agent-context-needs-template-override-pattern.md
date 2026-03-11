@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:23.929712+00:00
 ---
 
 # Agent context needs template + override pattern

@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: AI Leverage & Automation
 completionPercentage: 0
-lastUpdated: 2026-01-29T09:22:46.411484+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Meeting Prep Automation
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 AI-powered meeting preparation. Before every external meeting, automatically generate a brief with CRM context, Stratafy strategic context, and relevant background research. Never walk into a meeting unprepared again.
 
 ## Parent Strategy
-[AI Leverage & Automation](../strategy/functional/ai-leverage-automation.md)
+[AI Leverage & Automation](../strategy/technology/ai-leverage-automation.md)
 
 ## Status & Progress
 - **Status**: draft

@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:22.863916+00:00
 ---
 
 # Stratafy metrics framework — platform health + workspace engagement

@@ -5,8 +5,6 @@ objectiveType: key_result
 status: active
 priority: medium
 initiative: Global Coach Network & Directory
-lastUpdated: 2026-02-22T09:28:32.768647+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # 50+ coaches across 20+ cities by August 2026
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Expand to 50+ coaches across 20+ cities globally. At this point the network has enough density to be self-reinforcing — coaches recruit other coaches and the directory generates meaningful inbound volume.
 
 ## Hierarchy
-**Strategy**: [Methodology Network GTM](../strategy/functional/methodology-network-gtm.md)
+**Strategy**: [Coach Network GTM](../strategy/go-to-market/coach-network-gtm.md)
 **Initiative**: [Global Coach Network & Directory](../initiatives/global-coach-network-directory.md)
 
 ## Objective Details

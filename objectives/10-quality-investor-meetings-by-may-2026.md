@@ -5,8 +5,6 @@ objectiveType: key_result
 status: active
 priority: high
 initiative: No initiative assigned
-lastUpdated: 2026-02-20T15:16:52.42222+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # 10+ quality investor meetings by May 2026

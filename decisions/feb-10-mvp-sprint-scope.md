@@ -5,7 +5,6 @@ decisionType: type_2_reversible
 status: decided
 deadline: 2026-02-10T00:00:00+00:00
 decidedAt: 2026-02-08T21:52:49.489+00:00
-lastUpdated: 2026-02-27T16:56:23.270167+00:00
 ---
 
 # Feb 10 MVP Sprint Scope

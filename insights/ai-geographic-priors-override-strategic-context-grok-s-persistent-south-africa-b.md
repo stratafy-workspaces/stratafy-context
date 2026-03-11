@@ -5,9 +5,8 @@ source: stratafy_chat
 category: operational
 impactLevel: low
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: false
-lastUpdated: 2026-02-27T16:56:33.450529+00:00
 ---
 
 # AI geographic priors override strategic context — Grok's persistent South Africa bias across both reviews
@@ -27,7 +26,7 @@ Additionally, three times Grok recommended "hire from ex-Naspers/Takealot" and "
 - **Category**: operational
 - **Impact**: low
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: No
 - **Tags**: ai-behavior, geographic-bias, perspective-reviews, lens-design, grok
 

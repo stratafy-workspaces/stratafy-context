@@ -5,8 +5,6 @@ status: in_progress
 priority: high
 strategy: StratMD Open Specification
 completionPercentage: 0
-lastUpdated: 2026-02-11T09:39:28.333+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Resilient Memory Content Pillar
@@ -47,7 +45,7 @@ Publish the three articles that emerged from today's thesis crystallization sess
 - Referenced in StratClaw's content
 
 ## Parent Strategy
-[StratMD Open Specification](../strategy/functional/stratmd-open-specification.md)
+[StratMD Open Specification](../strategy/go-to-market/stratmd-open-specification.md)
 
 ## Status & Progress
 - **Status**: in progress

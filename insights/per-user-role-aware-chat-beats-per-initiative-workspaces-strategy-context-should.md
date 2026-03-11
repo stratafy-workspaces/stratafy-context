@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:49.234102+00:00
 ---
 
 # Per-user role-aware chat beats per-initiative workspaces — strategy context should be ambient

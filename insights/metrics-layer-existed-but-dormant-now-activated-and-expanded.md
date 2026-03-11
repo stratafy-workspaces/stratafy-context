@@ -4,9 +4,8 @@ type: insight
 source: stratafy_radar
 impactLevel: medium
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:32.502995+00:00
 ---
 
 # Metrics layer existed but dormant — now activated and expanded
@@ -22,7 +21,7 @@ Metrics infrastructure built but 0 metrics defined in own workspace — dogfoodi
 - **Category**: Uncategorized
 - **Impact**: medium
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 
 

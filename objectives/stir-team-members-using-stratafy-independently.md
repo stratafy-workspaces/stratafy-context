@@ -5,8 +5,6 @@ objectiveType: key_result
 status: active
 priority: high
 initiative: STIR Collective: First Customer Engagement
-lastUpdated: 2026-02-10T12:33:48.828373+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # STIR team members using Stratafy independently
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Track STIR team members actively using Stratafy without Leonard driving the session. This validates whether Stratafy works as an operating system (independent use) vs a consulting tool (requires Leonard). Target 3 independent users by end of April: ideally Thando (MD), Pieter Meyer (COO), and one department head.
 
 ## Hierarchy
-**Strategy**: [Product-Market Fit](../strategy/functional/product-market-fit.md)
+**Strategy**: [Product-Market Fit](../strategy/company/product-market-fit.md)
 **Initiative**: [STIR Collective: First Customer Engagement](../initiatives/stir-collective-first-customer-engagement.md)
 
 ## Objective Details

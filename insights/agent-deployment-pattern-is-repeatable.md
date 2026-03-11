@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:24.468902+00:00
 ---
 
 # Agent Deployment Pattern Is Repeatable

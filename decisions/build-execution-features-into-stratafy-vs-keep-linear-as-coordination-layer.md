@@ -3,7 +3,6 @@ id: cbe44c39-7500-4aa1-8575-2cdb7f1ef2d0
 type: decision
 decisionType: type_1_irreversible
 status: pending
-lastUpdated: 2026-02-27T16:56:22.753137+00:00
 ---
 
 # Build execution features into Stratafy vs keep Linear as coordination layer

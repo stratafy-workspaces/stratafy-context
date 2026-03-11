@@ -5,8 +5,6 @@ status: draft
 priority: high
 strategy: Fundraising Playbook
 completionPercentage: 0
-lastUpdated: 2026-02-20T15:15:57.327+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Seed Fundraise
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Raise $2-5M seed round to fund team expansion and go-to-market. Primary path: warm introduction to Sequoia Capital via Pieter de Villiers → Roelof Botha. Backup paths: a16z, YC networks.
 
 ## Parent Strategy
-[Fundraising Playbook](../strategy/functional/fundraising-playbook.md)
+[Fundraising Playbook](../strategy/financial/fundraising-playbook.md)
 
 ## Status & Progress
 - **Status**: draft

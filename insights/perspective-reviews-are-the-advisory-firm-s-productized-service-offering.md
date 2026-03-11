@@ -5,9 +5,8 @@ source: stratafy_chat
 category: customer
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:54.019025+00:00
 ---
 
 # Perspective Reviews are the advisory firm's productized service offering
@@ -39,7 +38,7 @@ For ScaleUp demo (Feb 23): Frame Perspective Reviews as "what your coaches could
 - **Category**: customer
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: advisory-firms, perspective-reviews, channel-strategy, scaleup-demo, revenue-model, stir
 

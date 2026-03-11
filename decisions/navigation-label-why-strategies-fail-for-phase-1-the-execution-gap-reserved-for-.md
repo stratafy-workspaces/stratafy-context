@@ -4,7 +4,6 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-02-15T09:44:30.674+00:00
-lastUpdated: 2026-02-27T16:56:23.1891+00:00
 ---
 
 # Navigation label: "Why Strategies Fail" for Phase 1, "The Execution Gap" reserved for Phase 2/3

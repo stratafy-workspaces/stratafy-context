@@ -4,7 +4,6 @@ type: decision
 decisionType: type_1_irreversible
 status: decided
 decidedAt: 2026-01-30T12:52:38.611+00:00
-lastUpdated: 2026-02-27T16:56:24.419354+00:00
 ---
 
 # Role-Aware Strategic Intelligence as Core Architecture

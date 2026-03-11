@@ -3,7 +3,6 @@ id: dade7525-879e-4d5c-9c2a-30ad07af55d7
 type: decision
 decisionType: type_2_reversible
 status: implemented
-lastUpdated: 2026-02-27T16:56:22.7517+00:00
 ---
 
 # Consolidate and operationalize AI Automation strategy

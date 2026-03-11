@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: medium
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:33.14413+00:00
 ---
 
 # Competitive positioning requires two distinct foils — general-purpose tools AND existing strategy software
@@ -31,7 +30,7 @@ This dual-foil positioning should be consistent across all materials: pitch deck
 - **Category**: product
 - **Impact**: medium
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: competitive-positioning, investor-narrative, cascade, quantive, strategy-software, context-layer
 

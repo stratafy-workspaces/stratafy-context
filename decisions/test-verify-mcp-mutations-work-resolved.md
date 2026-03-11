@@ -3,7 +3,6 @@ id: 2b3efb65-a37a-49a1-9083-3d48a4369bdd
 type: decision
 decisionType: type_2_reversible
 status: reviewed
-lastUpdated: 2026-02-27T16:56:24.133267+00:00
 ---
 
 # [TEST] Verify MCP mutations work — RESOLVED

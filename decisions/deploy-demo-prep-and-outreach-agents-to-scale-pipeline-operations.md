@@ -4,7 +4,6 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-02-08T09:05:35.949+00:00
-lastUpdated: 2026-02-27T16:56:24.693548+00:00
 ---
 
 # Deploy Demo Prep and Outreach agents to scale pipeline operations

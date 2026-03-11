@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:11.506977+00:00
 ---
 
 # Interface design: Five dimensions that adapt by role

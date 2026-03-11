@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-12T10:01:31.342159+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # [FUTURE] Strategic Learning Engine
@@ -28,7 +26,7 @@ DEPENDS ON: Decision Log, Assumptions, Insights, and Alignment Scan all being ac
 STATUS: Future — requires meaningful customer usage data before building.
 
 ## Parent Strategy
-[Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

@@ -8,7 +8,6 @@ impact: high
 riskScore: 6
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:45.762513+00:00
 ---
 
 # Complexity creep from attempting all 7 role interfaces simultaneously

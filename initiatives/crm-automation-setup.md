@@ -5,8 +5,6 @@ status: in_progress
 priority: high
 strategy: AI Leverage & Automation
 completionPercentage: 0
-lastUpdated: 2026-02-11T09:40:14.24+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # CRM Automation Setup
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Transform Attio from static database to AI-augmented CRM. Implement post-meeting note capture, automated next-action suggestions, pipeline stage recommendations, and weekly AI-powered pipeline reviews. First test of systematic AI automation in operations.
 
 ## Parent Strategy
-[AI Leverage & Automation](../strategy/functional/ai-leverage-automation.md)
+[AI Leverage & Automation](../strategy/technology/ai-leverage-automation.md)
 
 ## Status & Progress
 - **Status**: in progress

@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-01-26T13:12:33.437149+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Internal Sensing (Pulse)
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Add Pulse for internal health monitoring (progress tracking, execution drift detection) and basic Tactics layer (objectives, metrics). Complete the feedback loop with Radar.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: draft

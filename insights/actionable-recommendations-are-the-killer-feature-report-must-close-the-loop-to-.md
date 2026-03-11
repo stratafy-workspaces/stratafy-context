@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:54.628289+00:00
 ---
 
 # Actionable recommendations are the killer feature — report must close the loop to execution
@@ -23,7 +22,7 @@ When we generated the STIR alignment report with 10 prioritized recommendations,
 - **Category**: product
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: alignment-scan, product-insight, actionability, ux
 

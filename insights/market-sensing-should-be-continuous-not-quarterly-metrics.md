@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:30.972939+00:00
 ---
 
 # Market sensing should be continuous, not quarterly metrics

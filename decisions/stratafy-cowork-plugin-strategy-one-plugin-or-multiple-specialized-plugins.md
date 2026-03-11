@@ -4,7 +4,6 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-02-26T08:31:12.162+00:00
-lastUpdated: 2026-02-27T16:56:24.118957+00:00
 ---
 
 # Stratafy Cowork Plugin Strategy: One Plugin or Multiple Specialized Plugins?

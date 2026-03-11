@@ -5,7 +5,6 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: critical
 status: active
-lastUpdated: 2026-02-27T16:55:42.716342+00:00
 ---
 
 # Coaches will adopt agent-powered lead gen as core to their practice

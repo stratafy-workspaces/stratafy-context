@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:11.755971+00:00
 ---
 
 # Strategic Memory as Security Architecture

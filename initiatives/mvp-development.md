@@ -5,8 +5,6 @@ status: in_progress
 priority: critical
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-01-26T13:12:25.083217+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # MVP Development
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Build "Stratafy Lite" with core functionality—Strategy layer (define strategies, initiatives) and Radar (external monitoring for weekly insights). Use existing AI APIs for semantic matching and data ingestion.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: in progress

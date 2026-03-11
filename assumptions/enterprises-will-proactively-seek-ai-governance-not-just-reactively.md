@@ -5,7 +5,6 @@ confidence: likely
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-27T16:56:30.396561+00:00
 ---
 
 # Enterprises will proactively seek AI governance, not just reactively
@@ -22,4 +21,4 @@ Organisations deploying AI agents will recognise the need for strategic governan
 ## Validation
 - **Method**: Track whether prospects mention AI governance proactively or only after prompting. Monitor industry incidents where ungoverned AI caused business harm. Track regulatory developments (EU AI Act enforcement, enterprise compliance mandates) that could create pull.
 - **Validated At**: Not yet validated
-- **Evidence**: EU AI Act creating compliance pressure. Multiple high-profile AI incidents in 2025. Growing "responsible AI" budgets at enterprises. However, most companies still in experimental phase with agents — governance may feel premature to them. NEW (Feb 2026 Radar): 88% enterprise AI usage rate, 61% of healthcare leaders building agentic AI initiatives, Kyndryl reporting 70-80% failing to scale, Deloitte finding only 15% link AI to profitability. Consulting firms (Deloitte, McKinsey, Kearney) actively partnering on AI governance frameworks — suggesting proactive demand from at least the advisory layer. ServiceNow-Kearney partnership specifically targets governance. The proactive signal is strengthening from the advisory/consulting channel but unclear if end-enterprises are pulling or being pushed.
+- **Evidence**: UPDATED Feb 27, 2026: Governance demand is accelerating faster than expected. New evidence: (1) Singapore IMDA released Model AI Governance Framework for Agentic AI (Feb 22) — first government framework specifically targeting autonomous AI agents, (2) UC Berkeley published complementary academic standards, (3) WEF released governance guide, (4) Partnership on AI hosted governance forum (Feb 20), (5) Gartner predicts 40% of enterprise apps will include AI agents by year-end 2026 (up from 5%). The convergence of government, academic, and industry body attention means enterprise compliance teams will start asking about AI agent governance in procurement conversations. This is moving from forward-looking to imminent.

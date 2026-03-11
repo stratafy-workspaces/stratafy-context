@@ -5,9 +5,8 @@ source: execution_session
 category: market
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.04247+00:00
 ---
 
 # Corporate AI projects underdelivering — validates Stratafy thesis
@@ -23,7 +22,7 @@ Radar scan revealed that corporate AI projects are broadly underdelivering on ex
 - **Category**: market
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: end_of_day, market-signal, radar-scan, ai-adoption, investor-narrative, positioning
 

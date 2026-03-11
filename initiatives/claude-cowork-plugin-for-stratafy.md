@@ -5,8 +5,6 @@ status: draft
 priority: high
 strategy: Product Architecture
 completionPercentage: 0
-lastUpdated: 2026-02-25T06:39:18.493928+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Claude Cowork Plugin for Stratafy
@@ -31,7 +29,7 @@ Strategic value:
 Architecture: Plugin calls Stratafy API/MCP backend — all strategic data, context generation, and intelligence still flows through Stratafy platform. The plugin is a consumption surface, not a replacement.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

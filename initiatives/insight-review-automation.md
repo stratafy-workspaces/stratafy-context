@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-06T21:21:50.51812+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Insight Review Automation
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Productize the insight review and strategy feedback loop. Transform the manual process of reviewing pending insights and applying them to strategy into an automated, triggered, auditable product feature.
 
 ## Parent Strategy
-[Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

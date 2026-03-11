@@ -5,8 +5,6 @@ status: draft
 priority: high
 strategy: Product Architecture
 completionPercentage: 0
-lastUpdated: 2026-02-20T11:54:54.928646+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Strategic Coherence Scan
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Horizontal alignment scan that analyses all strategies in a workspace for coherence — detecting directional conflicts, resource tensions, reinforcement patterns, dependency gaps, and sequencing issues between strategies.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

@@ -5,8 +5,6 @@ objectiveType: key_result
 status: active
 priority: critical
 initiative: Strategic Alignment Suite
-lastUpdated: 2026-02-27T16:23:34.470784+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Cowork Plugin — workspace creation with Scaling Up artifacts
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Cowork plugin must be able to create a new workspace, populate it with Scaling Up methodology artifacts (BHAG, core values, brand promises, etc.), and provide a smooth conversational interface for building strategy. Critical for both the Brad Wilson demo (Tuesday) and Nicholas Thiede's continued engagement. This is the primary adoption interface for coaches.
 
 ## Hierarchy
-**Strategy**: [Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+**Strategy**: [Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 **Initiative**: [Strategic Alignment Suite](../initiatives/strategic-alignment-suite.md)
 
 ## Objective Details

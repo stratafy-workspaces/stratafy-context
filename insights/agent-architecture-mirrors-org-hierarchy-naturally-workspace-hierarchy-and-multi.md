@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:54.239884+00:00
 ---
 
 # Agent architecture mirrors org hierarchy naturally — workspace hierarchy and multi-workspace access are critical blockers for VC and advisory channels

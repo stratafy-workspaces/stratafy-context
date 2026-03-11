@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:11.332398+00:00
 ---
 
 # Velocity vs Speed distinction — direction makes the difference

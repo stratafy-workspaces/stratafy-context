@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Category Creation
 completionPercentage: 0
-lastUpdated: 2026-02-01T10:44:40.881983+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # AI Operations Stack Methodology
@@ -65,7 +63,7 @@ VALIDATION:
 - Formalize only after real-world validation
 
 ## Parent Strategy
-[Category Creation](../strategy/functional/category-creation.md)
+[Category Creation](../strategy/go-to-market/category-creation.md)
 
 ## Status & Progress
 - **Status**: draft

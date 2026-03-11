@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Product Architecture
 completionPercentage: 0
-lastUpdated: 2026-02-25T12:13:56.888095+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # AI Tool Governance Layer
@@ -21,7 +19,7 @@ Technical feasibility validated — Cloudflare, Azure, AWS all have programmatic
 Phase 1 (Now–Q2 2026): Narrative seeding + Cloudflare PoC for investor demos. Phase 2 (Q3-Q4 2026): Productize with multi-platform integrations. Phase 3 (Q1-Q2 2027): Enterprise positioning.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

@@ -1,9 +1,9 @@
 ---
 type: strategy-overview
-totalStrategies: 26
-totalInitiatives: 73
-totalObjectives: 30
-lastUpdated: 2026-02-27T17:00:52.552Z
+totalStrategies: 29
+totalInitiatives: 79
+totalObjectives: 33
+lastUpdated: 2026-03-11T11:57:43.599Z
 ---
 
 # Strategy Overview
@@ -12,19 +12,16 @@ lastUpdated: 2026-02-27T17:00:52.552Z
 
 - 📈 **Category Leadership** (active)
 
-- 📈 **Market Entry Strategy** (archived)
-
-- 📈 **Global Expansion Strategy** (archived)
-
-- 📈 **Capital Strategy** (archived)
-
 ## Strategy Types
 
-- **functional**: 22 strategies
-- **corporate**: 4 strategies
+- **product**: 8 strategies
+- **go-to-market**: 15 strategies
+- **financial**: 2 strategies
+- **corporate**: 1 strategies
+- **company**: 1 strategies
+- **technology**: 1 strategies
+- **team**: 1 strategies
 
 ## Status Summary
 
-- **active**: 21 strategies
-- **archived**: 4 strategies
-- **draft**: 1 strategies
+- **active**: 29 strategies

@@ -5,7 +5,6 @@ confidence: likely
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-27T16:55:43.570502+00:00
 ---
 
 # Context transfer bottleneck framing resonates more than "execution gap" with investors

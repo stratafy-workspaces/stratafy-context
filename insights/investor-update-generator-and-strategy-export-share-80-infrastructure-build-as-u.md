@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.257689+00:00
 ---
 
 # Investor Update Generator and Strategy Export share 80% infrastructure — build as unified document generation engine

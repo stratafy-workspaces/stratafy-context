@@ -4,7 +4,6 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-02-10T11:36:32.97+00:00
-lastUpdated: 2026-02-27T16:56:22.874162+00:00
 ---
 
 # STIR Collective tooling stack: Stratafy + Linear + Claude MCP

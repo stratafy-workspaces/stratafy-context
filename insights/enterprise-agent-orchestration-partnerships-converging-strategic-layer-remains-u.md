@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:48.498199+00:00
 ---
 
 # Enterprise agent orchestration partnerships converging — strategic layer remains unoccupied

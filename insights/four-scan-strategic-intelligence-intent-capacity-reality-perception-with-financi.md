@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.254634+00:00
 ---
 
 # Four-Scan Strategic Intelligence (Intent + Capacity + Reality + Perception) with financial alignment as cross-scan dimension

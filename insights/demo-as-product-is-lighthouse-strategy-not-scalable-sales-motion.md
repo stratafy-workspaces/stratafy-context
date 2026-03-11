@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:34.885935+00:00
 ---
 
 # Demo-as-product is lighthouse strategy, not scalable sales motion

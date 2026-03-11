@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:30.548124+00:00
 ---
 
 # Journey documentation created — raw material for meta-case-study accumulating

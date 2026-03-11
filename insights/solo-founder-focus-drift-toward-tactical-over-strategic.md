@@ -5,9 +5,8 @@ source: execution_session
 category: operational
 impactLevel: medium
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:54.383515+00:00
 ---
 
 # Solo founder focus drift toward tactical over strategic
@@ -23,7 +22,7 @@ Noticing a pattern of getting pulled into tactical execution at the expense of h
 - **Category**: operational
 - **Impact**: medium
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: end_of_day, focus, founder-capacity, prioritization
 

@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:58:08.439539+00:00
 ---
 
 # Agentic AI Becomes Table Stakes

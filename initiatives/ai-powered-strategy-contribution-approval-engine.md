@@ -5,8 +5,6 @@ status: draft
 priority: high
 strategy: Product Architecture
 completionPercentage: 0
-lastUpdated: 2026-02-21T06:42:01.216669+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # AI-Powered Strategy Contribution & Approval Engine
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Transform strategy consumption from passive reading into active, AI-mediated contribution. Anyone interacting with strategy can suggest changes, raise questions, or propose enhancements. Stratafy's AI analyzes every incoming signal against the full strategic context and produces concrete, implementable change proposals — specific element modifications, impact analysis, conflict detection, and confidence scoring — before a human ever sees them. Strategy leads process a pre-analyzed approval queue, not raw feedback. Accept-all applies changes atomically in one click. The flywheel: better context → better AI analysis → more contributions → richer context. This is the feature that makes the structured strategy graph visible as a moat — impossible to replicate with Notion + ChatGPT.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

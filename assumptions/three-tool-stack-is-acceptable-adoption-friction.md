@@ -5,7 +5,6 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-27T16:55:42.489488+00:00
 ---
 
 # Three-tool stack is acceptable adoption friction

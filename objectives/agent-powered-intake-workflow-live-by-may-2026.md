@@ -5,8 +5,6 @@ objectiveType: milestone
 status: active
 priority: high
 initiative: Global Coach Network & Directory
-lastUpdated: 2026-02-22T09:28:24.611755+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Agent-powered intake workflow live by May 2026
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Agent intake workflow live and processing real leads — prospects submit URL, agent researches, workspace gets created, coach gets notified with pre-built context.
 
 ## Hierarchy
-**Strategy**: [Methodology Network GTM](../strategy/functional/methodology-network-gtm.md)
+**Strategy**: [Coach Network GTM](../strategy/go-to-market/coach-network-gtm.md)
 **Initiative**: [Global Coach Network & Directory](../initiatives/global-coach-network-directory.md)
 
 ## Objective Details

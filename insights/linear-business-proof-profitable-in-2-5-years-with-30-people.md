@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: proven
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:23.350614+00:00
 ---
 
 # Linear business proof — profitable in 2.5 years with <30 people

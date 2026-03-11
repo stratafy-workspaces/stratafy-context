@@ -3,22 +3,20 @@ id: ef5c4824-91c2-48cc-845e-71262d313b48
 type: metric
 name: Lighthouse Pipeline Size
 category: Pipeline
-unit: prospects
+unit: count
 frequency: weekly
-currentValue: 3
-lastUpdated: 2026-02-20T12:50:46.569+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
+currentValue: 11
 ---
 
 # Lighthouse Pipeline Size
 
 ## Description
-Total qualified prospects in Attio CRM pipeline. Target 8-10 by end of February.
+Qualified prospects in Attio CRM. Target raised from 10 (exceeded at 11) to 20. Pipeline depth needed to sustain conversion funnel through seed round window.
 
 ## Current Performance
-- **Latest Value**: 3 prospects
+- **Latest Value**: 11 count
 - **Category**: Pipeline
-- **Unit**: prospects
+- **Unit**: count
 
 ## Targets & Goals
 No targets defined

@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-01-27T00:14:45.65871+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Strategic Advisor Workflow Documentation
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Document the 5-step Strategic Advisor workflow as core product training material. This is the repeatable pattern that delivers 2-3 days of work in 2 hours: (1) Express fuzzy intent, (2) AI structures and challenges, (3) AI writes to system via MCP, (4) Iterate together, (5) Done. Create customer-facing guide, internal training doc, and demo script. This workflow is the primary value hook — customers need to learn it, sales needs to demo it.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: draft

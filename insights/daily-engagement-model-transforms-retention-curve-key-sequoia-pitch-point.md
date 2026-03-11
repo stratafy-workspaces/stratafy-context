@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:48.550575+00:00
 ---
 
 # Daily engagement model transforms retention curve — key Sequoia pitch point

@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:09.10308+00:00
 ---
 
 # Concrete beats abstract — strategies need names, events, and deadlines

@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: proven
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:24.587012+00:00
 ---
 
 # Sequoia internal revolt story — their own teams wrote memo to keep Linear

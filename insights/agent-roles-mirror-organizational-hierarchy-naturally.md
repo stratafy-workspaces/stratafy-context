@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.470829+00:00
 ---
 
 # Agent roles mirror organizational hierarchy naturally

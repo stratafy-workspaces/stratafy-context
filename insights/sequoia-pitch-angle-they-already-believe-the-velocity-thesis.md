@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:23.345174+00:00
 ---
 
 # Sequoia pitch angle — they already believe the velocity thesis

@@ -8,7 +8,6 @@ impact: high
 riskScore: 6
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:43.821696+00:00
 ---
 
 # Enterprise agent platforms moving up-stack into strategic context

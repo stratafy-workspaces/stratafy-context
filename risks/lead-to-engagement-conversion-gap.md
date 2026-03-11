@@ -8,7 +8,6 @@ impact: high
 riskScore: 9
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:44.627379+00:00
 ---
 
 # Lead-to-Engagement Conversion Gap

@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:28.630783+00:00
 ---
 
 # Integration Ecosystem as Defensive Moat

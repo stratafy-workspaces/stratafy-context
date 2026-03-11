@@ -5,8 +5,6 @@ status: draft
 priority: low
 strategy: Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-12T10:02:36.405005+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # [FUTURE] Cultural & Values Coherence Sensing
@@ -37,7 +35,7 @@ STATUS: Future — depends on sufficient behavioral data across decisions, insig
 ARCHITECTURE: Cortex layer. Cross-references foundation elements against behavioral data from decisions, insights, execution sessions, and organigram.
 
 ## Parent Strategy
-[Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

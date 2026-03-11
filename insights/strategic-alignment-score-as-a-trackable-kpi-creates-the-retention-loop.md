@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:54.670784+00:00
 ---
 
 # Strategic Alignment Score as a trackable KPI creates the retention loop
@@ -23,7 +22,7 @@ The STIR report tracks an overall score of 8.2/10 across 7 strategies. When reco
 - **Category**: product
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: alignment-scan, retention, kpi, product-insight
 

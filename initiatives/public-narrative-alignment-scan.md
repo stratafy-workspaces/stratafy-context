@@ -5,8 +5,6 @@ status: draft
 priority: high
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-02-09T09:12:43.976244+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Public Narrative Alignment Scan
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Build a scan that constructs perceived strategy from public sources (website, LinkedIn, job postings, press) and compares against actual strategy in workspace. The gap between public narrative and strategic reality is a high-value finding that works as demo opener, paid deliverable, and ongoing monitoring.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: draft

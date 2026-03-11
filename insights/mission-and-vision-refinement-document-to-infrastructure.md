@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:25.196617+00:00
 ---
 
 # Mission and Vision Refinement: Document to Infrastructure

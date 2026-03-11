@@ -5,8 +5,6 @@ status: in_progress
 priority: high
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-02-08T10:24:55.349+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Customer Onboarding Experience
@@ -44,7 +42,7 @@ Governance view. Alignment scores, risks, decisions, radar. Interface tone.
 **ACTIVATION:** MCP slash command prompts. One mechanism, role-adapted experiences.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: in progress

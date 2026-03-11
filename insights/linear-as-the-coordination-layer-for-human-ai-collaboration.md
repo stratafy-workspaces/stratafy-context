@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:31.491348+00:00
 ---
 
 # Linear as the coordination layer for human-AI collaboration

@@ -5,9 +5,8 @@ source: stratafy_chat
 category: strategic
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:34.344265+00:00
 ---
 
 # Stratafy embeds invisibly in coach pricing — the "Salesforce-through-consultants" distribution model works
@@ -23,7 +22,7 @@ The proposal naturally positioned Stratafy as the ongoing coaching infrastructur
 - **Category**: strategic
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: business-model, distribution, pricing, coach-network, retention, go-to-market
 

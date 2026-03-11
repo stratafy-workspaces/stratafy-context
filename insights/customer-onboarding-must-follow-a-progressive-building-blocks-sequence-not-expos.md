@@ -5,9 +5,8 @@ source: stratafy_chat
 category: customer
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:33.13616+00:00
 ---
 
 # Customer onboarding must follow a progressive building blocks sequence, not expose full vision
@@ -35,7 +34,7 @@ Critical discipline: don't show the full vision document to customers. Show them
 - **Category**: customer
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: stir-engagement, onboarding, building-blocks, customer-journey, progressive-disclosure, product-validation
 

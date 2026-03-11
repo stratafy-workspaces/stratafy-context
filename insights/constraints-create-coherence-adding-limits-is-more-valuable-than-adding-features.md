@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:34.335062+00:00
 ---
 
 # Constraints create coherence — adding limits is more valuable than adding features

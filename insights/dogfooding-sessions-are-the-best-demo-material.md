@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:35.726298+00:00
 ---
 
 # Dogfooding sessions are the best demo material

@@ -3,29 +3,17 @@ id: 2b9aec39-2e17-40f8-ac13-ea828d0db96b
 type: initiative
 status: draft
 priority: high
-strategy: Methodology Network GTM
+strategy: Coach Network GTM
 completionPercentage: 0
-lastUpdated: 2026-02-22T09:46:19.048+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Global Coach Network & Directory
 
 ## Description
-Build a global directory of certified strategy coaches (Scaling Up, EOS, OKR, 4DX) as Stratafy's primary distribution channel. Not a passive listing — an AI-powered lead generation and sales enablement engine.
-
-CORE MODEL: Each coach gets a rich public profile showcasing expertise, certifications, and outcomes. Each profile has an intelligent intake form where prospects enter their email/URL. An AI agent then: researches the company, identifies pain points, creates a base Stratafy workspace scaffolded with methodology-relevant structure, and sends a pre-researched lead brief to the matched coach. The coach walks into the first call with a demo-ready workspace — collapsing the sales cycle from weeks to days.
-
-CITY-BASED FOMO MECHANICS: Limited founding spots per metro (2-3 coaches per city). Public directory map shows claimed vs open cities. Founding Partner status with permanent benefits (badge, locked pricing, priority placement, co-development input). Outreach: "We're expanding to [city] and looking for founding partners. We already have interest from coaches in your area."
-
-AGENT INTAKE WORKFLOW: Prospect submits URL → agent researches company → creates base workspace with methodology scaffolding → compiles lead brief → coach gets notification with workspace link → first call is already a strategic conversation.
-
-PHASING: Phase 1 (Mar-Apr): Directory infrastructure + 10 founding coaches from warm network. Phase 2 (May-Jun): Agent intake live, city-by-city outreach to 10-15 cities. Phase 3 (Jul-Aug): Scale to 50+ coaches, 20+ cities, launch premium tier.
-
-REVENUE: Coach membership fee (free tier for seeding, premium for enhanced profile + analytics). Client workspace subscriptions with coach revenue share. Agent lead research as premium feature.
+Build a global directory of certified strategy coaches as Stratafy's primary distribution channel — an AI-powered lead generation and sales enablement engine, not a passive listing.
 
 ## Parent Strategy
-[Methodology Network GTM](../strategy/functional/methodology-network-gtm.md)
+[Coach Network GTM](../strategy/go-to-market/coach-network-gtm.md)
 
 ## Status & Progress
 - **Status**: draft
@@ -33,10 +21,10 @@ REVENUE: Coach membership fee (free tier for seeding, premium for enhanced profi
 - **Completion**: 0%
 
 ## Key Objectives
-- [10 founding coaches onboarded by April 2026](../objectives/10-founding-coaches-onboarded-by-april-2026.md)
-- [Agent-powered intake workflow live by May 2026](../objectives/agent-powered-intake-workflow-live-by-may-2026.md)
-- [50+ coaches across 20+ cities by August 2026](../objectives/50-coaches-across-20-cities-by-august-2026.md)
 - [5+ coaching engagements sourced through directory by August 2026](../objectives/5-coaching-engagements-sourced-through-directory-by-august-2026.md)
+- [50+ coaches across 20+ cities by August 2026](../objectives/50-coaches-across-20-cities-by-august-2026.md)
+- [Agent-powered intake workflow live by May 2026](../objectives/agent-powered-intake-workflow-live-by-may-2026.md)
+- [10 founding coaches onboarded by April 2026](../objectives/10-founding-coaches-onboarded-by-april-2026.md)
 
 ## Timeline
 - **Start Date**: 2026-03-01

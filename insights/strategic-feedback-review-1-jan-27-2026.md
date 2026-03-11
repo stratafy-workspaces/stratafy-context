@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: false
-lastUpdated: 2026-02-27T16:58:30.986746+00:00
 ---
 
 # Strategic Feedback Review #1 — Jan 27, 2026

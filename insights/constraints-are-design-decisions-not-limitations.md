@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:30.141951+00:00
 ---
 
 # Constraints Are Design Decisions, Not Limitations

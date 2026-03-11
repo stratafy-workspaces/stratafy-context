@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.762181+00:00
 ---
 
 # Feedback loop needs productization — triggers, templates, UI

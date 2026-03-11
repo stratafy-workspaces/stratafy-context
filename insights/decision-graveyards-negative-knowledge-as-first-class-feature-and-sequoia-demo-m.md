@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:49.486262+00:00
 ---
 
 # Decision Graveyards: negative knowledge as first-class feature and Sequoia demo moment

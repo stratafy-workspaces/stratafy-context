@@ -5,8 +5,6 @@ status: in_progress
 priority: high
 strategy: Role-Aware Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-20T12:30:01.411+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Agent Registry & Context Packaging
@@ -25,7 +23,7 @@ Context profiles for internal roles define which resolution level and which arch
 Resolution is not a quality judgment — minimal is not inferior to full. It is the right amount of context for the consumer that needs it. The discipline is matching resolution to need.
 
 ## Parent Strategy
-[Role-Aware Strategic Intelligence](../strategy/functional/role-aware-strategic-intelligence.md)
+[Role-Aware Strategic Intelligence](../strategy/product/role-aware-strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: in progress

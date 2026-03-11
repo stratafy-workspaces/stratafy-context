@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:30.105771+00:00
 ---
 
 # Stratafy as Customer Zero — Internal Validation Complete

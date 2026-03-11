@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:24.678854+00:00
 ---
 
 # The AI Operations Stack Is a Teachable Framework

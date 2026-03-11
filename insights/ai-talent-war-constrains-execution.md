@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:58:08.465199+00:00
 ---
 
 # AI Talent War Constrains Execution

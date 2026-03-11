@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:11.05252+00:00
 ---
 
 # Feedback loop insight: Role-aware interfaces multiply sensing surface area

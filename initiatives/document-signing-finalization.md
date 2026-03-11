@@ -5,8 +5,6 @@ status: draft
 priority: low
 strategy: Product Architecture
 completionPercentage: 0
-lastUpdated: 2026-02-22T09:16:58.999392+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Document Signing & Finalization
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Native document signing infrastructure enabling markdown documents to be finalized, cryptographically hashed, and legally signed within Stratafy. Eliminates need for PDF conversion or external e-signature tools for standard commercial contracts.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

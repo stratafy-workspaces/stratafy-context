@@ -3,7 +3,6 @@ id: 6277be6c-47c9-4544-a04f-3de2a6e16aac
 type: decision
 decisionType: type_1_irreversible
 status: pending
-lastUpdated: 2026-02-27T16:56:23.712063+00:00
 ---
 
 # Multi-platform AI client support: ChatGPT, Gemini, and beyond MCP
@@ -21,7 +20,7 @@ The decision is whether Stratafy should remain **Claude/MCP-only** or invest in 
 - **Decided At**: Not yet decided
 
 ## Context
-MCP is Anthropic's open protocol — currently supported by Claude, Cursor, and some IDE clients but not ChatGPT or Gemini. Stratafy's entire conversational strategy layer is built on MCP. Real customer friction identified: Viridis AFC founder needs Claude Pro ($20/mo) or technical JSON config to access Stratafy. OpenAI offers GPT Actions (REST-based) and ChatGPT plugins as alternative integration paths. Building multi-platform support would require maintaining separate integration layers but would remove a significant adoption barrier.
+UPDATED Feb 27, 2026: Anthropic's Cowork expansion (Feb 26) with enterprise plugins, private marketplaces, and 12 new connectors strongly reinforces MCP-first approach. The platform is investing heavily in exactly the ecosystem we're building for. However, OpenAI's Big 4 consulting partnerships (Feb 23) introduce a monitoring trigger: if advisory firm prospects cite ChatGPT/OpenAI preference as blocker, we may need to revisit. For now, MCP-first is the right call — Cowork is becoming the enterprise AI desktop. Monitor for OpenAI preference signals from prospects.
 
 ## Research
 ## Alternatives Explored

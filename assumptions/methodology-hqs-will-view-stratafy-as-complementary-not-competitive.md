@@ -5,7 +5,6 @@ confidence: hypothesis
 assumptionType: strategic
 impactIfWrong: critical
 status: active
-lastUpdated: 2026-02-27T16:56:30.371937+00:00
 ---
 
 # Methodology HQs will view Stratafy as complementary, not competitive

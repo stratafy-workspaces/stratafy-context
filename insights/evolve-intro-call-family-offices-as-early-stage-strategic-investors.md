@@ -5,9 +5,8 @@ source: stratafy_chat
 category: market
 impactLevel: medium
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:33.227152+00:00
 ---
 
 # Evolve intro call: family offices as early-stage strategic investors
@@ -23,7 +22,7 @@ Evolve's Carl highlighted family offices as ideal seed-stage investors due to pa
 - **Category**: market
 - **Impact**: medium
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: evolve, fundraising, family-offices, portfolio-visibility
 

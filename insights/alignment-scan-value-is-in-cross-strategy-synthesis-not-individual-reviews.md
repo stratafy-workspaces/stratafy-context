@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.726067+00:00
 ---
 
 # Alignment scan value is in cross-strategy synthesis, not individual reviews
@@ -23,7 +22,7 @@ During the STIR Collective engagement, we ran 7 individual alignment scans (one 
 - **Category**: product
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: alignment-scan, product-insight, stir-engagement, synthesis
 

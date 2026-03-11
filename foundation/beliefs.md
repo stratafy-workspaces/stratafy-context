@@ -1,7 +1,7 @@
 ---
 type: beliefs
-count: 29
-lastUpdated: 2026-02-27T17:00:52.552Z
+count: 32
+lastUpdated: 2026-03-11T11:57:43.599Z
 ---
 
 # Core Beliefs
@@ -21,6 +21,40 @@ The best-performing companies (Linear, Ramp, Tesla) treat velocity as existentia
 ## The execution gap is structural, not behavioral
 
 The problem isn't that people don't try hard enough. The problem is that strategy lives in formats (documents, slides, annual plans) that can't interface with execution systems. No amount of discipline fixes a structural mismatch.
+
+## The workspace is the pitch deck
+
+When strategy is kept alive in a structured, queryable system, it becomes the source material for every audience-facing narrative — investor pitch, customer demo, partner proposal, team alignment. The same underlying strategy, told differently for each audience, without drift between what you say and what you're actually doing.
+
+This has a compounding effect: the more complete and current the workspace, the better every presentation becomes. It creates a direct incentive to maintain strategy as living infrastructure rather than a periodic artifact — because your sales material, your pitch deck, and your board update are all generated from the same source of truth.
+
+The implication for product design: audience modes are not a presentation feature layered on top of strategy. They are the natural output of a well-maintained strategic operating system. The demo IS the product, and the product IS the demo.
+
+## The strategy environment and the strategy tool should be the same thing
+
+Every time a strategist leaves their strategy tool to think, write, present, or review — they create a gap. The thinking that happened in the conversation doesn't automatically update the system. The presentation they built diverges from the workspace. The review notes live in a doc somewhere, disconnected from the decisions they should have triggered.
+
+The correct model is not a better strategy database, or a smarter presentation tool, or a more powerful AI assistant. It's a single environment where all of these are the same act. You think in Stratafy. The AI knows your context because it's already there. The work lands in the workspace because there's nowhere else for it to go. When you're ready to present, you're already in the right place — select your audience and walk.
+
+This is not about feature completeness. It's about eliminating the category of "transferring strategy between tools." When that category disappears, drift disappears with it. What you say in the room is what's in the system, because the room is the system.
+
+## Strategy should emerge from conversation, not data entry
+
+The dominant model for strategy tools is input-first: you bring your thinking, you populate the fields, the tool organises it. This is the wrong model for an AI-native product.
+
+The correct model: you talk, the agent builds, the agent presents. The thinking happens in the conversation. The workspace is the output. You come in with a problem and a context; you leave with a strategy — structured, stored, and already narrated back to you.
+
+This belief has three implications:
+
+1. The primary interface is a conversation, not a form or a tree. The agent asks the right questions in the right order. Every answer becomes a node in the workspace.
+
+2. Building is a background process that happens while you talk, not a separate step after. The workspace is live before the conversation ends.
+
+3. The completion of a build session is a presentation, not a dashboard. The agent walks you through what it built — in Story Mode, with talk track, with audience mode selected. The session ends with the client having experienced their own strategy, not just having been handed a tool to navigate.
+
+The user experience this creates: "I talked for 20 minutes and now I have a strategy. And it just showed it back to me."
+
+This is what separates Stratafy from every strategy tool that came before it — and from every AI tool that treats strategy as a document to generate rather than an operating environment to inhabit.
 
 ## Scaling is Systemic, Not Heroic
 

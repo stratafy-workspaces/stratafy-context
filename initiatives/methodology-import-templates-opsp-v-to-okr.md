@@ -3,19 +3,17 @@ id: 27aa41fb-b17e-4aa7-a8e9-c902a7ba5a31
 type: initiative
 status: draft
 priority: high
-strategy: Methodology Network GTM
+strategy: Coach Network GTM
 completionPercentage: 0
-lastUpdated: 2026-02-09T05:30:00.009572+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Methodology Import Templates (OPSP, V/TO, OKR)
 
 ## Description
-Build methodology-specific onboarding templates that auto-import existing artifacts into the Stratafy strategy tree. Phase 1: Scaling Up OPSP → Foundation (values, purpose, BHAG) + Strategy Tree (key thrusts) + Initiatives (rocks) + Metrics (KPIs). Phase 2: EOS V/TO → Foundation (core values, core focus, 10-year target) + Strategy Tree + Initiatives (rocks) + Metrics (scorecard). Phase 3: OKR spreadsheet → Objectives + Key Results + Strategy linkage. Each template reduces onboarding from hours of manual entry to minutes of structured import. This is the adoption unlock that prevents the Phase 2 stall — users see their existing strategy in Stratafy immediately, then discover intelligence layers incrementally.
+Methodology-specific onboarding templates that auto-import existing artifacts (OPSP, V/TO, OKR spreadsheets) into the Stratafy strategy tree — reducing onboarding from hours to minutes.
 
 ## Parent Strategy
-[Methodology Network GTM](../strategy/functional/methodology-network-gtm.md)
+[Coach Network GTM](../strategy/go-to-market/coach-network-gtm.md)
 
 ## Status & Progress
 - **Status**: draft
@@ -30,4 +28,18 @@ No objectives defined
 - **Target Date**: 2026-04-30
 
 ## Content
-No content available
+## Purpose
+
+Build methodology-specific onboarding templates that auto-import existing strategy artifacts into the Stratafy strategy tree. This is the adoption unlock that prevents the Phase 2 stall — users see their existing strategy in Stratafy immediately, then discover intelligence layers incrementally.
+
+## Import Mappings
+
+**Phase 1: Scaling Up OPSP** — Foundation (values, purpose, BHAG) → Strategy Tree (key thrusts) → Initiatives (rocks) → Metrics (KPIs).
+
+**Phase 2: EOS V/TO** — Foundation (core values, core focus, 10-year target) → Strategy Tree → Initiatives (rocks) → Metrics (scorecard).
+
+**Phase 3: OKR Spreadsheet** — Objectives → Key Results → Strategy linkage.
+
+## Impact
+
+Each template reduces onboarding from hours of manual entry to minutes of structured import. Users see their familiar methodology artifacts reflected in Stratafy's structure, lowering the cognitive barrier to adoption.

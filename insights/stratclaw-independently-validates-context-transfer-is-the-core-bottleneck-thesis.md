@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:58:35.26807+00:00
 ---
 
 # StratClaw independently validates "context transfer is the core bottleneck" thesis

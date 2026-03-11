@@ -4,7 +4,6 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-02-08T10:24:38.89+00:00
-lastUpdated: 2026-02-27T16:56:23.207849+00:00
 ---
 
 # Customer Engagement Model: Demo → Paid Alignment → Report → Ongoing

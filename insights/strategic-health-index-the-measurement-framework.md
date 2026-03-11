@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:32.082875+00:00
 ---
 
 # Strategic Health Index: The Measurement Framework

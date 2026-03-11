@@ -8,7 +8,6 @@ impact: medium
 riskScore: 4
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:45.433722+00:00
 ---
 
 # Energy/compute constraints redirect or slow enterprise AI adoption

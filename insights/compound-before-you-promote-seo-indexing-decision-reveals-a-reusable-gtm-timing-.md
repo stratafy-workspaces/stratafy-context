@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: medium
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:33.392355+00:00
 ---
 
 # Compound before you promote — SEO indexing decision reveals a reusable GTM timing pattern
@@ -31,7 +30,7 @@ In each case, the pattern is: start the compounding loop early, let it run in th
 - **Category**: product
 - **Impact**: medium
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: go-to-market, seo-strategy, cold-start-moat, timing, compound-before-promote
 

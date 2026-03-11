@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:49.521365+00:00
 ---
 
 # STIR's Sharif Baker holds triple industry chairmanship

@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:56:29.428464+00:00
 ---
 
 # Lead with outcomes, not infrastructure

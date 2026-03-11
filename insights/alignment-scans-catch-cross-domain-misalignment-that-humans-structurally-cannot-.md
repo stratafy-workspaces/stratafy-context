@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.685167+00:00
 ---
 
 # Alignment scans catch cross-domain misalignment that humans structurally cannot — this is the defensible AI-native moat
@@ -31,7 +30,7 @@ This is the "AI-native advantage" we keep talking about — it's not just faster
 - **Category**: product
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: AI-native, moat, alignment-scan, Sequoia-pitch, competitive-advantage
 

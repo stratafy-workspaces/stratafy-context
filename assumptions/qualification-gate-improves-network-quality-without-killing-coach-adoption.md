@@ -5,7 +5,6 @@ confidence: hypothesis
 assumptionType: operational
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-27T16:55:43.219221+00:00
 ---
 
 # Qualification gate improves network quality without killing coach adoption

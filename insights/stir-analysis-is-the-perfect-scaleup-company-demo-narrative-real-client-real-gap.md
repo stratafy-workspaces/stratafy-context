@@ -5,9 +5,8 @@ source: stratafy_chat
 category: market
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:58:48.059348+00:00
 ---
 
 # STIR analysis is the perfect ScaleUp Company demo narrative — real client, real gaps, real proposal
@@ -23,7 +22,7 @@ The ScaleUp Company demo is scheduled for today (Feb 23). What just happened in 
 - **Category**: market
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: scaleup-company, demo, sales, coach-network, stir-collective
 

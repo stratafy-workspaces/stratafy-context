@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.032042+00:00
 ---
 
 # Aligned AI Deal Workspace validates Stratafy's core architecture patterns

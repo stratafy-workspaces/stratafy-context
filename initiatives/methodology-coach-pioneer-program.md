@@ -3,19 +3,17 @@ id: d1614bee-d3cc-4709-a9ee-73b16031ddab
 type: initiative
 status: draft
 priority: high
-strategy: Methodology Network GTM
+strategy: Coach Network GTM
 completionPercentage: 0
-lastUpdated: 2026-02-09T05:29:47.567877+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Methodology Coach Pioneer Program
 
 ## Description
-Recruit 5-8 coaches across 2-3 methodology networks (Scaling Up, EOS, and one other) as founding partners. Leverage Leonard's warm relationships. Offer: free platform access, co-development input on coach features, portfolio analytics dashboard, branded client reports, and 'Certified Stratafy Advisor' designation. Ask: use Stratafy with 2-3 clients each, provide weekly feedback, permission to reference as early adopters. This creates 10-24 client deployments through 5-8 coach relationships — the channel multiplier in action.
+Recruit 5-8 founding coaches across 2-3 methodology networks as early partners — leveraging Leonard's warm relationships for the channel multiplier proof point.
 
 ## Parent Strategy
-[Methodology Network GTM](../strategy/functional/methodology-network-gtm.md)
+[Coach Network GTM](../strategy/go-to-market/coach-network-gtm.md)
 
 ## Status & Progress
 - **Status**: draft
@@ -30,4 +28,18 @@ No objectives defined
 - **Target Date**: 2026-05-31
 
 ## Content
-No content available
+## Purpose
+
+Recruit 5-8 coaches across 2-3 methodology networks (Scaling Up, EOS, and one other) as founding partners. This creates 10-24 client deployments through 5-8 coach relationships — the channel multiplier in action.
+
+## What We Offer
+
+Free platform access during pioneer period, co-development input on coach features, portfolio analytics dashboard, branded client reports, and "Certified Stratafy Advisor" designation.
+
+## What We Ask
+
+Use Stratafy with 2-3 clients each, provide weekly feedback, permission to reference as early adopters.
+
+## Key Advantage
+
+Leverage Leonard's warm relationships across Scaling Up and other methodology networks. This is a warm outreach play, not cold prospecting.

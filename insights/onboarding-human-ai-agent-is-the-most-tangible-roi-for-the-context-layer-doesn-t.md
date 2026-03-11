@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:32.732631+00:00
 ---
 
 # Onboarding (human + AI agent) is the most tangible ROI for the context layer — doesn't require full thesis buy-in
@@ -33,7 +32,7 @@ For investor conversations: "Our customers reduce new hire time-to-productivity 
 - **Category**: product
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: onboarding, time-to-productivity, roi, context-layer, stir-engagement, investor-metrics
 

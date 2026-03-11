@@ -5,7 +5,6 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-27T16:56:29.933756+00:00
 ---
 
 # VCs will deploy strategic tooling across their portfolios

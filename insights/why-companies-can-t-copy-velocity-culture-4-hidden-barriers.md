@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:23.287092+00:00
 ---
 
 # Why companies can't copy velocity culture — 4 hidden barriers

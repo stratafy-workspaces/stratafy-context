@@ -5,18 +5,16 @@ name: Articles Published
 category: Content
 unit: articles
 frequency: weekly
-currentValue: 26
-lastUpdated: 2026-02-26T07:12:24.14+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
+currentValue: 29
 ---
 
 # Articles Published
 
 ## Description
-Published articles on stratafy.ai blog. Content strategy for thought leadership and inbound.
+Published articles on stratafy.ai blog. Content strategy for thought leadership and inbound. Pillar audit (Feb 27): 7 pillars — Execution Gap (5), AI Governance (7), AI Tools (4), Stage-Specific (2), Decision Velocity (3), Compounding (2), MCP/Technical (2). Gaps: case studies, implementation guides, competitive comparisons.
 
 ## Current Performance
-- **Latest Value**: 26 articles
+- **Latest Value**: 29 articles
 - **Category**: Content
 - **Unit**: articles
 

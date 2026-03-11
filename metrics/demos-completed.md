@@ -5,18 +5,16 @@ name: Demos Completed
 category: Pipeline
 unit: demos
 frequency: weekly
-currentValue: 1
-lastUpdated: 2026-02-23T14:00:47.305+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
+currentValue: 5
 ---
 
 # Demos Completed
 
 ## Description
-Number of demos completed with external prospects. First demo target: ScaleUp Company week of Feb 17.
+Product demos with external prospects. Target raised from 3 (exceeded) to 10. Tracks top-of-funnel activity — pair with conversion rate for full picture.
 
 ## Current Performance
-- **Latest Value**: 1 demos
+- **Latest Value**: 5 demos
 - **Category**: Pipeline
 - **Unit**: demos
 

@@ -8,7 +8,6 @@ impact: medium
 riskScore: 4
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:45.666104+00:00
 ---
 
 # Advisory firm AI anxiety hasn't peaked — channel activation may be premature

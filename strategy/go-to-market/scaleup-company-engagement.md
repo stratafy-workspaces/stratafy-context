@@ -1,0 +1,61 @@
+---
+id: 67611e6f-f890-4450-aa1f-87f9737038f2
+type: strategy
+status: active
+strategyType: go-to-market
+parent: 95b94e38-b270-4968-b2f8-10771a2cb492
+---
+
+# ScaleUp Company Engagement
+
+## Description
+First external lighthouse customer for the Advisory Firms channel — ScaleUp already does strategy work with clients, Stratafy becomes where that strategy lives.
+
+## Content
+# ScaleUp Company Engagement
+
+First external lighthouse customer for the Advisory Firms channel. ScaleUp Company already does strategy work with their clients — Stratafy becomes where that strategy lives.
+
+## Customer Sequencing Principle
+
+1. **Stratafy first** — We are our own lighthouse customer. Dogfooding is the foundation of credibility.
+2. **Direct customers** — ScaleUp Company and other direct users. They use Stratafy for their own strategy, give feedback, help us iterate.
+3. **Channel customers** — ScaleUp clients and other companies reached through channels. Only after we have proven value with direct users.
+
+## Phase 1: Onboard ScaleUp as Direct User
+
+- Get their own strategy into Stratafy
+- Let them experience Strategic Advisor, Alignment Scan on their own context
+- Learn what works, what is missing, what is confusing
+- Their friction becomes our roadmap
+
+## Phase 2: Learn from Their Usage
+
+- What does an advisory firm actually need to see about clients?
+- What dashboard view makes them say "I need this"?
+- What is missing before they would deploy to their clients?
+- Document insights for product and pitch refinement
+
+## Phase 3: Expand to Their Clients
+
+- Co-design the client onboarding flow with ScaleUp
+- Pilot with 1-2 of their clients
+- ScaleUp earns revenue share, gains lock-in
+- Document outcomes as case study for other advisory firms and investors
+
+## Timing
+
+- **STIR kickoff:** Feb 17 (first paying customer — learnings feed ScaleUp prep)
+- **ScaleUp demo:** Feb 23 (one week of STIR experience informs demo)
+- **Phase 1** starts immediately after successful demo
+- **Phase 2** learning period: March-April
+- **Phase 3** (client expansion) target: Q2 2026
+
+## Key Initiatives
+No initiatives defined
+
+## Alignment Score
+Not calculated
+
+## Time Horizon
+short_term

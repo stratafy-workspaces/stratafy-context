@@ -4,7 +4,6 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-01-30T15:18:14.362+00:00
-lastUpdated: 2026-02-27T16:56:23.694488+00:00
 ---
 
 # Radar Output Structuring with Auto-Insight Creation

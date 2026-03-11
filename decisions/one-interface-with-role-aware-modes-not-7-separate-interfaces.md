@@ -4,7 +4,6 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-02-06T13:18:21.586+00:00
-lastUpdated: 2026-02-27T16:56:22.788254+00:00
 ---
 
 # One interface with role-aware modes, not 7 separate interfaces

@@ -5,8 +5,6 @@ status: active
 priority: high
 strategy: Fundraising Playbook
 completionPercentage: 0
-lastUpdated: 2026-02-22T19:06:43.657611+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Coach Network GTM Validation for Pitch
@@ -33,7 +31,7 @@ DELIVERABLES BY APRIL 1:
 DEPENDENCY: Global Coach Network & Directory initiative provides the underlying model. This initiative is specifically about pitch-readiness.
 
 ## Parent Strategy
-[Fundraising Playbook](../strategy/functional/fundraising-playbook.md)
+[Fundraising Playbook](../strategy/financial/fundraising-playbook.md)
 
 ## Status & Progress
 - **Status**: active

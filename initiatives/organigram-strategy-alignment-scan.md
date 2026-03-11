@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Product Architecture
 completionPercentage: 0
-lastUpdated: 2026-02-12T08:49:21.777+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Organigram-Strategy Alignment Scan
@@ -35,7 +33,7 @@ ARCHITECTURE: New perspective within Strategy Reviews. Cortex layer. References 
 GTM: Advisory firm differentiator, STIR multi-entity use case. Gap analysis report is a standalone paid deliverable.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

@@ -4,9 +4,8 @@ type: insight
 source: stratafy_radar
 impactLevel: medium
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:32.461201+00:00
 ---
 
 # Rapid platform expansion creates wide-but-shallow risk
@@ -22,7 +21,7 @@ Platform surface expanded 5x (5 new systems + 2 new layers) but many systems are
 - **Category**: Uncategorized
 - **Impact**: medium
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 
 

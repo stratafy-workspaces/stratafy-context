@@ -1,22 +1,22 @@
 ---
 type: assumptions-overview
-total: 22
-lastUpdated: 2026-02-27T17:00:52.552Z
+total: 28
+lastUpdated: 2026-03-11T11:57:43.599Z
 ---
 
 # Assumptions Overview
 
-**Total Assumptions**: 22
+**Total Assumptions**: 28
 
 ## By Confidence
 
-- **validated**: 1
-- **likely**: 8
-- **hypothesis**: 13
+- **hypothesis**: 14
+- **likely**: 14
 
 ## By Type
 
-- **market**: 13
+- **financial**: 1
+- **market**: 16
+- **strategic**: 7
+- **technical**: 2
 - **operational**: 2
-- **strategic**: 6
-- **technical**: 1

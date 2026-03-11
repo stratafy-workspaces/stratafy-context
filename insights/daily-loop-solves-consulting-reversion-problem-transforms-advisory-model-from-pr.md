@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:58:36.177262+00:00
 ---
 
 # Daily loop solves consulting reversion problem — transforms advisory model from project to infrastructure

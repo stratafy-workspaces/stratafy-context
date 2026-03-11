@@ -5,8 +5,6 @@ objectiveType: key_result
 status: active
 priority: critical
 initiative: No initiative assigned
-lastUpdated: 2026-02-20T15:16:45.449968+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Term sheet received by June 2026

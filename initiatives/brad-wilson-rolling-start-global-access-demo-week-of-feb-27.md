@@ -5,8 +5,6 @@ status: active
 priority: high
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-02-27T15:55:11.241792+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Brad Wilson / Rolling Start + Global Access Demo — Week of Feb 27
@@ -35,7 +33,7 @@ SUCCESS CRITERIA:
 - Validates cross-geography coach adoption
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: active

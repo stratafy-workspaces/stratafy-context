@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Role-Aware Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-12T10:02:02.63617+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # [FUTURE] Stakeholder Alignment Mapping
@@ -32,7 +30,7 @@ QUICK WIN POTENTIAL: Simpler to build than the other future capabilities. High v
 STATUS: Future — but closer to buildable than scenario planning. Consider for Q2.
 
 ## Parent Strategy
-[Role-Aware Strategic Intelligence](../strategy/functional/role-aware-strategic-intelligence.md)
+[Role-Aware Strategic Intelligence](../strategy/product/role-aware-strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

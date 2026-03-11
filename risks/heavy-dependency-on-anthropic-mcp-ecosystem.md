@@ -7,8 +7,7 @@ likelihood: low
 impact: high
 riskScore: 3
 status: active
-mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:45.0921+00:00
+mitigationStatus: in_progress
 ---
 
 # Heavy dependency on Anthropic/MCP ecosystem
@@ -25,7 +24,7 @@ Stratafy is deeply coupled to Anthropic's ecosystem — Claude as the AI backbon
 - **Status**: active
 
 ## Mitigation
-- **Status**: identified
-- **Plan**: Abstract MCP integration behind an internal protocol layer so switching providers doesn't require full rewrite. Monitor MCP ecosystem adoption and competing protocols. Build REST API alongside MCP so the product isn't MCP-only. Maintain relationships with multiple AI providers. StratMD as an open format reduces single-vendor dependency on the content layer.
+- **Status**: in_progress
+- **Plan**: Multi-Platform Strategic Access strategy (Chat SDK) ensures Stratafy's value persists across Slack, Google Chat, Teams, Discord, Telegram, Linear, and GitHub — independent of Anthropic's ecosystem. Google Chat already working, Telegram in testing. Claude remains the deepest interface but is no longer the only path to strategic intelligence. Additionally, Stratafy's API-first architecture means any AI provider can consume the strategic context via MCP or direct API.
 - **Review Date**: Not scheduled
 

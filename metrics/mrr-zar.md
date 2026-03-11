@@ -6,8 +6,6 @@ category: Revenue
 unit: ZAR
 frequency: monthly
 currentValue: 25000
-lastUpdated: 2026-02-20T12:51:15.538912+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # MRR (ZAR)

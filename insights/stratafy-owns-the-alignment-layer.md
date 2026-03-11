@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:58:09.49178+00:00
 ---
 
 # Stratafy Owns the Alignment Layer

@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:49.334384+00:00
 ---
 
 # Intelligence layer vs artifact layer time ratio is the key subsumption validation metric

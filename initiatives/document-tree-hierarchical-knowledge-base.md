@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Product Architecture
 completionPercentage: 0
-lastUpdated: 2026-02-22T09:05:26.972+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Document Tree — Hierarchical Knowledge Base
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Build a hierarchical document tree with a separate document_tree_nodes table that organizes workspace documents into navigable sections (Legal, HR, Research, etc.). Sections are lightweight containers; documents are referenced by node, keeping the tree independent from document data. Documents retain existing entity linking (strategies, initiatives, etc.) for strategic context. MCP-first implementation with 8 tree tools + search tool. Frontend uses Nuxt UI UTree component that replaces the standard left-hand sidebar when in documents view. All documents are synced to xAI Collections API for semantic/hybrid search — on every create and update, document content is uploaded to a per-workspace collection, enabling intelligent document retrieval across the knowledge base.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

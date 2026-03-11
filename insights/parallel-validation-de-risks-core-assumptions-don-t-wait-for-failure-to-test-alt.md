@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:32.057607+00:00
 ---
 
 # Parallel validation de-risks core assumptions — don't wait for failure to test alternatives

@@ -5,9 +5,8 @@ source: stratafy_chat
 category: strategic
 impactLevel: medium
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: false
-lastUpdated: 2026-02-27T16:56:33.66327+00:00
 ---
 
 # Funding & Growth had rich narrative but weak operational scaffolding
@@ -23,7 +22,7 @@ The Funding & Growth strategy had rich narrative content but weak operational st
 - **Category**: strategic
 - **Impact**: medium
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: No
 - **Tags**: strategy-review, funding, structure
 

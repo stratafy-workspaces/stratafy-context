@@ -4,7 +4,6 @@ type: decision
 decisionType: type_1_irreversible
 status: decided
 decidedAt: 2026-01-30T13:07:01.247+00:00
-lastUpdated: 2026-02-27T16:56:23.889643+00:00
 ---
 
 # Founder Role Structure: CEO During Formation, Open to Evolution Post-PMF

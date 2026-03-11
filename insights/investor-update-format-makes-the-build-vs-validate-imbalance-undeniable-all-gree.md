@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: false
-lastUpdated: 2026-02-27T16:55:53.040601+00:00
 ---
 
 # Investor update format makes the build-vs-validate imbalance undeniable — all green on depth, all red on traction

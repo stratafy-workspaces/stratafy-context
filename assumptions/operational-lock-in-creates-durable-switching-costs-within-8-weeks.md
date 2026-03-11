@@ -5,7 +5,6 @@ confidence: hypothesis
 assumptionType: strategic
 impactIfWrong: critical
 status: active
-lastUpdated: 2026-02-27T16:55:42.989551+00:00
 ---
 
 # Operational lock-in creates durable switching costs within 8 weeks

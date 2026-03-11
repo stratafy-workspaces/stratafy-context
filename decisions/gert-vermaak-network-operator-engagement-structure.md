@@ -4,7 +4,6 @@ type: decision
 decisionType: type_1_irreversible
 status: pending
 deadline: 2026-03-15T00:00:00+00:00
-lastUpdated: 2026-02-27T16:56:22.739478+00:00
 ---
 
 # Gert Vermaak — Network Operator Engagement Structure

@@ -5,8 +5,6 @@ objectiveType: key_result
 status: active
 priority: critical
 initiative: Strategic Alignment Suite
-lastUpdated: 2026-02-27T16:23:18.62845+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Radar Scan — demo-ready with Global Access example
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Lens 3 (Inbound: External ↔ Strategy). Radar scanning for external signals filtered through strategic context. Must be able to run a live radar scan for Global Access (digital signage industry) during Brad Wilson demo — create session, execute scan, surface findings with implications and recommendations.
 
 ## Hierarchy
-**Strategy**: [Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+**Strategy**: [Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 **Initiative**: [Strategic Alignment Suite](../initiatives/strategic-alignment-suite.md)
 
 ## Objective Details

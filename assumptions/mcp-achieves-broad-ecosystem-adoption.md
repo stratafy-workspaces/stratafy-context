@@ -1,11 +1,10 @@
 ---
 id: e825b98e-e485-435c-92fc-615052f6d60c
 type: assumption
-confidence: hypothesis
+confidence: likely
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-27T16:56:29.981302+00:00
 ---
 
 # MCP achieves broad ecosystem adoption
@@ -14,7 +13,7 @@ lastUpdated: 2026-02-27T16:56:29.981302+00:00
 MCP (Model Context Protocol) will achieve broad adoption as the standard interface for AI tool integrations, making Stratafy's MCP-native architecture a strategic advantage rather than a niche bet. If MCP doesn't achieve ecosystem traction and a competitor protocol wins (e.g., OpenAI's equivalent), Stratafy's architecture requires rework and the "plug into existing tools" value proposition weakens.
 
 ## Assessment
-- **Confidence**: hypothesis
+- **Confidence**: likely
 - **Type**: market
 - **Impact if Wrong**: high
 - **Status**: active
@@ -22,6 +21,4 @@ MCP (Model Context Protocol) will achieve broad adoption as the standard interfa
 ## Validation
 - **Method**: Track MCP adoption metrics: number of MCP-compatible tools, developer community growth, enterprise adoption announcements. Monitor competing protocols from OpenAI, Google, Microsoft. Track whether Claude Desktop / MCP clients become standard enterprise tooling.
 - **Validated At**: Not yet validated
-- **Evidence**: PREVIOUS: Anthropic actively investing in MCP. Growing ecosystem of MCP servers. Claude Desktop shipping MCP support. However, OpenAI has not yet committed to MCP and may launch a competing standard.
-
-VALIDATION DEADLINE: Ongoing — monitor quarterly. Key trigger: if OpenAI launches competing protocol with significant adoption, reassess architecture. Next check: March 31. This is a background assumption — not blocking near-term execution but shapes long-term architecture bets.
+- **Evidence**: UPDATED Feb 27, 2026: Anthropic's Feb 26 Cowork expansion adds enterprise plugins (Wealth Management, Equity Research, Legal), private plugin marketplaces, and 12 new connectors (Google Drive, Gmail, DocuSign). This is the strongest validation yet — Anthropic is investing heavily in making MCP/Cowork the enterprise AI desktop. Private marketplaces directly enable our advisory firm distribution model. Combined with existing evidence of growing MCP adoption across tooling ecosystem.

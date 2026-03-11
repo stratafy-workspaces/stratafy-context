@@ -5,8 +5,6 @@ status: draft
 priority: low
 strategy: StratMD Open Specification
 completionPercentage: 0
-lastUpdated: 2026-02-18T14:18:13.015523+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Agent Infrastructure Play — Strategy Layer for the Agentic Ecosystem
@@ -25,7 +23,7 @@ Sits under StratMD because the SDK uses StratMD as interchange format. Developer
 Explicitly post-seed, low priority. Current focus is paying customers and Sequoia prep. Tracked now so architecture decisions don't preclude this path and StratMD spec considers developer experience.
 
 ## Parent Strategy
-[StratMD Open Specification](../strategy/functional/stratmd-open-specification.md)
+[StratMD Open Specification](../strategy/go-to-market/stratmd-open-specification.md)
 
 ## Status & Progress
 - **Status**: draft

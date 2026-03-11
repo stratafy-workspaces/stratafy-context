@@ -4,7 +4,6 @@ type: decision
 decisionType: type_2_reversible
 status: decided
 decidedAt: 2026-02-08T08:24:42.657+00:00
-lastUpdated: 2026-02-27T16:56:23.429049+00:00
 ---
 
 # Diversify lighthouse pipeline beyond Pieter and Nicholas

@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:25.161069+00:00
 ---
 
 # MCP feedback capture enables real-time friction logging without flow interruption

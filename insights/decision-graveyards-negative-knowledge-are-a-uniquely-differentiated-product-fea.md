@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:48.258731+00:00
 ---
 
 # Decision Graveyards (negative knowledge) are a uniquely differentiated product feature

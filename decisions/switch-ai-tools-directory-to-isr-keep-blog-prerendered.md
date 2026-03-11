@@ -3,7 +3,6 @@ id: c44c316b-4257-4d28-aade-c1b0d3e1b36b
 type: decision
 decisionType: type_2_reversible
 status: decided
-lastUpdated: 2026-02-27T16:56:23.711567+00:00
 ---
 
 # Switch AI Tools Directory to ISR, Keep Blog Prerendered

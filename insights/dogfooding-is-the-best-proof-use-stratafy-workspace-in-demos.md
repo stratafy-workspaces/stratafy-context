@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:10.202578+00:00
 ---
 
 # Dogfooding is the best proof — use Stratafy workspace in demos

@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:32.051465+00:00
 ---
 
 # Quick Win Experience is a PMF requirement, not a nice-to-have

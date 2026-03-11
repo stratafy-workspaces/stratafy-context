@@ -5,8 +5,6 @@ status: active
 priority: critical
 strategy: Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-13T07:06:41.446+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Daily Execution Loop & Organizational Pulse
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Build the daily execution loop through /Let's go and /Call it a day MCP prompts (already implemented), plus dual-layer session logging infrastructure. Layer 1: MCP server logs prompt selection events (reliable check-in tracking). Layer 2: Prompt templates instruct Claude to create insights during sessions (rich content capture). Together they enable the CEO Daily Digest — organizational pulse data from individual execution sessions. Three logging events: session start (/Let's go), session end (/Call it a day), and insights captured during end-of-day reflection. Phase 1 (prompt-embedded logging) can ship immediately with no backend changes. Phase 2 (server-side logging) requires MCP server update.
 
 ## Parent Strategy
-[Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: active
@@ -23,7 +21,7 @@ Build the daily execution loop through /Let's go and /Call it a day MCP prompts 
 - **Completion**: 0%
 
 ## Key Objectives
-- [20+ daily execution sessions logged before Pieter meeting](../objectives/20-daily-execution-sessions-logged-before-pieter-meeting.md)
+No objectives defined
 
 ## Timeline
 - **Start Date**: 2026-02-11

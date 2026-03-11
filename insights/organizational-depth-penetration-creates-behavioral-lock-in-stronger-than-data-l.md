@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:58:36.201527+00:00
 ---
 
 # Organizational depth penetration creates behavioral lock-in stronger than data lock-in

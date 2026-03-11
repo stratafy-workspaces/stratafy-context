@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:22.987914+00:00
 ---
 
 # Usage metrics spec — MCP ratio as primary proof point

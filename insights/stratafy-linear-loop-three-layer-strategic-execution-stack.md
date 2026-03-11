@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:48.680565+00:00
 ---
 
 # Stratafy + Linear + Loop = three-layer strategic execution stack

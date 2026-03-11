@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:58:35.694833+00:00
 ---
 
 # Negative knowledge (Decision Graveyards) validated as first-class product feature

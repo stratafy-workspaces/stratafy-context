@@ -5,7 +5,6 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: critical
 status: active
-lastUpdated: 2026-02-27T16:55:42.500938+00:00
 ---
 
 # Lighthouse customers convert before April 2026

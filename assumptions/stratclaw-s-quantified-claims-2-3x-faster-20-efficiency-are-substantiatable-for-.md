@@ -5,7 +5,6 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-27T16:56:30.534841+00:00
 ---
 
 # StratClaw's quantified claims (2-3x faster, 20% efficiency) are substantiatable for fundraise

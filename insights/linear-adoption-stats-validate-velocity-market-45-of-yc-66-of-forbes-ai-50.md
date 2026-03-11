@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:23.78538+00:00
 ---
 
 # Linear adoption stats validate velocity market — 45% of YC, 66% of Forbes AI 50

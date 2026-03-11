@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-01-26T13:12:32.271076+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Cortex Enhancement
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Integrate basic Cortex functionality for strategy analysis, including alignment checks between components (e.g., initiatives to mission/vision) and gap detection. Enhance with on-demand reports and AI suggestions.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: draft

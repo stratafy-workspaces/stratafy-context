@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:31.420119+00:00
 ---
 
 # VCs as Ideal Customer Segment: Portfolio Infrastructure Play

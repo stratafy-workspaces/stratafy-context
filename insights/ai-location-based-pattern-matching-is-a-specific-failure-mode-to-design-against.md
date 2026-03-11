@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: medium
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: false
-lastUpdated: 2026-02-27T16:55:54.190376+00:00
 ---
 
 # AI location-based pattern matching is a specific failure mode to design against
@@ -33,7 +32,7 @@ More broadly, this is a product differentiation point: generic AI advice suffers
 - **Category**: product
 - **Impact**: medium
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: No
 - **Tags**: ai-failure-modes, pattern-matching, perspective-reviews, prompt-design, context-grounding
 

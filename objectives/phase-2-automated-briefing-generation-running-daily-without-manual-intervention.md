@@ -5,8 +5,6 @@ objectiveType: milestone
 status: draft
 priority: high
 initiative: CEO Morning Briefing (WhatsApp)
-lastUpdated: 2026-02-25T10:51:35.461905+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Phase 2: Automated briefing generation running daily without manual intervention
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Automated daily briefing generation via Claude API with change detection, stored in briefing_history, ready for delivery integration
 
 ## Hierarchy
-**Strategy**: [Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+**Strategy**: [Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 **Initiative**: [CEO Morning Briefing (WhatsApp)](../initiatives/ceo-morning-briefing-whatsapp.md)
 
 ## Objective Details

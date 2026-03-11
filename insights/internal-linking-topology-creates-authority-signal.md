@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:48.636458+00:00
 ---
 
 # Internal Linking Topology Creates Authority Signal

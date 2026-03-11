@@ -5,8 +5,6 @@ status: draft
 priority: high
 strategy: Role-Aware Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-20T12:28:59.074039+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # External Context Packaging
@@ -26,7 +24,7 @@ This is both a product differentiator and a GTM enabler: advisory firms receive 
 Directly supports the "context layer becomes a network" thesis: value increases with number and diversity of consumers, including external ones.
 
 ## Parent Strategy
-[Role-Aware Strategic Intelligence](../strategy/functional/role-aware-strategic-intelligence.md)
+[Role-Aware Strategic Intelligence](../strategy/product/role-aware-strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

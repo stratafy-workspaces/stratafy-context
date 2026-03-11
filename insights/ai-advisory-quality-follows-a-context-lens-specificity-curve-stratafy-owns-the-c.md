@@ -5,9 +5,8 @@ source: stratafy_chat
 category: market
 impactLevel: medium
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:33.649856+00:00
 ---
 
 # AI advisory quality follows a context × lens specificity curve — Stratafy owns the context axis
@@ -30,7 +29,7 @@ Implications for Stratafy's market positioning:
 - **Category**: market
 - **Impact**: medium
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: market-positioning, competitive-advantage, context-moat, advisory-firms, perspective-reviews
 

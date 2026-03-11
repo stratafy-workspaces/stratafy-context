@@ -8,7 +8,6 @@ impact: high
 riskScore: 6
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:43.942714+00:00
 ---
 
 # Incumbent ships "good enough" AI strategy features

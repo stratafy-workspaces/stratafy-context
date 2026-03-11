@@ -5,8 +5,6 @@ status: active
 priority: high
 strategy: SEO Strategy
 completionPercentage: 0
-lastUpdated: 2026-02-15T09:43:31.179861+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Website Content Architecture Implementation
@@ -36,7 +34,7 @@ KEY DECISIONS:
 - Investor journey explicitly mapped: About/Methodology → parent hub → sub-hubs → /demo
 
 ## Parent Strategy
-[SEO Strategy](../strategy/functional/seo-strategy.md)
+[SEO Strategy](../strategy/go-to-market/seo-strategy.md)
 
 ## Status & Progress
 - **Status**: active
@@ -44,10 +42,8 @@ KEY DECISIONS:
 - **Completion**: 0%
 
 ## Key Objectives
-- [1 parent hub + 2 sub-hubs + methodology published by March 2026](../objectives/1-parent-hub-2-sub-hubs-methodology-published-by-march-2026.md)
-- [100+ monthly organic traffic to hub pages by June 2026](../objectives/100-monthly-organic-traffic-to-hub-pages-by-june-2026.md)
 - [Top 20 rankings for 2+ target keywords by June 2026](../objectives/top-20-rankings-for-2-target-keywords-by-june-2026.md)
-- [1+ investor content reference before Sequoia pitch](../objectives/1-investor-content-reference-before-sequoia-pitch.md)
+- [100+ monthly organic traffic to hub pages by June 2026](../objectives/100-monthly-organic-traffic-to-hub-pages-by-june-2026.md)
 
 ## Timeline
 - **Start Date**: 2026-02-17

@@ -5,8 +5,6 @@ status: active
 priority: critical
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-02-10T11:33:47.318+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # STIR Collective: First Customer Engagement
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 First paying customer engagement. STIR Collective is a Joburg-based consolidated group of event companies (SGP Group, Virtual Productions, Lucid Sets, Immix Studios, and others). R25,000/month retainer covering Stratafy platform access, strategy building, and team training. Their need: build a coherent strategy across subsidiaries and produce a fundraising prospectus. Leonard is a small shareholder in STIR, which provides deep access and genuine commitment from leadership. This engagement is the critical learning vehicle for product-market fit — every friction point, adoption pattern, and value moment informs the Sequoia pitch and product roadmap.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: active
@@ -23,10 +21,6 @@ First paying customer engagement. STIR Collective is a Joburg-based consolidated
 - **Completion**: 0%
 
 ## Key Objectives
-- [February: Validate — STIR onboarded, ScaleUp demoed, Ignatius clarity](../objectives/february-validate-stir-onboarded-scaleup-demoed-ignatius-clarity.md)
-- [March: Deepen — STIR strategy complete, prospectus drafted, Sequoia prep underway](../objectives/march-deepen-stir-strategy-complete-prospectus-drafted-sequoia-prep-underway.md)
-- [April: Convert — STIR case study ready, Sequoia pitch delivered](../objectives/april-convert-stir-case-study-ready-sequoia-pitch-delivered.md)
-- [Product insights from STIR engagement](../objectives/product-insights-from-stir-engagement.md)
 - [STIR team members using Stratafy independently](../objectives/stir-team-members-using-stratafy-independently.md)
 
 ## Timeline

@@ -3,19 +3,17 @@ id: 2fb6497d-b799-49ef-a7cd-8837317496c0
 type: initiative
 status: draft
 priority: medium
-strategy: Methodology Network GTM
+strategy: Coach Network GTM
 completionPercentage: 0
-lastUpdated: 2026-02-09T05:30:27.997325+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Methodology Persistence Content Series
 
 ## Description
-Develop content series that positions Stratafy as the persistence layer for every major methodology. Serves dual purpose: thought leadership for category creation and inbound lead generation from coaches searching for methodology + AI solutions. Structure: (1) Cornerstone piece: 'Why Your Strategy Methodology Needs an Operating System' (written — adapt from existing doc). (2) Methodology deep dives: 'How Stratafy Makes Scaling Up Persist', 'How Stratafy Makes EOS Persist', 'How Stratafy Makes OKRs Persist', etc. (3) Advisory firm opportunity: 'The AI-Era Coach: From Quarterly Facilitator to Continuous Strategic Advisor'. (4) Case studies: As pioneer coaches generate results, publish methodology-specific case studies. (5) SEO play: target 'Scaling Up software', 'EOS tools', 'OKR platform' keywords with content that reframes the category. Target: 6-8 articles from the methodology comparison work, contributing to the 30-article goal.
+Content series positioning Stratafy as the persistence layer for every major methodology — thought leadership for category creation and inbound lead generation from coaches.
 
 ## Parent Strategy
-[Methodology Network GTM](../strategy/functional/methodology-network-gtm.md)
+[Coach Network GTM](../strategy/go-to-market/coach-network-gtm.md)
 
 ## Status & Progress
 - **Status**: draft
@@ -30,4 +28,24 @@ No objectives defined
 - **Target Date**: 2026-04-30
 
 ## Content
-No content available
+## Purpose
+
+Develop a content series that positions Stratafy as the persistence layer for every major strategy methodology. Serves dual purpose: thought leadership for category creation and inbound lead generation from coaches searching for methodology + AI solutions.
+
+## Content Structure
+
+**Cornerstone piece** — "Why Your Strategy Methodology Needs an Operating System" (written — adapt from existing doc).
+
+**Methodology deep dives** — "How Stratafy Makes Scaling Up Persist", "How Stratafy Makes EOS Persist", "How Stratafy Makes OKRs Persist", etc. Each piece shows how Stratafy captures and extends methodology-specific artifacts.
+
+**Advisory firm opportunity** — "The AI-Era Coach: From Quarterly Facilitator to Continuous Strategic Advisor". Positions coaches as the winners of the AI transition.
+
+**Case studies** — As pioneer coaches generate results, publish methodology-specific case studies showing real outcomes.
+
+## SEO Play
+
+Target high-intent keywords: "Scaling Up software", "EOS tools", "OKR platform" — with content that reframes the category from point solutions to strategic operating systems.
+
+## Target
+
+6-8 articles from the methodology comparison work, contributing to the 30-article content goal.

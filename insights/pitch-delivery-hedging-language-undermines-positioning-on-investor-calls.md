@@ -5,9 +5,8 @@ source: stratafy_chat
 category: operational
 impactLevel: medium
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:33.906499+00:00
 ---
 
 # Pitch delivery: hedging language undermines positioning on investor calls
@@ -23,7 +22,7 @@ Self-assessment from Evolve intro call: excessive hedging undermined positioning
 - **Category**: operational
 - **Impact**: medium
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: pitch-improvement, fundraising, self-assessment, evolve
 

@@ -5,8 +5,6 @@ objectiveType: milestone
 status: draft
 priority: medium
 initiative: CEO Morning Briefing (WhatsApp)
-lastUpdated: 2026-02-25T10:51:41.245941+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Phase 3: WhatsApp delivery live with daily push to CEO
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 WhatsApp delivery via Twilio Business API, with configurable delivery time and WhatsApp-optimized formatting
 
 ## Hierarchy
-**Strategy**: [Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+**Strategy**: [Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 **Initiative**: [CEO Morning Briefing (WhatsApp)](../initiatives/ceo-morning-briefing-whatsapp.md)
 
 ## Objective Details

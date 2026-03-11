@@ -3,8 +3,6 @@ id: ef7987af-9198-4259-8f1a-f73f25c7b94a
 type: strategy
 status: active
 strategyType: corporate
-lastUpdated: 2026-01-27T21:24:00.049392+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Category Leadership

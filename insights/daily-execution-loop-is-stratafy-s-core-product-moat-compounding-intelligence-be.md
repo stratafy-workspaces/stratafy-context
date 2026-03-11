@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.038555+00:00
 ---
 
 # Daily Execution Loop is Stratafy's core product moat — compounding intelligence, behavioral lock-in, per-seat economics in one mechanism

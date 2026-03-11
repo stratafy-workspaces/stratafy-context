@@ -5,9 +5,8 @@ source: stratafy_chat
 category: customer
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:54.160216+00:00
 ---
 
 # MCP-first workspace population is 10x faster than UI and produces richer output
@@ -33,7 +32,7 @@ Implication for onboarding: the ideal first session with a new customer follows 
 - **Category**: customer
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: MCP, conversation-first, STIR, onboarding, product-thesis
 

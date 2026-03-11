@@ -5,8 +5,6 @@ status: active
 priority: critical
 strategy: Fundraising Playbook
 completionPercentage: 0
-lastUpdated: 2026-02-20T15:16:10.410917+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Madrona Engagement
@@ -31,7 +29,7 @@ SUCCESS CRITERIA:
 - If positive, term sheet discussion initiated
 
 ## Parent Strategy
-[Fundraising Playbook](../strategy/functional/fundraising-playbook.md)
+[Fundraising Playbook](../strategy/financial/fundraising-playbook.md)
 
 ## Status & Progress
 - **Status**: active

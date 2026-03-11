@@ -5,8 +5,6 @@ status: draft
 priority: high
 strategy: Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-18T05:54:30.763+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Workspace Documents & Knowledge Store
@@ -35,7 +33,7 @@ Workspace-level document store for strategic knowledge — research reports, com
 **Strategic value**: Compounds over time as the document store grows. Creates switching cost — the knowledge base becomes organizational memory. Enables the "share with someone" use case that multi-user workspaces need. Makes radar scans, alignment reports, and strategic analyses permanent, searchable, and linkable.
 
 ## Parent Strategy
-[Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

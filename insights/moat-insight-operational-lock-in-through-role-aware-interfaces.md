@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:23.411512+00:00
 ---
 
 # Moat insight: Operational lock-in through role-aware interfaces

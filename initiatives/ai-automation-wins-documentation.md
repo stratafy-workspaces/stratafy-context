@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: AI Leverage & Automation
 completionPercentage: 0
-lastUpdated: 2026-01-29T09:23:12.640266+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # AI Automation Wins Documentation
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Systematically document AI automation wins as proof points. Every workflow automated, every hour saved becomes ammunition for investor pitch and content marketing. Target: 5+ documented wins with quantified impact by Sequoia pitch window.
 
 ## Parent Strategy
-[AI Leverage & Automation](../strategy/functional/ai-leverage-automation.md)
+[AI Leverage & Automation](../strategy/technology/ai-leverage-automation.md)
 
 ## Status & Progress
 - **Status**: draft

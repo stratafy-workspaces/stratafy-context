@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:24.250949+00:00
 ---
 
 # Meeting Prep Agent Design — Next-Day Prep with Calendar Write-Back

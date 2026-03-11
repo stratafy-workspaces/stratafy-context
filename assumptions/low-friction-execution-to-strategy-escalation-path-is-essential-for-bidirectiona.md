@@ -5,7 +5,6 @@ confidence: likely
 assumptionType: strategic
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-27T16:55:41.374497+00:00
 ---
 
 # Low-friction execution-to-strategy escalation path is essential for bidirectional loop value

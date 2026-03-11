@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:49.173196+00:00
 ---
 
 # Investor Update Generator validated as feasible — full update assembled from existing MCP tools

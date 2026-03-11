@@ -5,8 +5,6 @@ status: active
 priority: medium
 strategy: Fundraising Playbook
 completionPercentage: 0
-lastUpdated: 2026-02-20T15:16:23.60698+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Evolve IR Exploration
@@ -32,7 +30,7 @@ QUALIFYING CRITERIA: If fee structure is purely upfront with no performance link
 APPROACH: Lead with conviction, qualify second. Frame traction positively. Anchor raise number with rationale. Ask qualifying questions of intermediaries.
 
 ## Parent Strategy
-[Fundraising Playbook](../strategy/functional/fundraising-playbook.md)
+[Fundraising Playbook](../strategy/financial/fundraising-playbook.md)
 
 ## Status & Progress
 - **Status**: active

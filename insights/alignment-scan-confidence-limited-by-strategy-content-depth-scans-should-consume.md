@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.897623+00:00
 ---
 
 # Alignment scan confidence limited by strategy content depth — scans should consume initiatives and objectives too
@@ -23,7 +22,7 @@ The STIR alignment scans consistently flagged "lack of detailed strategic conten
 - **Category**: product
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: alignment-scan, product-insight, scan-quality, content-depth
 

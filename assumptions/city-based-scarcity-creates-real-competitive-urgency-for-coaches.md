@@ -5,7 +5,6 @@ confidence: hypothesis
 assumptionType: market
 impactIfWrong: high
 status: active
-lastUpdated: 2026-02-27T16:56:29.873931+00:00
 ---
 
 # City-based scarcity creates real competitive urgency for coaches

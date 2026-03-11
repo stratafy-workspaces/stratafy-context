@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:24.230911+00:00
 ---
 
 # Disruption pattern — rebel becomes status quo becomes opportunity

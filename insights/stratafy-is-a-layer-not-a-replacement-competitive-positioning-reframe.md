@@ -7,7 +7,6 @@ impactLevel: critical
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:30.548759+00:00
 ---
 
 # Stratafy is a layer, not a replacement — competitive positioning reframe

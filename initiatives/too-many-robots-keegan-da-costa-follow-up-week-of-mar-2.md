@@ -5,8 +5,6 @@ status: active
 priority: medium
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-02-27T16:00:54.34332+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Too Many Robots / Keegan Da Costa Follow-up — Week of Mar 2
@@ -33,7 +31,7 @@ SUCCESS CRITERIA:
 - Richard engaged as relationship sponsor
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: active

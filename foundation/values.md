@@ -1,7 +1,7 @@
 ---
 type: values
 count: 10
-lastUpdated: 2026-02-27T17:00:52.552Z
+lastUpdated: 2026-03-11T11:57:43.599Z
 ---
 
 # Core Values
@@ -22,13 +22,13 @@ The world moves too fast for quarterly cycles. AI agents act continuously; strat
 
 Sustainable scaling requires structure and rhythm over heroics. We'll sacrifice speed before we sacrifice the system. The Scaling Up methodology provides the discipline — we hold ourselves and our clients accountable to it.
 
-## First principles over Best practices
-
-Frameworks expire; fundamentals endure. We rebuilt strategy from atomic elements rather than copying existing tools.
-
 ## Radical Peer Honesty
 
 We tell leadership teams what they need to hear, not what they want to hear. We'll risk the relationship before we enable avoidance. Real growth requires confronting uncomfortable truths about the business.
+
+## First principles over Best practices
+
+Frameworks expire; fundamentals endure. We rebuilt strategy from atomic elements rather than copying existing tools.
 
 ## Infrastructure mindset over Application mindset
 

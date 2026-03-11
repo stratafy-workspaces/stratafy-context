@@ -8,7 +8,6 @@ impact: critical
 riskScore: 8
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:45.323586+00:00
 ---
 
 # Methodology IP/Trademark Conflict

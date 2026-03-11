@@ -8,7 +8,6 @@ impact: high
 riskScore: 9
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:43.728059+00:00
 ---
 
 # MCP-first architecture limits demo accessibility

@@ -5,7 +5,6 @@ confidence: likely
 assumptionType: technical
 impactIfWrong: critical
 status: active
-lastUpdated: 2026-02-27T16:55:43.359934+00:00
 ---
 
 # Conversational-first interface is sufficient for early adoption

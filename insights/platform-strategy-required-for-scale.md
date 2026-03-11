@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:29.111689+00:00
 ---
 
 # Platform Strategy Required for Scale

@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:48.946073+00:00
 ---
 
 # Two onboarding paths needed: methodology import (OPSP/V/TO) and framework-free first principles build

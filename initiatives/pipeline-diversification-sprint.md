@@ -5,8 +5,6 @@ status: in_progress
 priority: critical
 strategy: Product-Market Fit
 completionPercentage: 0
-lastUpdated: 2026-02-08T08:36:28.675+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Pipeline Diversification Sprint
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Build a real lighthouse pipeline beyond Nicholas (ScaleUp) and Pieter (Clickatell). Target: 8-10 qualified prospects by end of February.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/functional/product-market-fit.md)
+[Product-Market Fit](../strategy/company/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: in progress

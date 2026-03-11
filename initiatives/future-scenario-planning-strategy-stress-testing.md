@@ -5,8 +5,6 @@ status: draft
 priority: medium
 strategy: Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-12T10:01:46.236585+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # [FUTURE] Scenario Planning & Strategy Stress Testing
@@ -34,7 +32,7 @@ WHY IT MATTERS: The three scans tell you where you are. Scenario planning tells 
 STATUS: Future — builds on top of mature three-scan infrastructure.
 
 ## Parent Strategy
-[Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

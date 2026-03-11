@@ -8,7 +8,6 @@ impact: high
 riskScore: 6
 status: active
 mitigationStatus: identified
-lastUpdated: 2026-02-27T16:55:44.935828+00:00
 ---
 
 # AI-enhanced incumbent tools add 'good enough' strategy context features

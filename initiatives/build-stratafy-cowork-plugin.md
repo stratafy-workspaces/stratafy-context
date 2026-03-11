@@ -1,12 +1,10 @@
 ---
 id: 3a003b65-925c-4738-858f-cb68526427d9
 type: initiative
-status: active
+status: in_progress
 priority: critical
 strategy: Product Architecture
-completionPercentage: 0
-lastUpdated: 2026-02-26T08:36:26.859+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
+completionPercentage: 25
 ---
 
 # Build Stratafy Cowork Plugin
@@ -15,24 +13,30 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Build and ship a unified coach-first "stratafy" plugin for Claude Cowork, positioning Stratafy as the strategic context layer inside every enterprise Cowork deployment. Coaches are the primary GTM channel — they build their own strategies first, then onboard 5-20 client companies each. By designing for coaching workflows, we serve all four user personas (Coach, Strategy Team, Employee, External Advisor) because coaching workflows are a superset of company workflows. Stratafy's existing 135+ MCP tools make this primarily a packaging exercise. The plugin enriches every other Cowork plugin by injecting strategic alignment into all knowledge work.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
-- **Status**: active
+- **Status**: in progress
 - **Priority**: critical
-- **Completion**: 0%
+- **Completion**: 25%
 
 ## Key Objectives
 No objectives defined
 
 ## Timeline
 - **Start Date**: 2026-02-25
-- **Target Date**: 2026-04-08
+- **Target Date**: 2026-03-14
 
 ## Content
 ## Decision
 
 One unified "stratafy" plugin designed coach-first. See [Decision Record](decision:1e338886-4c64-4e4b-b64e-7dff9db1b9d2) and [Research Document](document:73940863-cd05-4896-aa42-6dfc45e61644).
+
+## Current Status
+
+Plugin is built and in active testing. Fine-tuning skills and command prompts before Brad Wilson demo (week of Feb 27). Anthropic's Feb 26 Cowork expansion (enterprise plugins, private marketplaces, 12 new connectors including Google Drive/Gmail/DocuSign) validates MCP ecosystem bet and creates urgency to be in the marketplace early.
+
+**Priority elevation rationale:** A live Cowork plugin IS the Sequoia demo. Being in the marketplace before the pitch window is more compelling than any slide deck. The Cowork expansion makes this the highest-leverage initiative in the entire strategy tree. AGGRESSIVE TIMELINE — this is the #1 priority across all of Stratafy.
 
 ## Plugin Structure (6 Skills + 6 Commands)
 
@@ -81,34 +85,17 @@ stratafy/
 
 ## Technical Architecture
 
-Stratafy already has 135+ MCP tools covering the full strategic architecture: foundation, strategies, initiatives, objectives, metrics, risks, assumptions, decisions, insights, radar, reviews, documents, and agents. The plugin wraps this in Cowork's format.
+Stratafy already has 135+ MCP tools covering the full strategic architecture. The plugin wraps this in Cowork's format — primarily a packaging and prompt-quality exercise.
 
-Cowork plugins are markdown and JSON — no compiled code, no infrastructure. Skills = markdown domain expertise. Commands = slash commands. Connectors = .mcp.json pointing to existing MCP endpoint.
+## Phased Delivery (AGGRESSIVE)
 
-Claude's contextual skill activation means one plugin serves all four personas without overwhelming any of them. An employee asking "what's the current focus?" triggers strategy-foundations. A coach saying "I just finished a session" triggers coaching-facilitation + workspace-builder. Same plugin, different experience.
+**Phase 1 — Demo-Ready Plugin (by Feb 28):** Fine-tune core skills and commands for Brad Wilson demo. Strategy-foundations + coaching-facilitation + workspace-builder skills polished. /setup-workspace and /session-debrief commands working. This is TODAY'S priority.
 
-## Cross-Plugin Architecture
+**Phase 2 — Full Plugin + Beta (by March 7):** All 6 skills, all 6 commands complete. Test with STIR workspace. Get 2-3 coaches using it. Document cross-plugin patterns.
 
-Stratafy's skills fire across ALL other plugins. Sales plugin drafting outreach? Strategy-foundations provides alignment context. Product plugin writing specs? Execution-tracking surfaces strategic objectives. This cross-plugin enrichment creates infrastructure positioning.
+**Phase 3 — Marketplace Submission (by March 14):** Documentation, demo video, submit to Anthropic marketplace. Target: listed and live before Sequoia pitch window opens.
 
-## Coach-First GTM Sequence
-
-1. Coach installs plugin, connects API key to their own workspace
-2. Coach builds their own strategy using setup-workspace and strategy-review
-3. Coach uses session-debrief after client sessions to populate client workspaces
-4. Client strategy teams start using pulse, strategy-review, radar-scan directly
-5. Client employees use pulse for orientation
-6. External advisors get invited in, use decision-brief
-
-## Phased Delivery
-
-**Phase 1 — Coach MVP (by March 11):** Plugin manifest, .mcp.json, 2 coach-first skills (coaching-facilitation + workspace-builder), 2 commands (/stratafy:setup-workspace + /stratafy:session-debrief), strategy-foundations skill, internal testing with Leonard's workspace.
-
-**Phase 2 — Full Plugin (by March 25):** All 6 skills, all 6 commands, test with STIR workspace and 2-3 coaches, document cross-plugin patterns.
-
-**Phase 3 — Marketplace Ready (by April 8):** Documentation, demo video, submit to Anthropic marketplace, apply for partner ecosystem.
-
-**Phase 4 — Enterprise Distribution (April-May):** Private marketplace support, advisory firm distribution, PwC/Thomson Reuters exploration, Anthropic co-development conversation.
+**Phase 4 — Enterprise Distribution (March-April):** Private marketplace support, advisory firm distribution, Anthropic co-development conversation.
 
 ## Competitive Moat
 
@@ -116,12 +103,14 @@ Why consultancies can't easily replicate: no MCP infrastructure (135+ tools), no
 
 ## When to Split
 
-Monitor adoption data for signals that the unified approach creates friction. Split triggers: plugin exceeds 10 skills, coach features confuse employees, marketplace positioning requires separate entries. The architecture allows extracting coaching skills into a separate plugin later without breaking existing users.
+Monitor adoption data for signals that the unified approach creates friction. Split triggers: plugin exceeds 10 skills, coach features confuse employees, marketplace positioning requires separate entries.
 
 ## Success Criteria
 
-- Plugin functional in Cowork by March 11 (internal, coach-first features)
-- External beta with 3+ coaches by March 25
-- Listed in Cowork marketplace by April 8
-- Referenced in Sequoia pitch as platform ecosystem play
-- 1+ advisory firm distributing plugin by June
+- Plugin demo-ready by Feb 28 — TOMORROW
+- Used in Brad Wilson demo week of Feb 27-Mar 7
+- All 6 skills + 6 commands complete by March 7
+- External beta with 3+ coaches by March 7
+- Listed in Cowork marketplace by March 14
+- Referenced in Sequoia pitch as live platform ecosystem play
+- 1+ advisory firm distributing plugin by May

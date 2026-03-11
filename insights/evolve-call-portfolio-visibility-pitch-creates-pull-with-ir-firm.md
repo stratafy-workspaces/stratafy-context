@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: medium
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:34.010064+00:00
 ---
 
 # Evolve call: portfolio visibility pitch creates pull with IR firm
@@ -23,7 +22,7 @@ During the Evolve intro call, the portfolio visibility pitch landed strongly. Ca
 - **Category**: product
 - **Impact**: medium
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: evolve, vc-as-customer, portfolio-visibility, product-validation
 

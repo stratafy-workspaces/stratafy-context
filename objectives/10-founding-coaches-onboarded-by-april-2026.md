@@ -5,8 +5,6 @@ objectiveType: key_result
 status: active
 priority: high
 initiative: Global Coach Network & Directory
-lastUpdated: 2026-02-22T09:28:17.415927+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # 10 founding coaches onboarded by April 2026
@@ -15,7 +13,7 @@ owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 Seed the directory with 10 founding coaches from warm network across Scaling Up and EOS. Mix of geographies to demonstrate global reach.
 
 ## Hierarchy
-**Strategy**: [Methodology Network GTM](../strategy/functional/methodology-network-gtm.md)
+**Strategy**: [Coach Network GTM](../strategy/go-to-market/coach-network-gtm.md)
 **Initiative**: [Global Coach Network & Directory](../initiatives/global-coach-network-directory.md)
 
 ## Objective Details

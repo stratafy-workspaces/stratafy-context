@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:49.046819+00:00
 ---
 
 # FAQPage Schema Unlocks Featured Snippets

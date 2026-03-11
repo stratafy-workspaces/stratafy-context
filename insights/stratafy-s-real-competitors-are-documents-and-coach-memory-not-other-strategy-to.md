@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: likely
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:49.104191+00:00
 ---
 
 # Stratafy's real competitors are documents and coach memory, not other strategy tools — positioning must be additive to existing methodologies

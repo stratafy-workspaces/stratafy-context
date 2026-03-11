@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:23.495278+00:00
 ---
 
 # Key velocity quotes from Musk, Ramp, Linear — reusable across content

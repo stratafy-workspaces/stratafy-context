@@ -5,8 +5,6 @@ status: draft
 priority: low
 strategy: Product Architecture
 completionPercentage: 0
-lastUpdated: 2026-02-12T10:02:18.467803+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # [FUTURE] Dependency & Sequencing Intelligence
@@ -34,7 +32,7 @@ WHY IT MATTERS: Hierarchy shows structure. Dependencies show physics. Strategy f
 STATUS: Future — the data model could be added relatively early, analysis capabilities build over time.
 
 ## Parent Strategy
-[Product Architecture](../strategy/functional/product-architecture.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

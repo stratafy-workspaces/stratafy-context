@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:55:49.317986+00:00
 ---
 
 # Multi-workspace MCP API key access needed for customer management

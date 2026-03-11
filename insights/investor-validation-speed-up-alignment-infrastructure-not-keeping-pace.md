@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:58:33.918489+00:00
 ---
 
 # Investor validation: Speed up, alignment infrastructure not keeping pace

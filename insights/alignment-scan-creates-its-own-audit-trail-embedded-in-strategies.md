@@ -7,7 +7,6 @@ impactLevel: medium
 confidenceLevel: confirmed
 status: processed
 actionable: false
-lastUpdated: 2026-02-27T16:58:32.505244+00:00
 ---
 
 # Alignment Scan creates its own audit trail embedded in strategies

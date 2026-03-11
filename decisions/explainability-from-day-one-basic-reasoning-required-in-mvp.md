@@ -4,7 +4,6 @@ type: decision
 decisionType: type_1_irreversible
 status: decided
 decidedAt: 2026-02-06T13:18:36.15+00:00
-lastUpdated: 2026-02-27T16:56:24.188212+00:00
 ---
 
 # Explainability from Day One — basic reasoning required in MVP

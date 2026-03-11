@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.511526+00:00
 ---
 
 # Execution Loop Data is Accumulating Silently

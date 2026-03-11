@@ -5,8 +5,6 @@ status: draft
 priority: high
 strategy: Strategic Intelligence
 completionPercentage: 0
-lastUpdated: 2026-02-25T06:02:11.447651+00:00
-owner: af04d126-d28a-43a7-be8b-0c9451873f1b
 ---
 
 # Strategic Signals — First-Class Entity & Processing Pipeline
@@ -34,7 +32,7 @@ Introduce Signals as a first-class entity in Stratafy's data model — the atomi
 **Design Document:** Strategic Signals: The Missing Intelligence Layer (workspace docs)
 
 ## Parent Strategy
-[Strategic Intelligence](../strategy/functional/strategic-intelligence.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

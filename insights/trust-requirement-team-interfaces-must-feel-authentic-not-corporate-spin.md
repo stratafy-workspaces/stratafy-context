@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: likely
 status: processed
 actionable: true
-lastUpdated: 2026-02-27T16:55:53.460168+00:00
 ---
 
 # Trust requirement: Team interfaces must feel authentic, not corporate spin

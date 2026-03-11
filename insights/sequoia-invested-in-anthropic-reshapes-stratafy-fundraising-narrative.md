@@ -5,9 +5,8 @@ source: stratafy_chat
 category: strategic
 impactLevel: high
 confidenceLevel: confirmed
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:58:44.193072+00:00
 ---
 
 # Sequoia invested in Anthropic — reshapes Stratafy fundraising narrative
@@ -37,7 +36,7 @@ Sources: Financial Times (Jan 18, 2026), TechCrunch, Bloomberg, CNBC, Reuters
 - **Category**: strategic
 - **Impact**: high
 - **Confidence**: confirmed
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: sequoia, anthropic, fundraising, roelof-botha, ecosystem-play, cowork, signal
 

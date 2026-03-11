@@ -7,7 +7,6 @@ impactLevel: high
 confidenceLevel: confirmed
 status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:29.393971+00:00
 ---
 
 # Board-Level AI Adoption Accelerates

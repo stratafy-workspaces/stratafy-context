@@ -5,9 +5,8 @@ source: stratafy_chat
 category: product
 impactLevel: high
 confidenceLevel: likely
-status: pending
+status: synthesized
 actionable: true
-lastUpdated: 2026-02-27T16:56:32.460872+00:00
 ---
 
 # Perspective Reviews can't fail — bad reviews still produce value through triage
@@ -36,7 +35,7 @@ It also addresses a common objection to AI tools: "what if it gives bad advice?"
 - **Category**: product
 - **Impact**: high
 - **Confidence**: likely
-- **Status**: pending
+- **Status**: synthesized
 - **Actionable**: Yes
 - **Tags**: perspective-reviews, triage-value, advisory-firms, product-positioning, objection-handling
 
