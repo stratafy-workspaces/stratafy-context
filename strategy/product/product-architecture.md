@@ -214,6 +214,7 @@ What this strategy constrains:
 - ✅ Explainability progression table added
 
 ## Key Initiatives
+- [MCP Server Optimisation](../initiatives/mcp-server-optimisation.md)
 - [AI Tool Governance Layer](../initiatives/ai-tool-governance-layer.md)
 - [Claude Cowork Plugin for Stratafy](../initiatives/claude-cowork-plugin-for-stratafy.md)
 - [Universal Entity Embedding & Semantic Search](../initiatives/universal-entity-embedding-semantic-search.md)
@@ -224,9 +225,15 @@ What this strategy constrains:
 - [Strategic Coherence Scan](../initiatives/strategic-coherence-scan.md)
 - [[FUTURE] Dependency & Sequencing Intelligence](../initiatives/future-dependency-sequencing-intelligence.md)
 - [Organigram-Strategy Alignment Scan](../initiatives/organigram-strategy-alignment-scan.md)
+- [Public Narrative Alignment Scan](../initiatives/public-narrative-alignment-scan.md)
+- [Investor Update Generator](../initiatives/investor-update-generator.md)
+- [Strategy Export to PDF](../initiatives/strategy-export-to-pdf.md)
 - [Workspace Hierarchy (Parent/Child)](../initiatives/workspace-hierarchy-parent-child.md)
 - [Product Feedback Capture System](../initiatives/product-feedback-capture-system.md)
 - [Strategic Health Index and Case Study Infrastructure](../initiatives/strategic-health-index-and-case-study-infrastructure.md)
+- [Internal Sensing (Pulse)](../initiatives/internal-sensing-pulse.md)
+- [Cortex Enhancement](../initiatives/cortex-enhancement.md)
+- [MVP Development](../initiatives/mvp-development.md)
 
 ## Alignment Score
 Not calculated

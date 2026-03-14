@@ -13,7 +13,7 @@ completionPercentage: 0
 First paying customer engagement. STIR Collective is a Joburg-based consolidated group of event companies (SGP Group, Virtual Productions, Lucid Sets, Immix Studios, and others). R25,000/month retainer covering Stratafy platform access, strategy building, and team training. Their need: build a coherent strategy across subsidiaries and produce a fundraising prospectus. Leonard is a small shareholder in STIR, which provides deep access and genuine commitment from leadership. This engagement is the critical learning vehicle for product-market fit — every friction point, adoption pattern, and value moment informs the Sequoia pitch and product roadmap.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/company/product-market-fit.md)
+[Product-Market Fit](../strategy/functional/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: active

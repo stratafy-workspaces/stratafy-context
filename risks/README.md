@@ -1,31 +1,31 @@
 ---
 type: risks-overview
-total: 19
-lastUpdated: 2026-03-11T11:57:43.599Z
+total: 21
+lastUpdated: 2026-03-14T14:58:19.589Z
 ---
 
 # Risks Overview
 
-**Total Risks**: 19
+**Total Risks**: 21
 
 ## By Status
 
-- **active**: 19
+- **active**: 21
 
 ## By Risk Type
 
-- **technical**: 3
-- **execution**: 3
 - **financial**: 2
-- **people**: 1
+- **execution**: 4
+- **technical**: 4
 - **regulatory**: 2
-- **competitive**: 5
+- **people**: 1
 - **market**: 3
+- **competitive**: 5
 
 ## Highest Risk Items
 
-- **MCP-first architecture limits demo accessibility** (score: 9) - active
-- **Lead-to-Engagement Conversion Gap** (score: 9) - active
 - **No revenue model or pricing strategy defined** (score: 9) - active
 - **Undefined pricing model blocks coach channel activation** (score: 9) - active
-- **Agent Intake Quality Erodes Coach Trust** (score: 8) - active
+- **Lead-to-Engagement Conversion Gap** (score: 9) - active
+- **MCP-first architecture limits demo accessibility** (score: 9) - active
+- **Methodology IP/Trademark Conflict** (score: 8) - active

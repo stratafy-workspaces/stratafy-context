@@ -18,37 +18,36 @@ One strategic system, many role-appropriate interfaces — the same context adap
 
 **Question answered**: How do we make strategy accessible to everyone in an organization, not just executives?
 
+**Answer**: The same underlying strategic context adapts based on who you are and what you need. One strategy tree, many role-appropriate lenses.
+
 **Time Horizon**: Q1-Q4 2026 (phased rollout)
 
-**Strategic Theme**: One strategic system, many role-appropriate interfaces. The same underlying context adapts based on who you are and what you need.
+**Strategic Theme**: One strategic system, many role-appropriate contexts. This strategy defines the intelligence layer — how context is scoped, tone adapts, access is governed, and signals are captured per role. The Stratafy Leadership Team strategy defines the delivery mechanism — Claude Cowork plugins that consume this context layer.
+
+---
+
+## Relationship to Stratafy Leadership Team
+
+This strategy and the Stratafy Leadership Team are two sides of the same coin:
+
+| This Strategy (Role-Aware Intelligence) | Leadership Team Strategy |
+|----------------------------------------|--------------------------|
+| Defines the context layer | Defines the delivery mechanism |
+| What each role sees, how it speaks, what it captures | The actual plugins people install and interact with |
+| Role-scoping architecture | Named executive personas (CFO, COO, CMO) |
+| Access levels, tone, agency, capture rules | Commands, skills, authority boundaries, pricing |
+
+Without role-aware context, the Leadership Team plugins are just different prompt wrappers. With it, they're genuinely scoped executives that share one strategy tree but see it through their role's lens.
+
+**Every Leadership Team plugin depends on this context layer to function properly.**
+
+---
 
 ## Origin
 
 This strategy emerged from a roleplay exercise simulating an investor update call. The exercise revealed that the "Strategic Advisor" concept is one instance of a broader pattern: role-aware interfaces to the same underlying strategic system.
 
 The insight: **The system should understand your role and interact with you accordingly.**
-
-## Implementation Simplification (Jan 27, 2026)
-
-**Don't build 7 separate interfaces. Build one interface with role-aware modes.**
-
-The original framing described 7 distinct interfaces (Advisor, Interface, Demo, Partner, Coach, Guide). The simplified implementation:
-
-| Original Framing | Simplified Implementation |
-|------------------|---------------------------|
-| 7 separate interfaces | 1 interface with role modes |
-| 7 prompt architectures | 1 prompt with role context |
-| Divergence risk over time | Stays unified |
-| More complexity to build/maintain | Less complexity |
-| Feels like different products | Feels like one product that adapts |
-
-**How it works:**
-- System knows user's role (founder, prospect, investor, manager, IC)
-- Same underlying prompt architecture
-- Role context flag adapts: tone, access, agency, capture
-- Prospect feels like they're using the real product, not a demo version
-
-**This is the "one system, many interfaces" principle applied to implementation**, not just architecture.
 
 ## The Core Architecture
 
@@ -58,62 +57,80 @@ The original framing described 7 distinct interfaces (Advisor, Interface, Demo, 
 │  Foundation │ Strategies │ Insights │ Feedback Loop │
 └─────────────────────────────────────────────────────┘
                          │
-                         ▼
               ┌─────────────────────┐
-              │  Strategic Advisor  │
-              │   (One Interface)   │
+              │  Role-Aware Context │
+              │       Layer         │
               └─────────────────────┘
                          │
          ┌───────┬───────┼───────┬───────┐
          ▼       ▼       ▼       ▼       ▼
-      Founder  Prospect Investor Manager  IC
-       Mode     Mode     Mode    Mode   Mode
+      Finance  Team    COO     CMO    CEO-mode
+      Director Partner (planned)(planned)(planned)
+      Plugin   Plugin
+         │       │       │       │       │
+         ▼       ▼       ▼       ▼       ▼
+       CFO     Coach/  Ops    Marketing Strategic
+       Context Manager Context Context  Advisor
+              Context                   Context
 ```
 
-One system. One interface. Multiple modes. Each adapted to role, access level, and purpose.
+One system. One strategy tree. Role-aware context layer. Multiple plugin delivery points.
 
-## Role-Mode Mapping
-
-| Role | Mode | Primary Purpose | Tone Adaptation |
-|------|------|-----------------|-----------------|
-| **Founder/CEO** | Default | Think, decide, shape strategy | Challenging, direct, full context |
-| **Prospect** | Demo | Experience Stratafy value | Educational, explains concepts, shows value |
-| **Investor/Board** | Interface | Monitor, govern, advise | Transparent, concise, status-focused |
-| **Manager** | Coach | Translate strategy to team | Explains "why," develops thinking |
-| **IC** | Guide | Execute within context | Answers "how does my work connect?" |
-
-## What Adapts By Role Mode
+## What Adapts By Role Context
 
 | Dimension | How It Adapts |
 |-----------|---------------|
-| **Access** | What strategies and insights are visible |
-| **Tone** | Founder: challenging. Prospect: educational. Board: concise |
-| **Agency** | Founder: full edit. Prospect: explore. Board: read + capture |
-| **Capture** | Founder insights → strategy. Prospect questions → buying signals |
-| **Guidance** | Founder: minimal. Prospect: explains as it goes. IC: connects to meaning |
+| **Access** | What strategies, insights, and data are visible to this role |
+| **Tone** | Founder: challenging. Team member: coaching. Board: concise |
+| **Agency** | Founder: full edit. Manager: team-scoped edit. IC: read + capture |
+| **Capture** | Founder insights → strategy. Manager observations → execution friction. IC feedback → ground-level reality |
+| **Guidance** | Founder: minimal. Manager: translates strategy to team context. IC: connects work to meaning |
 
-## Phased Rollout (Simplified)
+## Context Enforcement: The Depth/Access Model
 
-### Phase 1: Now
-- **Founder mode** — Full Strategic Advisor, in daily use ✅
+The context layer is enforced through a structured system that controls two dimensions per entity per role:
 
-### Phase 1b: Q1 2026 (Next Priority)  
-- **Prospect mode** — Same interface, educational tone, explains concepts
-- High-touch prep for 2-3 lighthouse customers only
-- Not a scalable sales motion — do things that don't scale
+**Depth** (what you see): Full → Executive → Brief → Reference → Excluded. Each level returns progressively less content, from complete strategy documents down to just a name and status. This also manages AI token budgets — a Finance Director gets full financial strategy content but only a brief summary of marketing strategies.
 
-### Phase 2: Q2 2026 (Post-Funding)
-- **Investor/Board mode** — Transparent status, governance focus
-- First external stakeholder interface
-- Sequoia using this for updates
+**Access** (what you can do): Write → Suggest → Read → None. "Suggest" is the key innovation — roles with suggest-level access can propose changes that route to an approval queue, enabling cross-executive collaboration without breaking authority boundaries. A Finance Director can propose budget changes on an initiative; the COO approves.
 
-### Phase 3: Q3-Q4 2026 (With Lighthouse Validation)
-- **Manager mode** — Translates strategy to team context
-- **IC mode** — Connects individual work to meaning
-- Requires lighthouse customer testing (ScaleUp Company)
-- Only build if demand validated
+This layers on top of existing RBAC permissions as a soft intelligence boundary. Permissions handle security (can/can't); context profiles handle relevance (what depth, what scope). Context profiles can only reduce what permissions allow, never escalate.
 
-## The Prospect Mode: Demo as Product
+> The full technical specification including data model, MCP integration, UI surfaces, and default profiles per executive role is preserved in the "Role Context System — Technical Specification" document.
+
+## Role Context Mapping to Leadership Team Plugins
+
+| Role Context | Leadership Team Plugin | Status |
+|-------------|----------------------|--------|
+| Founder/CEO strategic context | Stratafy Coach (stratafy-cowork v1.3.0) | Live |
+| CFO/financial context | Stratafy Finance Director (stratafy-finance v0.3.0) | Live |
+| Team member/manager context | Stratafy Team Partner (stratafy-team v0.1.0) | Beta |
+| Operations/initiative context | Stratafy COO (planned) | Q2 2026 |
+| Marketing/positioning context | Stratafy CMO (planned) | Q2 2026 |
+| Strategic oversight context | Stratafy CEO-mode (planned) | Q3 2026 |
+| People/culture context | Stratafy CHRO (planned — potential We Are 52 co-build) | Q3 2026 |
+
+## Phased Context Rollout
+
+### Phase 1: Now — Foundation Contexts
+- **Founder context** — Full Strategic Advisor, in daily use ✅
+- **CFO context** — Financial intelligence scoped to strategy-spend alignment ✅
+- **Team member context** — Role-adaptive execution partner, beta ✅
+
+### Phase 2: Q2 2026 — Operational Contexts
+- **Operations context** — Initiative tracking, OKR management, bottleneck detection
+- **Marketing context** — Content alignment, positioning governance, channel performance
+- **Prospect context** — Educational tone, explains concepts, surfaces value. Demo-as-product.
+- **Investor/Board context** — Transparent status, governance focus, Sequoia updates
+
+### Phase 3: Q3-Q4 2026 — Expanded Contexts (Validated by Channel Exploration)
+- **Manager/Coach context** — Translates strategy to team. Explains "why." Coaches through questions.
+- **IC/Guide context** — Connects individual work to meaning. Answers "how does my work connect?"
+- **People/culture context** — People strategy, org health, talent planning (CHRO plugin)
+
+**GTM dependency note**: The advisory firm and coach network GTM channels are currently in exploration mode. When those channels graduate to committed execution (see GTM Channels graduation criteria), they will require Manager/Coach and IC contexts to be production-ready so coaches can deploy Leadership Teams to their clients' organizations. Channel exploration signals should inform the design of these contexts — every conversation with a coach or advisory firm is a data point about what team contexts need to do.
+
+## The Prospect Context: Demo as Product
 
 ### The Insight
 
@@ -123,15 +140,6 @@ The best demo isn't a pitch — it's the product with more guidance. When a pros
 2. **Educational tone** — System explains concepts as it uses them
 3. **Their data** — Pre-populated workspace with their context
 4. **Value surfaces naturally** — Alignment gaps on THEIR strategy
-
-### Why This Works
-
-| Separate Demo Product | Prospect Mode |
-|-----------------------|---------------|
-| Feels like a sales tool | Feels like the real product |
-| "Let me show you our demo" | "Let me show you YOUR strategy" |
-| Value promised | Value proven |
-| Objection: "Will it work for us?" | They've already seen it work |
 
 ### Demo Prep (Lighthouse Only)
 
@@ -147,7 +155,7 @@ For 2-3 lighthouse customers, invest 2-3 hours each:
 
 ### Buying Signals to Capture
 
-Prospect mode captures (as insights):
+Prospect context captures (as insights):
 - Pain indicators ("Can it catch when teams go off-strategy?")
 - Reactions to gaps ("That's exactly our problem")
 - Feature requests ("Can it also do X?")
@@ -159,22 +167,22 @@ These inform sales AND product.
 ## Why This Matters
 
 ### 1. Strategy Becomes Accessible
-Most employees never see strategy beyond an all-hands deck. Role modes make strategic context queryable for everyone.
+Most employees never see strategy beyond an all-hands deck. Role contexts make strategic context queryable for everyone.
 
 ### 2. Feedback Loop Multiplies
 Different roles capture different signals:
 - Founder: strategic decisions
-- Manager: execution friction  
+- Manager: execution friction
 - IC: ground-level reality
 - Prospect: buying signals, pain points
 
 The organization becomes a sensing system.
 
 ### 3. Operational Lock-In
-Once founder uses Advisor daily, board uses Interface mode, managers use Coach mode — switching means changing how the company operates. That's the moat.
+Once founder uses the Coach daily, the CFO monitors financial alignment, the COO tracks initiatives, and managers use the Team Partner — switching means changing how the company operates. That's the moat.
 
 ### 4. Defensible Against AI Giants
-Microsoft/Salesforce will build one-size-fits-all. Role-aware modes with different permissions, tones, and agencies is architecturally different. Hard to replicate.
+Microsoft/Salesforce will build one-size-fits-all. Role-aware contexts with different permissions, tones, and agencies is architecturally different. Hard to replicate because the context layer requires deep strategic architecture, not just prompt engineering.
 
 ## ScaleUp Company: The Validation Partner
 
@@ -184,64 +192,59 @@ ScaleUp Company is not just a customer. They're the validation partner for this 
 - Case study for sales
 - Reference for subsequent prospects
 - Proof that demo-as-product works
-- Customer to test manager/IC modes
+- First organization to test team role contexts
 - Sequoia pitch has teeth
 
 **Over-invest in their success. Their win is Stratafy's win.**
 
 ## Success Criteria
 
-### Phase 1b (Prospect Mode)
-- [ ] Prospect mode prompt built
-- [ ] First lighthouse demo uses prospect mode
-- [ ] Conversion tracked vs. baseline
+### Phase 1 (Foundation Contexts)
+- [x] Founder context in daily use
+- [x] CFO context shipped (stratafy-finance v0.3.0)
+- [ ] Team member context validated with beta users
 
-### Phase 2 (Investor Mode)
-- [ ] Investor mode prompt built
-- [ ] Sequoia receiving updates via Interface
-- [ ] Board governance patterns captured
+### Phase 2 (Operational Contexts)
+- [ ] Operations context built (COO plugin)
+- [ ] Marketing context built (CMO plugin)
+- [ ] Prospect context tested in lighthouse demos
+- [ ] Investor context used for Sequoia updates
 
-### Phase 3 (Team Modes)
-- [ ] ScaleUp Company requests team access
-- [ ] Manager mode tested with real managers
-- [ ] IC mode tested with real ICs
-- [ ] Adoption rate measured vs. founder-only
+### Phase 3 (Expanded Contexts)
+- [ ] Manager/Coach context tested with real managers (ScaleUp Company)
+- [ ] IC context tested with real ICs
+- [ ] GTM channel exploration signals incorporated into context design
+- [ ] Adoption rate measured: Leadership Team vs founder-only
 
 ## Strategic Constraints
 
-- We do NOT build separate interfaces — one interface, multiple modes
-- We do NOT over-invest in demo prep — lighthouse only, then templates
-- We do NOT build team modes before demand validated
+- Every role context MUST share the same strategy tree — no siloed intelligence
+- Context scoping MUST be explicit — what you see, what you can do, what gets captured
+- We do NOT build expanded role contexts before demand is validated through channel exploration
 - We do NOT compromise authenticity for role-appropriateness (no spin layer)
-- We do NOT let mode complexity slow down core product shipping
+- Context design MUST be informed by real conversations with coaches, advisory firms, and team members
 
 ## Key Assumptions
 
 | ID | Assumption | Confidence | Validation |
 |----|------------|------------|------------|
-| A26 | Organizations want strategy accessible beyond executives | 75% | ScaleUp Company feedback on team modes |
-| A27 | Role-aware modes increase adoption vs one-size-fits-all | 70% | Usage comparison post-Phase 3 |
+| A26 | Organizations want strategy accessible beyond executives | 75% | ScaleUp Company feedback on team contexts |
+| A27 | Role-aware contexts increase adoption vs one-size-fits-all | 70% | Usage comparison post-Phase 3 |
 | A29 | Prospects convert better when demo uses their context | 85% | First 3 lighthouse demos |
-| A31 | One interface with modes is simpler than separate interfaces | 90% | Implementation effort |
-
-## Next Actions
-
-| Action | Deadline | Notes |
-|--------|----------|-------|
-| Build prospect mode prompt | Feb 2026 | Add role context to existing Advisor prompt |
-| Test with next prospect | Next demo | ScaleUp Company or next lighthouse |
-| Build investor mode prompt | Post-funding | For Sequoia updates |
-| Test team mode interest | Q2 2026 | Ask ScaleUp Company explicitly |
+| A31 | One system with role contexts is simpler than separate products | 90% | Implementation effort |
 
 ## Relationship to Other Strategies
 
 - **Parent**: Product Architecture — core architectural pattern
+- **Sibling/delivery**: Stratafy Leadership Team — plugins that consume this context layer
 - **Supports**: Product-Market Fit — expands value beyond founder
 - **Supports**: Category Creation — "strategic intelligence for everyone"
-- **Enables**: Funding & Growth — investor mode for Sequoia
-- **Enables**: Sales — prospect mode makes demo = product
+- **Enables**: Funding & Growth — investor context for Sequoia
+- **Enables**: GTM Channels — team contexts unblock coach and advisory channel execution
+- **Informed by**: GTM channel exploration — every channel conversation is a data point for context design
 
 ## Key Initiatives
+- [Context Intelligence v2 — Query-Intent Routing & Adaptive Compression](../initiatives/context-intelligence-v2-query-intent-routing-adaptive-compression.md)
 - [Stratafy Leadership Team — Cowork Plugins](../initiatives/stratafy-leadership-team-cowork-plugins.md)
 - [External Context Packaging](../initiatives/external-context-packaging.md)
 - [[FUTURE] Stakeholder Alignment Mapping](../initiatives/future-stakeholder-alignment-mapping.md)

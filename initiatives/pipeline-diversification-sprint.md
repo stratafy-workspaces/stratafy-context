@@ -10,10 +10,10 @@ completionPercentage: 0
 # Pipeline Diversification Sprint
 
 ## Description
-Build a real lighthouse pipeline beyond Nicholas (ScaleUp) and Pieter (Clickatell). Target: 8-10 qualified prospects by end of February.
+Build a real lighthouse pipeline beyond Nicholas (ScaleUp) and Pieter (Clickatell). Original target was 8-10 qualified prospects by end of February — extended to March as pipeline building continues through demos and network referrals. Track pipeline health and conversion in Attio; this initiative covers the strategic goal of pipeline breadth.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/company/product-market-fit.md)
+[Product-Market Fit](../strategy/functional/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: in progress
@@ -25,7 +25,7 @@ No objectives defined
 
 ## Timeline
 - **Start Date**: 2026-02-08
-- **Target Date**: 2026-02-28
+- **Target Date**: 2026-03-31
 
 ## Content
 ## Why Now

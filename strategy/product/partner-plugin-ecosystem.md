@@ -9,7 +9,7 @@ parent: 0a24cfc9-4e6d-48dc-9a0b-9f4f951a4222
 # Partner Plugin Ecosystem
 
 ## Description
-Enable third-party professional services firms — starting with HR consulting — to build branded Claude-powered plugins on Stratafy's infrastructure. Stratafy provides full-stack enablement: IP ingestion and hosting, agent construction, workspace integration, and marketplace distribution. Partners bring domain methodology and client relationships. This transforms Stratafy from a strategic operating system into a platform that verticalized experts can build on, creating a new revenue stream, deepening product stickiness, and expanding TAM without Stratafy needing to hire specialist domain expertise.
+Enable third-party professional services firms — starting with HR consulting — to build branded Claude-powered plugins on Stratafy's infrastructure. Stratafy provides full-stack enablement: IP ingestion and hosting, agent construction, workspace integration, and marketplace distribution. Partners bring domain methodology and client relationships. This transforms Stratafy from a strategic operating system into a platform that verticalized experts can build on, creating a new revenue stream, deepening product stickiness, and expanding TAM without Stratafy needing to hire specialist domain expertise. This strategy defines the product capability; the Partner Ecosystem Channel (under GTM Channels) defines the distribution motion that leverages this capability.
 
 ## Content
 No content available

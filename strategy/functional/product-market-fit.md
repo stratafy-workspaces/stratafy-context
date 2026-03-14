@@ -2,20 +2,14 @@
 id: b481f1f7-0934-4e76-a891-bddfaf624045
 type: strategy
 status: active
-strategyType: company
+strategyType: functional
 parent: ef7987af-9198-4259-8f1a-f73f25c7b94a
 ---
 
 # Product-Market Fit
 
 ## Description
-Achieve product-market fit by validating Stratafy as strategic infrastructure through lighthouse customers, design partnerships, and repeatable commercial engagements.
-
-EVOLUTION (March 2026): The Stratafy Leadership Team provides a new lead demo hook. Instead of 'let me show you our strategic operating system,' demos now lead with 'let me show you your Stratafy CFO.' The scan becomes what the CFO does, not a standalone feature. The strategic advisor becomes Stratafy CEO-mode, not a separate concept.
-
-All active prospect engagements should be evaluated for Leadership Team framing. Key question per prospect: would they respond better to 'we'll give you an executive team' or 'we'll give you strategic infrastructure'? For solo founders and early-stage teams, the executive team framing will almost always win.
-
-The pricing reframe (R25k/month for three AI executives vs. R25k/month for a strategic operating system) is the sharpest sales tool in the arsenal.
+Achieve product-market fit by validating Stratafy as strategic infrastructure through lighthouse customers, design partnerships, and repeatable commercial engagements. Target AI-forward startups and scaling companies (10–200 employees), leading with the Strategic Advisor workflow as the immediate value hook. Success = 3+ active customers with measurable improvement and a referenceable testimonial by Q3 2026.
 
 ## Content
 # Product-Market Fit (S1)
@@ -34,6 +28,14 @@ The pricing reframe (R25k/month for three AI executives vs. R25k/month for a str
 - Position as "strategic infrastructure for the AI era"
 - **Lead with Strategic Advisor workflow as immediate value hook** — AI that knows full context, structures thinking in real-time, and writes directly into the system
 - Differentiate from OKR tools by emphasizing continuous alignment, not periodic tracking
+
+### Leadership Team Framing (March 2026 Evolution)
+
+The Stratafy Leadership Team provides a new lead demo hook. Instead of "let me show you our strategic operating system," demos now lead with "let me show you your Stratafy CFO." The scan becomes what the CFO does, not a standalone feature. The strategic advisor becomes Stratafy CEO-mode, not a separate concept.
+
+All active prospect engagements should be evaluated for Leadership Team framing. Key question per prospect: would they respond better to "we'll give you an executive team" or "we'll give you strategic infrastructure"? For solo founders and early-stage teams, the executive team framing will almost always win.
+
+The pricing reframe (R25k/month for three AI executives vs. R25k/month for a strategic operating system) is the sharpest sales tool in the arsenal.
 
 ## The Strategic Advisor Workflow
 
@@ -86,7 +88,7 @@ This operationalizes the principle "Strategy flows both directions." It's not ju
 - At least one referenceable testimonial
 - Customers say "this saved me days of work"
 
-### AI Consumption Metrics (NEW)
+### AI Consumption Metrics
 - MCP query volume per customer per week
 - % of strategic context accessed via API (target: 50%+ by end of PMF)
 - # of AI-mediated strategy updates per customer per month
@@ -163,28 +165,13 @@ If Strategic Advisor isn't the hook by end of Q1, have validated alternative rea
 | Values | 8/10 | Human primacy, earned trust well-reflected |
 | Principles | 7/10 | Feedback loop now documented; Pulse sequencing explained |
 
-**Addressed in this update:**
-- ✅ AI consumption metrics added
-- ✅ Feedback loop (bottom-up) documented with proof point
-- ✅ Directional success metrics for 90%+ trajectory
-- ✅ Pulse sequencing explained (intentionally Phase 2)
-- ✅ Parallel validation for A1 de-risking added
-
 ## Key Initiatives
-- [Too Many Robots / Keegan Da Costa Follow-up — Week of Mar 2](../initiatives/too-many-robots-keegan-da-costa-follow-up-week-of-mar-2.md)
-- [Brad Wilson / Rolling Start + Global Access Demo — Week of Feb 27](../initiatives/brad-wilson-rolling-start-global-access-demo-week-of-feb-27.md)
 - [Pricing Model & Revenue Architecture (Leadership Team Tiers)](../initiatives/pricing-model-revenue-architecture-leadership-team-tiers.md)
 - [STIR Collective: First Customer Engagement](../initiatives/stir-collective-first-customer-engagement.md)
-- [Public Narrative Alignment Scan](../initiatives/public-narrative-alignment-scan.md)
-- [Investor Update Generator](../initiatives/investor-update-generator.md)
-- [Strategy Export to PDF](../initiatives/strategy-export-to-pdf.md)
 - [Customer Onboarding Experience](../initiatives/customer-onboarding-experience.md)
 - [Pipeline Diversification Sprint](../initiatives/pipeline-diversification-sprint.md)
 - [Strategic Advisor Workflow Documentation](../initiatives/strategic-advisor-workflow-documentation.md)
-- [Internal Sensing (Pulse)](../initiatives/internal-sensing-pulse.md)
-- [Cortex Enhancement](../initiatives/cortex-enhancement.md)
 - [Lighthouse Customer Program](../initiatives/lighthouse-customer-program.md)
-- [MVP Development](../initiatives/mvp-development.md)
 
 ## Alignment Score
 Not calculated

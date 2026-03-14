@@ -3,7 +3,7 @@ id: f817d84d-acd4-42bb-bf42-442f682ab5ee
 type: initiative
 status: draft
 priority: medium
-strategy: Product-Market Fit
+strategy: Product Architecture
 completionPercentage: 0
 ---
 
@@ -13,7 +13,7 @@ completionPercentage: 0
 Add Pulse for internal health monitoring (progress tracking, execution drift detection) and basic Tactics layer (objectives, metrics). Complete the feedback loop with Radar.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/company/product-market-fit.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

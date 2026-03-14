@@ -21,6 +21,4 @@ StratClaw's finding that "90% of misalignment is poor handoffs, not bad goals" s
 ## Validation
 - **Method**: Test both framings in ScaleUp demo (Feb 23), Knife Capital conversation, and Pieter meeting (March). Track which framing generates more engagement, follow-up questions, and "I have that problem" responses.
 - **Validated At**: Not yet validated
-- **Evidence**: PREVIOUS: The Strategic Context Layer document builds the full argument for context transfer bottleneck as the primary framing. StratClaw independently converged on the same framing. Moving to "likely" — the argument is fully articulated and internally validated.
-
-VALIDATION DEADLINE: Feb 23 (ScaleUp demo) — test both framings. Use "context transfer bottleneck" as primary, watch for resonance vs. "execution gap." Follow up with Limbik (Feb 24), Pieter (March), Knife Capital. Must decide on primary pitch framing by March 31 for Sequoia prep.
+- **Evidence**: "Context engineering" is now a funded infrastructure category: Mem0 ($24M), HydraDB ($6.5M), Zep, Letta all use this framing. Investors are allocating capital to "context" as a category label. Framing Stratafy as "strategic context engineering" or leading with the "context transfer bottleneck" connects to where investor money is flowing, rather than the more abstract "execution gap" which doesn't map to an existing funded category. The New Stack published "Memory for AI Agents: A New Paradigm of Context Engineering" (2026), confirming the framing has media traction.

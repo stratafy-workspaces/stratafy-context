@@ -182,6 +182,8 @@ What this strategy constrains—explicit choices about what we will NOT do:
 - ✅ New constraint: "We do NOT let messaging outpace product capability"
 
 ## Key Initiatives
+- [Publish Technical Research Paper](../initiatives/publish-technical-research-paper.md)
+- [Develop Category Enemy Narrative](../initiatives/develop-category-enemy-narrative.md)
 - [Invisible Infrastructure Positioning Playbook](../initiatives/invisible-infrastructure-positioning-playbook.md)
 - [Guardian of the Context Role Definition & Content](../initiatives/guardian-of-the-context-role-definition-content.md)
 - [AI Operations Stack Methodology](../initiatives/ai-operations-stack-methodology.md)

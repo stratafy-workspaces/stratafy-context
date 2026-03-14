@@ -13,7 +13,7 @@ completionPercentage: 0
 Recruit 2-3 lighthouse customers via networks for free betas. Provide guided onboarding and establish co-development feedback loops. Document outcomes for investor materials.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/company/product-market-fit.md)
+[Product-Market Fit](../strategy/functional/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: draft

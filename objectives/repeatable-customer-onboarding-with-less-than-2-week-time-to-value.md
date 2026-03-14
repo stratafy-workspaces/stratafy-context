@@ -10,7 +10,7 @@ initiative: No initiative assigned
 # Repeatable customer onboarding with less than 2 week time-to-value
 
 ## Description
-3+ customers onboarded through the same playbook with less than 2 weeks from first session to independent usage. Validates that Stratafy's value is product-driven, not founder-driven. The onboarding flow should be documented and repeatable without Leonard in every session.
+Achieve repeatable customer onboarding with less than 2 weeks from signup to active strategic use. Target: 3 customers successfully onboarded through the repeatable process.
 
 ## Hierarchy
 

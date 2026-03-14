@@ -26,7 +26,7 @@ REVENUE SHARE MECHANICS: Advisory firms earn 15-20% on client MRR they bring to 
 KEY DELIVERABLES: Validated tier structure, executive-team-based pricing page, revenue share agreements, competitive positioning vs. fractional exec marketplaces, regional pricing (ZAR primary, USD for international).
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/company/product-market-fit.md)
+[Product-Market Fit](../strategy/functional/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: active

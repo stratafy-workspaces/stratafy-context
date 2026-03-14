@@ -3,7 +3,7 @@ id: 036c783a-c105-4fb0-b1e4-b73a43afadb3
 type: initiative
 status: draft
 priority: medium
-strategy: Product-Market Fit
+strategy: Product Architecture
 completionPercentage: 0
 ---
 
@@ -13,7 +13,7 @@ completionPercentage: 0
 Integrate basic Cortex functionality for strategy analysis, including alignment checks between components (e.g., initiatives to mission/vision) and gap detection. Enhance with on-demand reports and AI suggestions.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/company/product-market-fit.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

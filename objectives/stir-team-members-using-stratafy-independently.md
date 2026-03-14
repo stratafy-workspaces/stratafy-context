@@ -13,7 +13,7 @@ initiative: STIR Collective: First Customer Engagement
 Track STIR team members actively using Stratafy without Leonard driving the session. This validates whether Stratafy works as an operating system (independent use) vs a consulting tool (requires Leonard). Target 3 independent users by end of April: ideally Thando (MD), Pieter Meyer (COO), and one department head.
 
 ## Hierarchy
-**Strategy**: [Product-Market Fit](../strategy/company/product-market-fit.md)
+**Strategy**: [Product-Market Fit](../strategy/functional/product-market-fit.md)
 **Initiative**: [STIR Collective: First Customer Engagement](../initiatives/stir-collective-first-customer-engagement.md)
 
 ## Objective Details

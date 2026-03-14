@@ -42,7 +42,7 @@ Governance view. Alignment scores, risks, decisions, radar. Interface tone.
 **ACTIVATION:** MCP slash command prompts. One mechanism, role-adapted experiences.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/company/product-market-fit.md)
+[Product-Market Fit](../strategy/functional/product-market-fit.md)
 
 ## Status & Progress
 - **Status**: in progress

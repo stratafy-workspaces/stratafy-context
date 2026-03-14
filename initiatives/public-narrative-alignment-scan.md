@@ -3,7 +3,7 @@ id: ab747c69-167b-49f8-a4e7-8b6e1f0af52c
 type: initiative
 status: draft
 priority: high
-strategy: Product-Market Fit
+strategy: Product Architecture
 completionPercentage: 0
 ---
 
@@ -13,7 +13,7 @@ completionPercentage: 0
 Build a scan that constructs perceived strategy from public sources (website, LinkedIn, job postings, press) and compares against actual strategy in workspace. The gap between public narrative and strategic reality is a high-value finding that works as demo opener, paid deliverable, and ongoing monitoring.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/company/product-market-fit.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: draft

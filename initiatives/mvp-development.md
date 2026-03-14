@@ -3,7 +3,7 @@ id: 81c4f010-17e7-40d5-9045-e02c52f04507
 type: initiative
 status: in_progress
 priority: critical
-strategy: Product-Market Fit
+strategy: Product Architecture
 completionPercentage: 0
 ---
 
@@ -13,7 +13,7 @@ completionPercentage: 0
 Build "Stratafy Lite" with core functionality—Strategy layer (define strategies, initiatives) and Radar (external monitoring for weekly insights). Use existing AI APIs for semantic matching and data ingestion.
 
 ## Parent Strategy
-[Product-Market Fit](../strategy/company/product-market-fit.md)
+[Product Architecture](../strategy/product/product-architecture.md)
 
 ## Status & Progress
 - **Status**: in progress
