@@ -3,17 +3,17 @@ id: e3815eff-34aa-4ba3-b4e1-4913430df4b8
 type: initiative
 status: draft
 priority: medium
-strategy: Pulse
+strategy: Strategic Intelligence
 completionPercentage: 0
 ---
 
 # Build Pulse Early Warning System and Drift Detection
 
 ## Description
-Build the early warning system: automatic drift detection when alignment scores degrade, threshold alerts with intelligent false-positive filtering, predictive modeling for execution problems based on trend patterns, escalation protocols for leadership intervention. Alert system must be smart — alert fatigue is worse than no alerts. Statistical confidence scoring on all trend signals. Integration with InsightSync: when Pulse detects a significant misalignment, it can trigger an InsightSync session recommendation to address it structurally.
+Automatic drift detection, threshold alerts with false-positive filtering, and predictive modeling for execution problems — smart early warning without alert fatigue.
 
 ## Parent Strategy
-[Pulse](../strategy/product/pulse.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft
@@ -28,4 +28,30 @@ No objectives defined
 - **Target Date**: Not set
 
 ## Content
-No content available
+## Overview
+
+The Pulse Early Warning System provides automatic drift detection when alignment scores degrade, with intelligent alerting that avoids alert fatigue. Statistical confidence scoring ensures signals are meaningful, and InsightSync integration enables structural response to detected misalignments.
+
+## Scope
+
+### Drift Detection
+- Automatic detection when alignment scores degrade
+- Threshold alerts with intelligent false-positive filtering
+- Statistical confidence scoring on all trend signals
+
+### Predictive Modeling
+- Pattern-based prediction of execution problems
+- Trend analysis for early intervention
+
+### Escalation Protocols
+- Leadership intervention triggers with context
+- Smart alerting: alert fatigue is worse than no alerts
+
+### InsightSync Integration
+- Detected misalignment can trigger InsightSync session recommendations
+- Structural response to systemic issues, not just notifications
+
+## Expected Outcomes
+- Execution drift detected before it becomes visible in outcomes
+- Leaders trust the alert system because it filters noise effectively
+- Predictive signals enable proactive intervention rather than reactive firefighting

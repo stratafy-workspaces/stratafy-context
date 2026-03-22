@@ -7,7 +7,7 @@ likelihood: high
 impact: high
 riskScore: 9
 status: active
-mitigationStatus: identified
+mitigationStatus: in_progress
 ---
 
 # No revenue model or pricing strategy defined
@@ -24,7 +24,7 @@ No pricing strategy, revenue model, or monetization plan is visible anywhere in 
 - **Status**: active
 
 ## Mitigation
-- **Status**: identified
-- **Plan**: Define preliminary pricing tiers before lighthouse customer conversations progress beyond pilot. Research comparable SaaS pricing (strategy tools, AI governance platforms). Test willingness-to-pay with ScaleUp during pilot. Have at least a working pricing hypothesis ready for the April pitch — investors expect this even at seed stage.
+- **Status**: in_progress
+- **Plan**: Three-phase pricing strategy now defined and documented (March 2026). Phase 1: Pioneer Program (R0–5K/month) for 10–15 active workspaces — answers "are they free pilots forever?" with time-bounded pioneer terms. Phase 2: Infrastructure Tiers (Foundation R5–10K, Intelligence R25–50K, Enterprise R50–100K) — answers "what's the ACV target?" Phase 3: Usage-based scale pricing. Revenue share for advisory firms defined at 15–20% on client MRR. STIR Collective at R25K/month validates the price floor. Full model in "Stratafy Pricing Model — Three-Phase Infrastructure Pricing" doc. Decision recorded: "Retire $149–499/mo SaaS pricing model."
 - **Review Date**: Not scheduled
 

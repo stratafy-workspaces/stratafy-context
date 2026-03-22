@@ -7,7 +7,7 @@ likelihood: high
 impact: high
 riskScore: 9
 status: active
-mitigationStatus: identified
+mitigationStatus: in_progress
 ---
 
 # Undefined pricing model blocks coach channel activation
@@ -24,7 +24,7 @@ No pricing model has been defined for Stratafy's coach-led distribution channel.
 - **Status**: active
 
 ## Mitigation
-- **Status**: identified
-- **Plan**: Define and validate a coach-facing pricing model before activating the Coach Network GTM strategy. Include revenue share structure, per-workspace pricing tiers, and free trial mechanics.
+- **Status**: in_progress
+- **Plan**: Three-phase pricing strategy now defined. Phase 1 (Pioneer Program) gives coaches a clear offer: free workspace access, bring clients, pioneer pricing. Phase 2 defines coach revenue share at 15–20% on client MRR with lifetime duration. Full terms documented in "Pioneer Program — Terms & Structure" and "Stratafy Pricing Model — Three-Phase Infrastructure Pricing."
 - **Review Date**: Not scheduled
 

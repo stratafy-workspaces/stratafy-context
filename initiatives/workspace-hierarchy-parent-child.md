@@ -1,9 +1,9 @@
 ---
 id: 3c295a0e-43e1-49c5-bcd8-32543a8796aa
 type: initiative
-status: active
+status: archived
 priority: medium
-strategy: Product Architecture
+strategy: Core Product Capabilities
 completionPercentage: 0
 ---
 
@@ -13,10 +13,10 @@ completionPercentage: 0
 Introduce parent/child workspace hierarchy to support aggregator use cases (VC firms, advisory firms). Parent workspaces can query across child workspaces for portfolio-level insights, alignment scores, and strategic health.
 
 ## Parent Strategy
-[Product Architecture](../strategy/product/product-architecture.md)
+[Core Product Capabilities](../strategy/product/core-product-capabilities.md)
 
 ## Status & Progress
-- **Status**: active
+- **Status**: archived
 - **Priority**: medium
 - **Completion**: 0%
 

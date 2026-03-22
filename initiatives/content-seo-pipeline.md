@@ -10,40 +10,7 @@ completionPercentage: 0
 # Content & SEO Pipeline
 
 ## Description
-**Part of: AI-Augmented Operations**
-
-Accelerate category creation through content, managed by Chief of Staff Agent.
-
-**ROLE IN AI-AUGMENTED OPS:**
-First workstream managed by Chief of Staff. Tests agent's ability to track creative/knowledge work pipeline, not just operational tasks.
-
-**CONTENT QUEUE:**
-Articles (Content Foundation):
-1. The Execution Gap Explained
-2. The Four Problems AI Creates for Organizations
-3. From Document to Infrastructure
-4. The Flywheel Effect
-5. AI Governance Is Not Optional
-6. Measuring Strategic Health
-7. Velocity With Alignment
-
-AI Tools Directory:
-- OpenClaw (published)
-- Claude Desktop
-- Claude Code
-- Lindy.ai
-
-**WORKFLOW:**
-1. Chief of Staff creates content tasks in Linear with briefs
-2. Leonard drafts (or uses Claude to draft)
-3. Draft added to Linear task
-4. Leonard reviews/edits → approves
-5. Publish
-6. Chief of Staff updates tracking
-
-**SUCCESS CRITERIA:**
-- 7 articles published before April pitch window
-- 4 AI Tools Directory entries by Feb 15
+AI-managed content pipeline: 7 foundation articles and 4 AI Tools Directory entries, coordinated by Chief of Staff Agent through Linear.
 
 ## Parent Strategy
 [AI Leverage & Automation](../strategy/technology/ai-leverage-automation.md)
@@ -61,4 +28,33 @@ No objectives defined
 - **Target Date**: 2026-03-15
 
 ## Content
-No content available
+## Overview
+
+Accelerate category creation through a structured content pipeline managed by the Chief of Staff Agent. This is the first workstream testing the agent's ability to track creative and knowledge work, not just operational tasks.
+
+## Scope
+
+### Content Queue
+**Articles (Content Foundation):**
+1. The Execution Gap Explained
+2. The Four Problems AI Creates for Organizations
+3. From Document to Infrastructure
+4. The Flywheel Effect
+5. AI Governance Is Not Optional
+6. Measuring Strategic Health
+7. Velocity With Alignment
+
+**AI Tools Directory:** OpenClaw (published), Claude Desktop, Claude Code, Lindy.ai
+
+### Workflow
+1. Chief of Staff creates content tasks in Linear with briefs
+2. Leonard drafts (or uses Claude to draft)
+3. Draft added to Linear task
+4. Leonard reviews/edits and approves
+5. Publish and Chief of Staff updates tracking
+
+## Expected Outcomes
+
+- 7 articles published before April pitch window
+- 4 AI Tools Directory entries completed
+- Validated agent management of creative work pipelines

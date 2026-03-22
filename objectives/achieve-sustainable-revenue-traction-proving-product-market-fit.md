@@ -4,6 +4,7 @@ type: objective
 objectiveType: strategic
 status: active
 priority: critical
+okrScore: 0.25
 initiative: No initiative assigned
 ---
 
@@ -24,7 +25,7 @@ No initiative assigned
 - **Current Value**: 25000
 
 ## OKR Scoring
-No OKR score set
+**Current Score**: 0.25/100
 
 ## Timeline
 - **Target Date**: 2026-12-31

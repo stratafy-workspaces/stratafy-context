@@ -10,29 +10,7 @@ completionPercentage: 0
 # [FUTURE] Cultural & Values Coherence Sensing
 
 ## Description
-Detect whether lived organizational behavior actually reflects stated values and principles. The hardest sensing problem — but where the real rot happens.
-
-KEY CAPABILITIES:
-- Decision pattern analysis: do logged decisions align with stated values?
-- Consistency detection: flag when decision rationale contradicts principles
-- Communication tone analysis: does how we talk match who we say we are?
-- Hiring pattern analysis: are we hiring for the capabilities our values demand?
-- Values drift alerting: "you say you value transparency but your last 5 decisions had no documented rationale"
-
-SIGNAL SOURCES:
-- Decision Log patterns (rationale vs values)
-- Insight themes (what keeps surfacing vs what values prioritize)
-- Radar findings response (do we act on what aligns with values or ignore it?)
-- Organigram data (does structure reflect stated principles?)
-- Execution session data (where does time actually go vs stated priorities?)
-
-WHY IT MATTERS: Foundation layer currently feels aspirational — values on a wall. This makes it alive. When the system can say "your values say X but your behavior shows Y," that's when foundation becomes infrastructure, not decoration. Directly validates a core Stratafy belief.
-
-ADVISORY FIRM VALUE: Culture assessments are a premium service. Automating the sensing turns it from a one-off engagement into continuous monitoring.
-
-STATUS: Future — depends on sufficient behavioral data across decisions, insights, and execution sessions. Hardest to build, potentially highest value.
-
-ARCHITECTURE: Cortex layer. Cross-references foundation elements against behavioral data from decisions, insights, execution sessions, and organigram.
+Detect whether lived organizational behavior reflects stated values — surfacing the gap between what companies say and what they do.
 
 ## Parent Strategy
 [Strategic Intelligence](../strategy/product/strategic-intelligence.md)
@@ -50,4 +28,32 @@ No objectives defined
 - **Target Date**: 2026-12-31
 
 ## Content
-No content available
+## Overview
+
+Detect whether lived organizational behavior actually reflects stated values and principles. This is the hardest sensing problem — but where the real rot happens. When the system can say "your values say X but your behavior shows Y," foundation becomes infrastructure, not decoration.
+
+## Scope
+
+### Behavioral Analysis
+- Decision pattern analysis: do logged decisions align with stated values?
+- Consistency detection: flag when decision rationale contradicts principles
+- Communication tone analysis: does how we talk match who we say we are?
+
+### Signal Sources
+- Decision Log patterns (rationale vs values)
+- Insight themes (what keeps surfacing vs what values prioritize)
+- Radar findings response (do we act on what aligns with values?)
+- Organigram data (does structure reflect stated principles?)
+- Execution session data (where does time actually go?)
+
+### Alerting
+- Values drift detection: "you say you value transparency but your last 5 decisions had no documented rationale"
+- Hiring pattern analysis against capability demands
+
+## Advisory Firm Value
+Culture assessments are a premium service. Automating the sensing turns one-off engagements into continuous monitoring.
+
+## Expected Outcomes
+- Foundation layer becomes alive rather than aspirational
+- Advisory firms gain automated culture assessment capability
+- Organizations receive concrete evidence of values-behavior alignment or drift

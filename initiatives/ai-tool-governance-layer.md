@@ -10,13 +10,7 @@ completionPercentage: 0
 # AI Tool Governance Layer
 
 ## Description
-Extend Stratafy from strategic context packaging to AI tool and workflow governance — determining which MCP tools and Cowork plugins each person's AI agent can access, scoped by strategic context rather than IT permissions.
-
-As AI desktop agents proliferate, the governance stack has four layers: Protocol, Identity, Enforcement (Cloudflare/Azure/AWS), and Strategic Policy. Nobody occupies Layer 4 (Strategic Policy). Stratafy's strategy tree provides the semantic information needed to govern at both tool and workflow level.
-
-Technical feasibility validated — Cloudflare, Azure, AWS all have programmatic MCP governance APIs. A PoC integrating Stratafy with Cloudflare's API is buildable in 1-2 days.
-
-Phase 1 (Now–Q2 2026): Narrative seeding + Cloudflare PoC for investor demos. Phase 2 (Q3-Q4 2026): Productize with multi-platform integrations. Phase 3 (Q1-Q2 2027): Enterprise positioning.
+AI tool and workflow governance scoped by strategic context. Occupy Layer 4 (Strategic Policy) in the AI governance stack.
 
 ## Parent Strategy
 [Product Architecture](../strategy/product/product-architecture.md)
@@ -34,4 +28,23 @@ No objectives defined
 - **Target Date**: 2026-06-30
 
 ## Content
-No content available
+## Overview
+
+Extend Stratafy from strategic context packaging to AI tool and workflow governance — determining which MCP tools and plugins each person's AI agent can access, scoped by strategic context rather than IT permissions.
+
+## Scope
+
+- **Layer 4 — Strategic Policy**: Occupy the unoccupied governance layer above Protocol, Identity, and Enforcement
+- **Tool-level governance**: Control which MCP tools each role/person can invoke based on strategic position
+- **Workflow-level governance**: Govern multi-step AI workflows against strategic boundaries
+- **Multi-platform integration**: Cloudflare, Azure, and AWS MCP governance APIs
+- **Phase 1 (Now-Q2 2026)**: Narrative seeding and Cloudflare PoC for investor demos
+- **Phase 2 (Q3-Q4 2026)**: Productise with multi-platform integrations
+- **Phase 3 (Q1-Q2 2027)**: Enterprise positioning
+
+## Expected Outcomes
+
+- Position Stratafy as the strategic policy layer in the AI governance stack
+- Demonstrate technical feasibility via Cloudflare PoC (1-2 day build)
+- Create a differentiated moat: strategy tree provides semantic context no other tool has
+- Open enterprise sales conversations around AI governance compliance

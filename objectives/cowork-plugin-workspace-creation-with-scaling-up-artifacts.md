@@ -4,6 +4,7 @@ type: objective
 objectiveType: key_result
 status: active
 priority: critical
+okrScore: 0.4
 initiative: Strategic Alignment Suite
 ---
 
@@ -24,7 +25,7 @@ Cowork plugin must be able to create a new workspace, populate it with Scaling U
 - **Current Value**: Not set
 
 ## OKR Scoring
-No OKR score set
+**Current Score**: 0.4/100
 
 ## Timeline
 - **Target Date**: 2026-03-06

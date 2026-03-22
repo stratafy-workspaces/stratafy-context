@@ -3,7 +3,7 @@ id: db892907-2f19-4a2c-b812-948db2265cd3
 type: initiative
 status: draft
 priority: medium
-strategy: Product Architecture
+strategy: Strategic Intelligence
 completionPercentage: 0
 ---
 
@@ -13,7 +13,7 @@ completionPercentage: 0
 Build a hierarchical document tree with a separate document_tree_nodes table that organizes workspace documents into navigable sections (Legal, HR, Research, etc.). Sections are lightweight containers; documents are referenced by node, keeping the tree independent from document data. Documents retain existing entity linking (strategies, initiatives, etc.) for strategic context. MCP-first implementation with 8 tree tools + search tool. Frontend uses Nuxt UI UTree component that replaces the standard left-hand sidebar when in documents view. All documents are synced to xAI Collections API for semantic/hybrid search — on every create and update, document content is uploaded to a per-workspace collection, enabling intelligent document retrieval across the knowledge base.
 
 ## Parent Strategy
-[Product Architecture](../strategy/product/product-architecture.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

@@ -10,7 +10,7 @@ completionPercentage: 0
 # Lighthouse Customer Program
 
 ## Description
-Recruit 2-3 lighthouse customers via networks for free betas. Provide guided onboarding and establish co-development feedback loops. Document outcomes for investor materials.
+Recruit 2-3 free beta customers via networks. Guided onboarding, co-development feedback loops, and documented outcomes for investors.
 
 ## Parent Strategy
 [Product-Market Fit](../strategy/functional/product-market-fit.md)
@@ -28,4 +28,21 @@ No objectives defined
 - **Target Date**: 2026-06-30
 
 ## Content
-No content available
+## Overview
+
+Recruit 2-3 lighthouse customers through existing networks for free beta access. Provide guided onboarding, establish co-development feedback loops, and document outcomes for investor materials.
+
+## Scope
+
+- Identify and recruit 2-3 ideal-profile customers (AI-forward startups/scaling companies, 10-200 employees)
+- Provide hands-on guided onboarding with the Strategic Advisor workflow
+- Establish regular feedback cadence for co-development input
+- Document usage patterns, outcomes, and testimonials for investor materials
+- Track measurable improvement in strategic clarity and decision velocity
+
+## Expected Outcomes
+
+- Validate product-market fit through real customer usage and feedback
+- Generate 3+ referenceable testimonials by Q3 2026
+- Create case study material demonstrating measurable strategic improvement
+- Build co-development relationships that shape product roadmap from real needs

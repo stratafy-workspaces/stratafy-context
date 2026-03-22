@@ -214,25 +214,11 @@ What this strategy constrains:
 - ✅ Explainability progression table added
 
 ## Key Initiatives
-- [MCP Server Optimisation](../initiatives/mcp-server-optimisation.md)
+- [US Compliance & Certification Readiness](../initiatives/us-compliance-certification-readiness.md)
 - [AI Tool Governance Layer](../initiatives/ai-tool-governance-layer.md)
-- [Claude Cowork Plugin for Stratafy](../initiatives/claude-cowork-plugin-for-stratafy.md)
-- [Universal Entity Embedding & Semantic Search](../initiatives/universal-entity-embedding-semantic-search.md)
-- [Build Stratafy Cowork Plugin](../initiatives/build-stratafy-cowork-plugin.md)
-- [Document Signing & Finalization](../initiatives/document-signing-finalization.md)
-- [Document Tree — Hierarchical Knowledge Base](../initiatives/document-tree-hierarchical-knowledge-base.md)
-- [AI-Powered Strategy Contribution & Approval Engine](../initiatives/ai-powered-strategy-contribution-approval-engine.md)
-- [Strategic Coherence Scan](../initiatives/strategic-coherence-scan.md)
+- [Stratafy Expert Plugin Ecosystem — Build, Brand & Ship](../initiatives/stratafy-expert-plugin-ecosystem-build-brand-ship.md)
 - [[FUTURE] Dependency & Sequencing Intelligence](../initiatives/future-dependency-sequencing-intelligence.md)
-- [Organigram-Strategy Alignment Scan](../initiatives/organigram-strategy-alignment-scan.md)
-- [Public Narrative Alignment Scan](../initiatives/public-narrative-alignment-scan.md)
-- [Investor Update Generator](../initiatives/investor-update-generator.md)
-- [Strategy Export to PDF](../initiatives/strategy-export-to-pdf.md)
-- [Workspace Hierarchy (Parent/Child)](../initiatives/workspace-hierarchy-parent-child.md)
 - [Product Feedback Capture System](../initiatives/product-feedback-capture-system.md)
-- [Strategic Health Index and Case Study Infrastructure](../initiatives/strategic-health-index-and-case-study-infrastructure.md)
-- [Internal Sensing (Pulse)](../initiatives/internal-sensing-pulse.md)
-- [Cortex Enhancement](../initiatives/cortex-enhancement.md)
 - [MVP Development](../initiatives/mvp-development.md)
 
 ## Alignment Score

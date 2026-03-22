@@ -3,34 +3,17 @@ id: 9fcc5ecc-cbb0-40db-8b73-d68f0e864ed0
 type: initiative
 status: draft
 priority: medium
-strategy: Role-Aware Strategic Intelligence
+strategy: Strategic Delivery
 completionPercentage: 0
 ---
 
 # [FUTURE] Stakeholder Alignment Mapping
 
 ## Description
-Measure whether stakeholders actually understand and agree on strategy — not just whether it exists. Surfaces interpretation drift before it becomes execution drift.
-
-KEY CAPABILITIES:
-- Periodic pulse: "what do you think our top 3 priorities are?" per role
-- Compare responses against actual strategy — surface gaps between intent and understanding
-- Alignment heatmap: which parts of strategy are well-understood, which are confused?
-- Role-level analysis: does leadership think one thing while teams believe another?
-- Trend tracking: is alignment improving or degrading over time?
-
-WHY IT MATTERS: A CEO thinks strategy is clear. The VP of Engineering has a different interpretation. Teams execute based on their understanding, not the document. This is the invisible execution gap — not structural, not behavioral, but interpretive. Surfacing it is uniquely valuable.
-
-ADVISORY FIRM VALUE: Coaches live in the gap between what leadership thinks is communicated and what teams understand. This gives them a measurable, repeatable assessment to run every session — and concrete evidence of progress.
-
-ARCHITECTURE: Lightweight survey/pulse mechanism integrated with the strategy tree. Compare responses against workspace data. Could start as simple as MCP-driven prompts before building dedicated UI.
-
-QUICK WIN POTENTIAL: Simpler to build than the other future capabilities. High value for advisory channel. Could be an early differentiator.
-
-STATUS: Future — but closer to buildable than scenario planning. Consider for Q2.
+Measure whether stakeholders actually understand and agree on strategy — surfacing interpretation drift before it becomes execution drift.
 
 ## Parent Strategy
-[Role-Aware Strategic Intelligence](../strategy/product/role-aware-strategic-intelligence.md)
+[Strategic Delivery](../strategy/product/strategic-delivery.md)
 
 ## Status & Progress
 - **Status**: draft
@@ -45,4 +28,32 @@ No objectives defined
 - **Target Date**: 2026-06-30
 
 ## Content
-No content available
+## Overview
+
+Stakeholder Alignment Mapping measures whether stakeholders actually understand and agree on strategy — not just whether it exists. It surfaces interpretation drift before it becomes execution drift, closing the invisible gap between what leadership communicates and what teams understand.
+
+## Scope
+
+### Periodic Pulse Mechanism
+- "What do you think our top 3 priorities are?" per role
+- Compare responses against actual strategy to surface gaps
+
+### Alignment Heatmap
+- Which parts of strategy are well-understood vs confused
+- Role-level analysis: leadership vs team interpretation differences
+- Trend tracking: alignment improving or degrading over time
+
+### Advisory Firm Value
+- Coaches live in the gap between communicated and understood strategy
+- Measurable, repeatable assessment for every session
+- Concrete evidence of progress over time
+
+## Architecture
+- Lightweight survey/pulse mechanism integrated with the strategy tree
+- Compare responses against workspace data
+- Could start as MCP-driven prompts before dedicated UI
+
+## Expected Outcomes
+- Interpretation gaps surfaced before they cause execution failures
+- Advisory firms gain a repeatable, measurable alignment assessment
+- Quick win potential: simpler to build than other future capabilities, high value for advisory channel

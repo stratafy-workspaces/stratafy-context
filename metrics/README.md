@@ -1,17 +1,27 @@
 ---
 type: metrics-overview
-totalMetrics: 7
+totalMetrics: 12
 totalTargets: 0
 totalValues: 0
-lastUpdated: 2026-03-14T14:58:19.589Z
+lastUpdated: 2026-03-22T17:55:08.385Z
 ---
 
 # Metrics Overview
 
 ## Key Performance Indicators (KPIs)
 
+### [Embedding Coverage](embedding-coverage.md)
+**Current Value**: 92.4 %
+**Target**: No target %
+**Category**: AI Infrastructure
+
+### [search_workspace Usage](search-workspace-usage.md)
+**Current Value**: No data queries/week
+**Target**: No target queries/week
+**Category**: AI Infrastructure
+
 ### [Articles Published](articles-published.md)
-**Current Value**: 29 articles
+**Current Value**: 31 articles
 **Target**: No target articles
 **Category**: Content
 
@@ -35,20 +45,27 @@ lastUpdated: 2026-03-14T14:58:19.589Z
 **Target**: No target customers
 **Category**: Pipeline
 
+### [Onboarding Time-to-Value (days)](onboarding-time-to-value-days.md)
+**Current Value**: No data days
+**Target**: No target days
+**Category**: Product
+
+### [Partner Plugins Deployed](partner-plugins-deployed.md)
+**Current Value**: 0 plugins
+**Target**: No target plugins
+**Category**: Product
+
 ### [Strategy Tree Completeness](strategy-tree-completeness.md)
-**Current Value**: 75 %
+**Current Value**: 93 %
 **Target**: No target %
 **Category**: Product
 
-### [MRR (ZAR)](mrr-zar.md)
-**Current Value**: 25000 ZAR
-**Target**: No target ZAR
-**Category**: Revenue
-
 ## Metrics by Category
 
+- **AI Infrastructure**: 2 metrics
 - **Content**: 1 metrics
 - **Funding**: 1 metrics
 - **Pipeline**: 3 metrics
-- **Product**: 1 metrics
+- **Product**: 3 metrics
+- **Product Delivery**: 1 metrics
 - **Revenue**: 1 metrics

@@ -5,7 +5,7 @@ name: Strategy Tree Completeness
 category: Product
 unit: %
 frequency: weekly
-currentValue: 75
+currentValue: 93
 ---
 
 # Strategy Tree Completeness
@@ -14,7 +14,7 @@ currentValue: 75
 Percentage of the strategy tree that has meaningful content — strategies with descriptions, initiatives with objectives, objectives with targets. Measures whether the workspace is a living strategic architecture or a skeleton. Assessed qualitatively during weekly reviews. Dogfooding credibility metric: if Stratafy's own workspace isn't complete, the product story weakens.
 
 ## Current Performance
-- **Latest Value**: 75 %
+- **Latest Value**: 93 %
 - **Category**: Product
 - **Unit**: %
 

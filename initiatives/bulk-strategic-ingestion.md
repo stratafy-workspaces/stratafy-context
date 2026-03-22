@@ -1,8 +1,8 @@
 ---
 id: 9c9333b8-26e7-45db-ae84-d3be88f3f00d
 type: initiative
-status: active
-priority: high
+status: draft
+priority: medium
 strategy: Strategic AI Infrastructure
 completionPercentage: 0
 ---
@@ -10,14 +10,14 @@ completionPercentage: 0
 # Bulk Strategic Ingestion
 
 ## Description
-Build an enterprise onboarding pipeline that ingests existing strategic artifacts (board decks, OKR spreadsheets, annual plans, consultant deliverables) and extracts strategic structure — not chunks, but strategies, initiatives, assumptions, and metrics. Target: "Upload your board deck and we'll build your strategy tree in 10 minutes." This is the enterprise adoption accelerator. Without it, every new customer must manually recreate their strategic architecture. The capture pipeline (URL → strategic digest) is built; this extends it to bulk document-to-structure extraction.
+Deferred. Current ingestion path is Claude Cowork plugins (strategy-first-principles, strategic capture, workspace builder) which provide guided, human-in-the-loop workspace creation for smaller companies. The bulk automated pipeline (PDF/DOCX → extract → propose → review → commit) will evolve from this plugin foundation as customer scale demands it. The two-track governance model (direct write vs proposal pipeline) remains the architectural target — plugins are Track 1 today, bulk ingestion becomes Track 2 when enterprise customers need it.
 
 ## Parent Strategy
 [Strategic AI Infrastructure](../strategy/product/strategic-ai-infrastructure.md)
 
 ## Status & Progress
-- **Status**: active
-- **Priority**: high
+- **Status**: draft
+- **Priority**: medium
 - **Completion**: 0%
 
 ## Key Objectives

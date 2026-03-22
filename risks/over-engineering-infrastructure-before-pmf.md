@@ -7,13 +7,13 @@ likelihood: medium
 impact: high
 riskScore: 6
 status: active
-mitigationStatus: identified
+mitigationStatus: in_progress
 ---
 
 # Over-engineering infrastructure before PMF
 
 ## Description
-Building enterprise-grade infrastructure (temporal graphs, caching layers, role-aware access) when the priority is lighthouse customer conversion and proving product-market fit. Engineering effort diverted from customer-facing features to internal infrastructure may slow PMF timeline. The risk is spending 3 months building strategic time-travel when what the next customer actually needs is a better onboarding experience.
+Building enterprise-grade infrastructure (temporal graphs, caching layers, role-aware access) when the priority is lighthouse customer conversion and proving product-market fit. The original mitigation (phase strictly) failed to govern behaviour — time-travel was built before retrieval and ingestion. Corrective action taken: bulk ingestion deferred (plugins serve this today), engagement analytics and RBAC moved to draft, phasing revised to reflect actual priorities. Risk partially materialised but corrected.
 
 ## Assessment
 - **Likelihood**: medium
@@ -24,7 +24,7 @@ Building enterprise-grade infrastructure (temporal graphs, caching layers, role-
 - **Status**: active
 
 ## Mitigation
-- **Status**: identified
-- **Plan**: Phase delivery strictly: build only what the next customer needs. Phase 1 (Q2) = retrieval + ingestion + cache (directly unblock enterprise onboarding). Phase 2 (Q3) = time-travel + analytics (build only after 3+ paying customers). Phase 3 (Q4) = governance (build only when enterprise deals require it).
+- **Status**: in_progress
+- **Plan**: Revised phasing now reflects reality: Phase 1 (NOW) = complete time-travel + build retrieval + build cache. Phase 2 = build only WHEN demand proves it (bulk ingestion, analytics). Phase 3 = WHEN enterprise requires it (RBAC, audit). Three initiatives moved to draft status. New constraint added: "plugins first" — invest in Cowork plugins rather than automated pipelines until customer scale demands it. Gate: do not activate Phase 2/3 initiatives until at least 3 paying customers are on the platform.
 - **Review Date**: Not scheduled
 

@@ -3,7 +3,7 @@ id: d97fbeaa-7469-43ab-b6ba-fc44cff4ac5c
 type: initiative
 status: draft
 priority: high
-strategy: Product Architecture
+strategy: Strategic Intelligence
 completionPercentage: 0
 ---
 
@@ -13,7 +13,7 @@ completionPercentage: 0
 Horizontal alignment scan that analyses all strategies in a workspace for coherence — detecting directional conflicts, resource tensions, reinforcement patterns, dependency gaps, and sequencing issues between strategies.
 
 ## Parent Strategy
-[Product Architecture](../strategy/product/product-architecture.md)
+[Strategic Intelligence](../strategy/product/strategic-intelligence.md)
 
 ## Status & Progress
 - **Status**: draft

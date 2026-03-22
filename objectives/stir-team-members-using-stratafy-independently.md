@@ -4,6 +4,7 @@ type: objective
 objectiveType: key_result
 status: active
 priority: high
+okrScore: 0.2
 initiative: STIR Collective: First Customer Engagement
 ---
 
@@ -24,7 +25,7 @@ Track STIR team members actively using Stratafy without Leonard driving the sess
 - **Current Value**: 0
 
 ## OKR Scoring
-No OKR score set
+**Current Score**: 0.2/100
 
 ## Timeline
 - **Target Date**: 2026-04-30

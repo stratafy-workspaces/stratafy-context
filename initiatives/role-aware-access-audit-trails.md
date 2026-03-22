@@ -1,7 +1,7 @@
 ---
 id: 221976c1-b341-4fff-9342-9a48fe75312a
 type: initiative
-status: active
+status: draft
 priority: medium
 strategy: Strategic AI Infrastructure
 completionPercentage: 0
@@ -10,13 +10,13 @@ completionPercentage: 0
 # Role-Aware Access & Audit Trails
 
 ## Description
-Build role-aware strategic views and decision audit trails. Role views: board member sees full strategy tree at summary level with health scores; product manager sees their initiative context with relevant objectives and risks; investor sees pitch view with key metrics and traction. Audit trails: who made which decisions, based on what intelligence, when. Creates institutional memory and meets enterprise compliance requirements. Prerequisite for SOC2/GDPR certification and enterprise pricing tier ($5K+/mo). Extends existing Supabase Auth and workspace-level access with strategy-aware granularity.
+Deferred. Strategy-scoped permissions and role-based views for enterprise. Decision audit trails are now largely solved by provenance records — every strategic mutation has an accountable actor, reasoning, plugin attribution, and LLM-assessed magnitude. Remaining need: strategy-scoped read permissions (who can see which strategies) and role-based governance gates (Phase 2 of provenance pipeline). Build when enterprise deals require it.
 
 ## Parent Strategy
 [Strategic AI Infrastructure](../strategy/product/strategic-ai-infrastructure.md)
 
 ## Status & Progress
-- **Status**: active
+- **Status**: draft
 - **Priority**: medium
 - **Completion**: 0%
 

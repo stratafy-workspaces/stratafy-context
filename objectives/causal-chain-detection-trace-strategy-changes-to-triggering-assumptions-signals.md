@@ -10,7 +10,7 @@ initiative: Strategic Evolution & Time-Travel
 # Causal chain detection: trace strategy changes to triggering assumptions/signals
 
 ## Description
-When a strategy or initiative is modified, the system can trace backward to identify which assumption confidence change, signal, or insight preceded and likely triggered the change. Answers "what assumption changed that caused this pivot?" as a queryable relationship. This is the ultimate differentiator — no generic infrastructure play can do causal chain detection across strategic entities because they don't have typed relationships between assumptions, signals, and strategy changes. Requires: assumption confidence change events linked to subsequent strategy modifications, signal→strategy impact chains, and a query API to surface these relationships.
+When a strategy or initiative is modified, the system can trace backward to identify which assumption confidence change, signal, or insight preceded and likely triggered the change. Phase 6 shipped the core infrastructure: getCausalSignals traverses typed relationships (assumption_contexts, risk_contexts, strategy_metric_links) to find correlated changes across recent snapshots. AI narrative is enhanced with causal context. Remaining gap: proactive alerting — currently pull-based only. No cron-triggered flagging when a high-impact causal correlation is detected. This needs real usage data to validate query patterns before building.
 
 ## Hierarchy
 **Strategy**: [Strategic AI Infrastructure](../strategy/product/strategic-ai-infrastructure.md)
@@ -21,7 +21,7 @@ When a strategy or initiative is modified, the system can trace backward to iden
 - **Status**: active
 - **Priority**: high
 - **Target Value**: Query API that traces strategy changes to triggering assumptions/signals/insights
-- **Current Value**: Not built — requires temporal data accumulation + causal inference
+- **Current Value**: Infrastructure built — getCausalSignals query traces changes across assumption_contexts, risk_contexts, strategy_metric_links. MCP tool + API endpoint live. AI narrative enhanced with causal context. Remaining: proactive alerting (cron-triggered flagging when high-impact causal correlations detected).
 
 ## OKR Scoring
 No OKR score set

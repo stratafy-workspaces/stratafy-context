@@ -3,7 +3,7 @@ id: d1059891-f679-468e-abd2-51abf0e2a932
 type: initiative
 status: draft
 priority: high
-strategy: Product Architecture
+strategy: Strategic Delivery
 completionPercentage: 0
 ---
 
@@ -13,7 +13,7 @@ completionPercentage: 0
 Transform strategy consumption from passive reading into active, AI-mediated contribution. Anyone interacting with strategy can suggest changes, raise questions, or propose enhancements. Stratafy's AI analyzes every incoming signal against the full strategic context and produces concrete, implementable change proposals — specific element modifications, impact analysis, conflict detection, and confidence scoring — before a human ever sees them. Strategy leads process a pre-analyzed approval queue, not raw feedback. Accept-all applies changes atomically in one click. The flywheel: better context → better AI analysis → more contributions → richer context. This is the feature that makes the structured strategy graph visible as a moat — impossible to replicate with Notion + ChatGPT.
 
 ## Parent Strategy
-[Product Architecture](../strategy/product/product-architecture.md)
+[Strategic Delivery](../strategy/product/strategic-delivery.md)
 
 ## Status & Progress
 - **Status**: draft

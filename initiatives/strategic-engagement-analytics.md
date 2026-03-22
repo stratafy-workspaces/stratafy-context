@@ -1,7 +1,7 @@
 ---
 id: ab8b9d04-baf2-41d5-89e4-509803b56572
 type: initiative
-status: active
+status: draft
 priority: medium
 strategy: Strategic AI Infrastructure
 completionPercentage: 0
@@ -10,13 +10,13 @@ completionPercentage: 0
 # Strategic Engagement Analytics
 
 ## Description
-Track interaction patterns across strategic entities: who views what, how often, when engagement drops. If a CEO checks "Funding & Growth" every Monday but stops, that's a signal. If a team lead never views their initiative's objectives, that's drift. These are strategic attention signals that feed Pulse for proactive drift detection. Not "session memory" in the Mem0 sense — this is organisational attention analytics mapped to strategic architecture. Build on Supabase's existing activity logging, aggregate into entity-level engagement scores.
+Deferred to Phase 3. Track strategic engagement patterns (who queries what, when engagement drops, content health scoring) and feed into proactive drift detection. Will build when there are enough active workspaces to generate meaningful engagement data. Strategy-level health scores already exist as a foundation.
 
 ## Parent Strategy
 [Strategic AI Infrastructure](../strategy/product/strategic-ai-infrastructure.md)
 
 ## Status & Progress
-- **Status**: active
+- **Status**: draft
 - **Priority**: medium
 - **Completion**: 0%
 

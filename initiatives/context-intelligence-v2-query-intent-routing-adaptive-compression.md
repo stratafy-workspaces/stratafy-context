@@ -3,7 +3,7 @@ id: 0cae1213-f70b-47cc-b83b-52747c4bf206
 type: initiative
 status: draft
 priority: high
-strategy: Role-Aware Strategic Intelligence
+strategy: Strategic Delivery
 completionPercentage: 0
 ---
 
@@ -13,7 +13,7 @@ completionPercentage: 0
 Upgrade the Context Intelligence System from role-based to semantic-first, query-aware assembly. Rather than injecting maximum permitted context per role, retrieve only what the incoming query semantically requires — then intersect with the role matrix as an access ceiling. Architecture validated by live testing of search_workspace (pgvector). Delivers 50-70% token reduction on focused queries, higher signal density, and a compounding AI quality advantage that widens as workspaces mature.
 
 ## Parent Strategy
-[Role-Aware Strategic Intelligence](../strategy/product/role-aware-strategic-intelligence.md)
+[Strategic Delivery](../strategy/product/strategic-delivery.md)
 
 ## Status & Progress
 - **Status**: draft

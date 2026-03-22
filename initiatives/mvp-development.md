@@ -10,7 +10,7 @@ completionPercentage: 0
 # MVP Development
 
 ## Description
-Build "Stratafy Lite" with core functionality—Strategy layer (define strategies, initiatives) and Radar (external monitoring for weekly insights). Use existing AI APIs for semantic matching and data ingestion.
+Core MVP: Strategy layer for defining strategies/initiatives and Radar for AI-powered external monitoring with weekly insights.
 
 ## Parent Strategy
 [Product Architecture](../strategy/product/product-architecture.md)
@@ -28,4 +28,21 @@ No objectives defined
 - **Target Date**: 2026-03-31
 
 ## Content
-No content available
+## Overview
+
+Build "Stratafy Lite" with core functionality — Strategy layer for defining strategies and initiatives, and Radar for external monitoring that delivers weekly insights. The minimum viable product that proves the core value proposition.
+
+## Scope
+
+- **Strategy Layer**: Define strategies, initiatives, objectives with hierarchy and relationships
+- **Radar**: External environmental monitoring with AI-powered scanning and weekly insight generation
+- Semantic matching using existing AI APIs for connecting signals to strategies
+- Data ingestion pipelines for external information sources
+- Core workspace management and user authentication
+
+## Expected Outcomes
+
+- Deliver a usable product that validates the core hypothesis: AI + strategic context = better decisions
+- Establish the two foundational capabilities (strategy definition + environmental sensing) that all future features build upon
+- Generate early usage data and feedback from lighthouse customers
+- Create a demo-ready product for investor conversations

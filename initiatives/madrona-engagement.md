@@ -10,23 +10,7 @@ completionPercentage: 0
 # Madrona Engagement
 
 ## Description
-Primary investor path. Warm relationship with Ted Kummert (partner, ex-UIPath). Madrona's $5M seed sweet spot aligns with our ask. Key advantage: Ted has identified the exact problem Stratafy solves — Madrona is using Claude but struggling with context.
-
-DUAL ANGLE: Investor + customer. If Madrona uses Stratafy for portfolio visibility, the investment becomes conviction-backed.
-
-APPROACH:
-- Outreach after STIR and ScaleUp provide traction evidence
-- Demo with Madrona's own portfolio context
-- Let Ted experience Strategic Advisor with real strategic data
-- Madrona engagement creates urgency for Sequoia secondary path
-
-CROSS-REFERENCE: Detailed VC-as-customer thesis and engagement approach documented in GTM Channels → VC as Customer Segment → Madrona Engagement strategy.
-
-SUCCESS CRITERIA:
-- First call scheduled by early March
-- Demo delivered with Madrona-specific workspace
-- Clear signal on investor interest vs. customer interest
-- If positive, term sheet discussion initiated
+Primary investor path via warm relationship with Ted Kummert (Madrona partner). Dual angle: investor + customer for portfolio visibility.
 
 ## Parent Strategy
 [Fundraising Playbook](../strategy/financial/fundraising-playbook.md)
@@ -44,4 +28,24 @@ No objectives defined
 - **Target Date**: 2026-05-31
 
 ## Content
-No content available
+## Overview
+
+Pursue Madrona as the primary investor pathway, leveraging the warm relationship with partner Ted Kummert (ex-UIPath) and the dual investor-plus-customer angle. Madrona's $5M seed sweet spot aligns with the fundraise target, and Ted has identified the exact context problem Stratafy solves.
+
+## Scope
+
+- Time outreach after STIR and ScaleUp demos provide traction evidence
+- Build Madrona-specific demo workspace showing portfolio visibility use case
+- Demo the Strategic Advisor with real strategic data to let Ted experience the product
+- Use Madrona engagement to create urgency on the Sequoia secondary path
+- Track clear signals on investor interest vs customer interest separately
+- If positive signal, initiate term sheet discussions
+
+## Expected Outcomes
+
+- First call scheduled by early March
+- Demo delivered with Madrona-specific workspace demonstrating portfolio context
+- Clear signal on whether Madrona is investor, customer, or both
+- If investor interest: term sheet discussion initiated
+- Sequoia path energised through Madrona competitive dynamics
+- Validation of the VC-as-customer thesis with a tier-1 firm

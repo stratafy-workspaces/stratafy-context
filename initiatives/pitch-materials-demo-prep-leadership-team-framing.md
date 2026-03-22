@@ -10,30 +10,7 @@ completionPercentage: 0
 # Pitch Materials & Demo Prep (Leadership Team Framing)
 
 ## Description
-Prepare all investor-facing materials reframed around the Stratafy Leadership Team concept.
-
-CORE PITCH EVOLUTION:
-- Before: 'We build a strategic operating system for the AI era.'
-- After: 'We give every company a virtual executive team powered by their actual strategy.'
-
-Both are true. The second makes investors lean forward.
-
-MATERIALS (updated):
-- Pitch deck (10-12 slides) — include Leadership Team slide showing six executives, the pricing reframe, the flywheel, the advisory deployment model
-- 1-pager / investment memo — lead with 'Stratafy gives every company a CFO, COO, and CMO for R25k/month'
-- Financial model with use-of-funds (50-60% engineering, 20-25% GTM, 10-15% ops, 10% reserve)
-- Due diligence folder (cap table, incorporation docs, IP)
-- Founding story narrative (Troop → Stratafy arc)
-
-DEMO PREP (updated):
-- Demo now leads with: 'Let me show you your Stratafy CFO' — the scan becomes what the CFO does
-- Build Madrona-specific workspace: 'Your portfolio companies get a Stratafy Leadership Team as post-investment support'
-- Build Sequoia-specific workspace for Roelof angle
-- Demo opener: 'My Stratafy CFO ran a financial alignment scan this morning. Found 3 strategies with no financial visibility. Want to see?'
-
-MADRONA PITCH: 'Your portfolio companies get a Stratafy Leadership Team as part of post-investment support.' Ted Kummert has identified the context problem — Leadership Team is how context becomes operational.
-
-TIMELINE: 1-pager by March 15. Full deck by April 1. Demo fluent by March 25.
+Prepare all investor materials reframed around the Stratafy Leadership Team concept. Deck by April 1, demo fluent by March 25.
 
 ## Parent Strategy
 [Fundraising Playbook](../strategy/financial/fundraising-playbook.md)
@@ -51,4 +28,25 @@ No objectives defined
 - **Target Date**: 2026-04-01
 
 ## Content
-No content available
+## Overview
+
+Prepare all investor-facing materials reframed around the Stratafy Leadership Team concept — positioning the product as a virtual executive team (CFO, COO, CMO) powered by actual company strategy, not just a strategic operating system.
+
+## Scope
+
+- Build pitch deck (10-12 slides) featuring Leadership Team framing, pricing reframe, flywheel, and advisory deployment model
+- Write 1-pager / investment memo leading with the "CFO, COO, and CMO for R25k/month" narrative
+- Develop financial model with use-of-funds breakdown (50-60% engineering, 20-25% GTM, 10-15% ops, 10% reserve)
+- Assemble due diligence folder (cap table, incorporation docs, IP)
+- Craft founding story narrative (Troop to Stratafy arc)
+- Prepare investor-specific demo workspaces (Madrona portfolio context, Sequoia/Roelof angle)
+- Rehearse demo opener: "My Stratafy CFO ran a financial alignment scan this morning"
+
+## Expected Outcomes
+
+- 1-pager complete by March 15
+- Full pitch deck ready by April 1
+- Demo delivery fluent by March 25
+- Madrona and Sequoia-specific demo workspaces built
+- Consistent Leadership Team narrative across all materials
+- Due diligence folder assembled and accessible

@@ -10,36 +10,7 @@ completionPercentage: 0
 # StratClaw Public Agent
 
 ## Description
-StratClaw is the public-facing AI agent that demonstrates the StratMD thesis in real-time. It's not just content marketing—it's living proof that the specification works.
-
-**WHAT STRATCLAW DOES:**
-- Researches AI strategy topics
-- Generates content that advances the StratMD narrative
-- Operates from its own strategy.strat.md file
-- Demonstrates resilient memory (handoffs, negative knowledge, security)
-
-**WHY IT MATTERS:**
-- Proof of concept visible to anyone watching
-- Content generation engine (17+ articles and counting)
-- Discovery vector ("how does this agent stay aligned?" → StratMD → Stratafy)
-- The agent IS the thesis
-
-**CURRENT STATE:**
-- Active and publishing
-- strategy.strat.md exists but needs v0.2 updates
-- Generating insights that feed back into spec development
-
-**UPDATES NEEDED:**
-1. Add Decision Graveyard section with real rejected options
-2. Add security-focused constraints (C1-C7 from today's session)
-3. Add non-goals and red lines sections
-4. Update loader skill to scan graveyard before proposing ideas
-5. Add drift detection / constraint violation logging
-
-**SUCCESS CRITERIA:**
-- StratClaw's strategy file is the reference implementation for v0.2
-- Agent demonstrably resists suggestions that violate constraints
-- Public can see the feedback loop (strategy file → agent behavior → insights → strategy updates)
+Public-facing AI agent that demonstrates StratMD in real-time — living proof the specification works, doubling as a content engine and discovery vector.
 
 ## Parent Strategy
 [StratMD Open Specification](../strategy/go-to-market/stratmd-open-specification.md)
@@ -57,4 +28,31 @@ No objectives defined
 - **Target Date**: 2026-03-31
 
 ## Content
-No content available
+## Overview
+
+StratClaw is the public-facing AI agent that demonstrates the StratMD thesis in real-time. It researches AI strategy topics, generates content advancing the StratMD narrative, and operates from its own strategy.strat.md file — proving resilient memory works.
+
+## Scope
+
+### Current Capabilities
+- Active and publishing (17+ articles)
+- Operates from strategy.strat.md
+- Generates insights feeding back into spec development
+
+### Required Updates
+- Add Decision Graveyard section with real rejected options
+- Add security-focused constraints (C1-C7)
+- Add non-goals and red lines sections
+- Update loader skill to scan graveyard before proposing ideas
+- Add drift detection and constraint violation logging
+
+## Strategic Value
+- Proof of concept visible to anyone watching
+- Content generation engine at scale
+- Discovery vector: "how does this agent stay aligned?" leads to StratMD leads to Stratafy
+- The agent IS the thesis — it embodies what it advocates
+
+## Expected Outcomes
+- StratClaw's strategy file becomes the v0.2 reference implementation
+- Agent demonstrably resists suggestions that violate constraints
+- Public feedback loop: strategy file informs agent behavior informs insights informs strategy updates

@@ -10,36 +10,7 @@ completionPercentage: 0
 # Customer Onboarding Experience
 
 ## Description
-Guided onboarding that teaches the platform through strategic conversation on the customer's own context. Pre-populate workspace with demo strategy, then use the onboarding prompt to validate, adjust, and co-create their real strategy via MCP.
-
-**COMMERCIAL ENGAGEMENT SEQUENCE:**
-1. Free demo — onboarding conversation on pre-populated workspace. Customer experiences platform on their own context.
-2. Paid strategy alignment — take their real strategy doc, align workspace properly, run alignment scans, surface gaps, identify missing assumptions/risks. Charge for time.
-3. Report & discussion — deliver strategic health assessment. Discuss findings, create urgency to act on gaps.
-4. Ongoing engagement — weekly radar scans, continuous alignment monitoring. Subscription model.
-
-Each stage deepens workspace data and lock-in. Also models the exact workflow advisory firms would run with their clients.
-
-**PHASED ROLLOUT:**
-
-Phase 1: Founder/Decision-Maker (Feb-Mar 2026)
-First target: ScaleUp demo. Pre-populate workspace, run conversation-first prompt. Full agency — validate, co-create in real-time. Capture learnings.
-
-Phase 2: Executive Onboarding (Q2 2026)
-Functional leaders joining onboarded orgs. Orientation to strategic context, not creation.
-
-Phase 3: Manager Onboarding (Q2-Q3 2026)
-Team leads translating strategy to execution. Coach tone.
-
-Phase 4: IC Onboarding (Q3 2026)
-"Here's why your work matters." Lightest touch, Guide tone.
-
-Phase 5: Board/Investor Onboarding (Q3 2026)
-Governance view. Alignment scores, risks, decisions, radar. Interface tone.
-
-**LEARNING LOOP:** Each conversation is sensing. Capture signals as insights, improve prompts continuously.
-
-**ACTIVATION:** MCP slash command prompts. One mechanism, role-adapted experiences.
+Guided onboarding through strategic conversation on the customer's own context. Role-adapted experiences from founder to board level.
 
 ## Parent Strategy
 [Product-Market Fit](../strategy/functional/product-market-fit.md)
@@ -57,4 +28,23 @@ No objectives defined
 - **Target Date**: 2026-03-15
 
 ## Content
-No content available
+## Overview
+
+Guided onboarding that teaches the platform through strategic conversation on the customer's own context. Pre-populate workspace with demo strategy, then use conversation-first prompts to validate, adjust, and co-create their real strategy via MCP.
+
+## Scope
+
+- **Commercial Engagement Sequence**: Free demo > paid strategy alignment > report & discussion > ongoing engagement
+- **Phase 1 — Founder (Feb-Mar 2026)**: Conversation-first onboarding with full agency to validate and co-create in real-time
+- **Phase 2 — Executive (Q2 2026)**: Orientation to strategic context for functional leaders joining onboarded orgs
+- **Phase 3 — Manager (Q2-Q3 2026)**: Coach-toned onboarding for team leads translating strategy to execution
+- **Phase 4 — IC (Q3 2026)**: "Here's why your work matters" — lightest touch, Guide tone
+- **Phase 5 — Board/Investor (Q3 2026)**: Governance view with alignment scores, risks, decisions, radar
+- MCP slash command prompts delivering role-adapted experiences through one mechanism
+
+## Expected Outcomes
+
+- Each engagement stage deepens workspace data and customer lock-in
+- Model the exact workflow advisory firms would run with their clients
+- Capture onboarding conversations as sensing data (signals and insights)
+- Create a repeatable commercial engagement pattern from demo to subscription

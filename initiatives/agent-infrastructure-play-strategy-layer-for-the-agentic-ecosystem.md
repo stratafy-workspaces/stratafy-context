@@ -10,17 +10,7 @@ completionPercentage: 0
 # Agent Infrastructure Play — Strategy Layer for the Agentic Ecosystem
 
 ## Description
-Every agentic system eventually needs to answer: "What are we trying to achieve?" and "Is this action aligned with our strategy?" Stratafy becomes the default answer — the strategy layer that agent builders integrate to give their systems strategic context, alignment checking, and decision guardrails. This is "Stripe for strategy" — developer adoption through genuine utility, not viral demos.
-
-Defensible wedge: Stratafy owns the deep context axis. A competitor can copy API endpoints but not accumulated strategic context. Same moat validated by Perspective Reviews (STR-119 vs STR-120).
-
-Phase 1 (Post-Seed): CLI bootstrapping, open-source agent SDK, strategy templates, GitHub Actions integration. Phase 2: StratMD interchange format, MCP server registry, integration recipes for LangChain/CrewAI/AutoGen. Phase 3: Open-source community, developer content, hackathon presence.
-
-Target personas: indie AI builders, enterprise AI teams, AI consultants, open-source maintainers. NOT consumer viral growth, NOT location-specific community building, NOT competing with agent frameworks.
-
-Sits under StratMD because the SDK uses StratMD as interchange format. Developer SDK adoption drives spec adoption. Connects to Category Creation ("Control Plane for AI" framing) and Product Architecture (MCP-first enables this natively).
-
-Explicitly post-seed, low priority. Current focus is paying customers and Sequoia prep. Tracked now so architecture decisions don't preclude this path and StratMD spec considers developer experience.
+Position Stratafy as the default strategy layer for agentic systems — "Stripe for strategy" via developer SDK, open-source tooling, and StratMD interchange format.
 
 ## Parent Strategy
 [StratMD Open Specification](../strategy/go-to-market/stratmd-open-specification.md)
@@ -38,4 +28,30 @@ No objectives defined
 - **Target Date**: Not set
 
 ## Content
-No content available
+## Overview
+
+Stratafy becomes the strategy layer that agent builders integrate to give their systems strategic context, alignment checking, and decision guardrails. This is the "Stripe for strategy" play — developer adoption through genuine utility.
+
+## Scope
+
+### Phase 1 — Post-Seed Foundation
+- CLI bootstrapping and open-source agent SDK
+- Strategy templates and GitHub Actions integration
+
+### Phase 2 — Ecosystem Integration
+- StratMD interchange format adoption
+- MCP server registry and integration recipes for LangChain, CrewAI, AutoGen
+
+### Phase 3 — Community Growth
+- Open-source community building
+- Developer content and hackathon presence
+
+## Target Personas
+- Indie AI builders and open-source maintainers
+- Enterprise AI teams and AI consultants
+
+## Expected Outcomes
+- Stratafy owns the deep context axis as a defensible wedge
+- Developer SDK adoption drives StratMD spec adoption
+- Architecture decisions made now preserve this future path
+- Connects to Category Creation ("Control Plane for AI" framing) and MCP-first product architecture

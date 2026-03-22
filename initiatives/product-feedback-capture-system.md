@@ -10,41 +10,7 @@ completionPercentage: 0
 # Product Feedback Capture System
 
 ## Description
-MCP-based system for logging bugs, enhancements, and questions in the moment. Captures product friction while using Stratafy.
-
-**TABLE:** `ws_product_feedback`
-- type (bug | enhancement | question)
-- title, description, context (jsonb)
-- severity (bugs), impact (enhancements)
-- status workflow: logged → triaged → planned → in_progress → done
-- Links to initiatives and insights
-
-**WORKFLOW:**
-1. Agent logs feedback via MCP (raw capture, low friction)
-2. Leonard triages: reviews feedback, updates status, links to initiatives
-3. Creates Linear issues manually when needed (integration deferred)
-
-**MCP TOOLS:**
-- `log_bug` — title, description, severity, reproduction_steps, context
-- `suggest_enhancement` — title, description, use_case, impact
-- `ask_question` — title, description, context
-- `list_feedback` — filter by type, status
-- `get_feedback` — full details
-- `triage_feedback` — update status, link to initiative/insight
-
-**BUG FIX PRINCIPLE:**
-When fixing a bug: (1) Write failing test, (2) Fix, (3) Prove with passing test.
-
-**SUCCESS CRITERIA:**
-- Can log bug via MCP while working
-- Can list and filter feedback by type/status
-- Can triage feedback and link to initiatives
-- Bug fixes include reproduction test
-
-**DEFERRED (Future Phase):**
-- Linear sync (sync_to_linear tool, bidirectional linking)
-- Duplicate detection via semantic similarity
-- Automated triage agent
+MCP-based feedback capture for bugs, enhancements, and questions. Low-friction logging with triage workflow and initiative linking.
 
 ## Parent Strategy
 [Product Architecture](../strategy/product/product-architecture.md)
@@ -62,4 +28,22 @@ No objectives defined
 - **Target Date**: 2026-02-20
 
 ## Content
-No content available
+## Overview
+
+MCP-based system for logging bugs, enhancements, and questions in the moment. Captures product friction while actively using Stratafy, with a triage workflow for prioritisation and linking to initiatives.
+
+## Scope
+
+- **Feedback Types**: Bug reports (with severity and reproduction steps), enhancement suggestions (with use case and impact), and questions (with context)
+- **MCP Tools**: `log_bug`, `suggest_enhancement`, `ask_question`, `list_feedback`, `get_feedback`, `triage_feedback`
+- **Status Workflow**: logged > triaged > planned > in_progress > done
+- **Triage Process**: Review feedback, update status, link to initiatives and insights
+- **Bug Fix Principle**: Write failing test, fix, prove with passing test
+- **Database**: `ws_product_feedback` table with type, title, description, context (JSONB), severity, impact, status
+
+## Expected Outcomes
+
+- Capture product friction at the moment it occurs with zero context-switching
+- Create a structured feedback pipeline from raw capture to planned work
+- Ensure every bug fix includes a reproduction test for regression prevention
+- Build a feedback corpus that informs product prioritisation decisions

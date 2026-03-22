@@ -10,26 +10,7 @@ completionPercentage: 0
 # [FUTURE] Dependency & Sequencing Intelligence
 
 ## Description
-Model explicit dependencies between strategies and initiatives. Turn the strategy tree from a hierarchy into a network that answers "what breaks if this slips?"
-
-KEY CAPABILITIES:
-- Dependency mapping: initiative A must complete before B can start
-- Shared resource constraints: multiple initiatives competing for same capacity
-- Cascade impact analysis: if X slips by 2 weeks, what's the downstream effect?
-- Critical path identification: which sequence of initiatives determines overall timeline?
-- Bottleneck detection: where are dependencies creating queues?
-
-USE CASES:
-- Solo founder: when STIR slips a week, instantly see cascade to ScaleUp and Pieter
-- Scaling teams: prevent parallel initiatives from blocking each other
-- Advisory firms: dependency mapping as part of strategy health assessment
-- Investor reporting: show you understand execution interdependencies
-
-ARCHITECTURE: Graph model on top of existing strategy tree. Strategies and initiatives gain dependency edges (blocks, blocked_by, shared_resource). Cortex layer analysis surfaces critical path and cascade risks.
-
-WHY IT MATTERS: Hierarchy shows structure. Dependencies show physics. Strategy fails when leaders see the org chart but not the constraint network underneath.
-
-STATUS: Future — the data model could be added relatively early, analysis capabilities build over time.
+Dependency mapping between strategies and initiatives. Critical path analysis, cascade impact, and bottleneck detection.
 
 ## Parent Strategy
 [Product Architecture](../strategy/product/product-architecture.md)
@@ -47,4 +28,23 @@ No objectives defined
 - **Target Date**: 2026-09-30
 
 ## Content
-No content available
+## Overview
+
+Model explicit dependencies between strategies and initiatives, turning the strategy tree from a hierarchy into a network that answers "what breaks if this slips?" Adds graph-based analysis on top of the existing strategy structure.
+
+## Scope
+
+- **Dependency Mapping**: Initiative A must complete before B can start (blocks/blocked_by edges)
+- **Shared Resource Constraints**: Multiple initiatives competing for the same capacity
+- **Cascade Impact Analysis**: If X slips by 2 weeks, calculate downstream effects automatically
+- **Critical Path Identification**: Which sequence of initiatives determines overall timeline?
+- **Bottleneck Detection**: Where are dependencies creating queues?
+- Graph model layered on existing strategy tree with dependency edges
+
+## Expected Outcomes
+
+- Reveal the constraint network underneath the organisational hierarchy
+- Enable solo founders to instantly see cascade effects when timelines slip
+- Provide scaling teams with tools to prevent parallel initiatives from blocking each other
+- Support advisory firms with dependency mapping as part of strategy health assessments
+- Deliver investor-grade reporting on execution interdependencies

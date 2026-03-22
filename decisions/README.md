@@ -1,21 +1,21 @@
 ---
 type: decisions-overview
-total: 23
-lastUpdated: 2026-03-14T14:58:19.589Z
+total: 28
+lastUpdated: 2026-03-22T17:55:08.385Z
 ---
 
 # Decisions Overview
 
-**Total Decisions**: 23
+**Total Decisions**: 28
 
 ## By Status
 
-- **pending**: 5
-- **decided**: 15
+- **decided**: 19
+- **pending**: 6
 - **reviewed**: 2
 - **implemented**: 1
 
 ## By Type
 
-- **type 2_reversible**: 16
-- **type 1_irreversible**: 7
+- **type 1_irreversible**: 10
+- **type 2_reversible**: 18

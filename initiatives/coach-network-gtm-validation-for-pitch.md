@@ -10,25 +10,7 @@ completionPercentage: 0
 # Coach Network GTM Validation for Pitch
 
 ## Description
-Validate the Global Coach Network as a pitch-ready GTM narrative for the Sequoia fundraise. This is NOT about building the network — it's about gathering enough evidence from advisory firm demos to credibly present the coach network model in the pitch deck.
-
-VALIDATION TARGETS (Feb 23 - Mar 15):
-- ScaleUp demo (Feb 23): Ask multiplier questions — "Would you bring other clients?" "How many?"
-- Limbik demo (Feb 24): Same questions + methodology network context
-- Gert/Bev demo (Feb 24): Consultant-to-client deployment pathway test
-
-DECISION GATE (March 15):
-- If 2+ advisors show enthusiasm for bringing clients → Option B (validated GTM, 2-3 slides)
-- If 1 advisor shows interest but weak signal → Option A (vision, 1 slide with math)
-- If zero validation → Option C (don't feature, save for Series A)
-
-DELIVERABLES BY APRIL 1:
-- "Distribution Through Expertise Networks" slide with 1:N math
-- City-by-city expansion map visual
-- Agent intake workflow differentiator description
-- At least one advisor quote or data point (if Option B)
-
-DEPENDENCY: Global Coach Network & Directory initiative provides the underlying model. This initiative is specifically about pitch-readiness.
+Validate the Global Coach Network as a pitch-ready GTM narrative through advisory firm demos, with decision gate by March 15.
 
 ## Parent Strategy
 [Fundraising Playbook](../strategy/financial/fundraising-playbook.md)
@@ -46,4 +28,24 @@ No objectives defined
 - **Target Date**: 2026-04-01
 
 ## Content
-No content available
+## Overview
+
+Gather enough evidence from advisory firm demos to credibly present the coach network distribution model in the fundraise pitch deck. This is about pitch validation, not network building.
+
+## Scope
+
+- Run validation through scheduled demos: ScaleUp (Feb 23), Limbik (Feb 24), Gert/Bev (Feb 24)
+- Ask multiplier questions at each demo: client referral willingness, network size, deployment pathway
+- Apply decision gate by March 15 based on validation signal strength
+- Option B (2+ enthusiastic advisors): validated GTM with 2-3 slides and real data
+- Option A (1 weak signal): vision slide with unit economics math
+- Option C (zero validation): defer to Series A narrative
+
+## Expected Outcomes
+
+- Clear go/no-go decision on coach network as pitch narrative by March 15
+- "Distribution Through Expertise Networks" slide with 1:N math (if validated)
+- City-by-city expansion map visual for pitch deck
+- Agent intake workflow differentiator description
+- At least one advisor quote or data point supporting the model
+- Pitch deck GTM section informed by real market signal, not assumption

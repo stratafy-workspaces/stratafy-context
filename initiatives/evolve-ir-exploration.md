@@ -10,24 +10,7 @@ completionPercentage: 0
 # Evolve IR Exploration
 
 ## Description
-Explore Evolve as both a fundraise channel and potential customer prospect. US-based IR firm, HQ Dubai, ~415 family offices globally.
-
-MODEL: 1-week diligence → targeted outreach → $12.5-17.5K/month fee (2 months) + $350K investment right.
-
-DUAL PLAY:
-1. Fundraise channel — access to family offices that traditional VC paths don't reach
-2. Customer prospect — portfolio visibility across their family office network
-
-OPEN QUESTIONS:
-- Is the fee contingent on raise success or upfront?
-- What's their typical deal profile? Do they work with pre-seed/seed?
-- What diligence materials do they need?
-
-DEMO: March 20, 2026.
-
-QUALIFYING CRITERIA: If fee structure is purely upfront with no performance link, or if their deal profile doesn't match our stage, deprioritize. The customer angle may still be worth pursuing independently.
-
-APPROACH: Lead with conviction, qualify second. Frame traction positively. Anchor raise number with rationale. Ask qualifying questions of intermediaries.
+Explore Evolve as both a fundraise channel (415 family offices) and potential customer prospect. Demo: March 20, 2026.
 
 ## Parent Strategy
 [Fundraising Playbook](../strategy/financial/fundraising-playbook.md)
@@ -45,4 +28,23 @@ No objectives defined
 - **Target Date**: 2026-04-15
 
 ## Content
-No content available
+## Overview
+
+Evaluate Evolve as a dual-purpose relationship: a fundraise channel providing access to 415+ family offices globally, and a potential customer prospect for portfolio visibility across their network.
+
+## Scope
+
+- Conduct diligence on Evolve's model, fee structure ($12.5-17.5K/month for 2 months + $350K investment right), and track record
+- Attend demo on March 20, 2026 to assess fit and qualifying criteria
+- Qualify: fee contingency structure, typical deal profile, stage alignment, diligence requirements
+- Evaluate fundraise channel value (family office access that traditional VC paths miss)
+- Separately assess customer prospect angle (portfolio visibility tool)
+- Decision: deprioritise if fees are purely upfront with no performance link, or if stage mismatch
+
+## Expected Outcomes
+
+- Clear qualification decision on Evolve as fundraise channel
+- Understanding of family office access value vs fee cost
+- Separate assessment of customer prospect opportunity
+- If qualified: engagement terms agreed and timeline established
+- If disqualified: customer angle evaluated independently of fundraise channel

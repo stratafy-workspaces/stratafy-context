@@ -10,57 +10,7 @@ completionPercentage: 0
 # AI Operations Stack Methodology
 
 ## Description
-Formalize the AI Operations Stack as a teachable methodology. Based on lived experience deploying multi-agent operations (Feb 2026), this framework positions Stratafy as methodology leaders, not just tool vendors.
-
-THE FRAMEWORK:
-
-| Layer | Function | Example |
-|-------|----------|---------|
-| Strategic Context | Source of truth | Stratafy |
-| Coordination | Task handoffs | Linear |
-| Escalation | Human decisions | Telegram |
-| Execution | Do the work | AI Agents |
-
-KEY PRINCIPLES (from Chief of Staff insights):
-1. The coordination layer is the product (not the AI)
-2. Identity constraints enable autonomy (SOUL.md pattern)
-3. Human-in-the-loop collapses to approval only
-4. Audit trails build trust
-5. Good constraints accelerate, bad ones slow down
-6. Time-to-value is the proof point
-
-DELIVERABLES:
-
-1. **Reference Architecture Document**
-   - Four-layer pattern explained
-   - Implementation checklist
-   - Common pitfalls and mitigations
-
-2. **Customer Onboarding Guide**
-   - How to deploy AI Operations Stack with Stratafy
-   - Week 1-4 implementation roadmap
-   - Success metrics to track
-
-3. **Advisory Firm Training Material**
-   - How to deploy this for clients
-   - Customization points per industry
-   - Pricing/packaging guidance
-
-4. **Case Study: Stratafy Content Pipeline**
-   - Before state → intervention → time to value → outcome
-   - Screenshots and metrics
-   - Lessons learned
-
-WHY THIS MATTERS:
-- Differentiates from competitors (methodology, not just features)
-- Creates sales enablement material
-- Enables advisory firm channel (they teach it to clients)
-- Positions for "Stratafy Certified" program later
-
-VALIDATION:
-- Test with ScaleUp Company pilot first
-- Refine based on their implementation experience
-- Formalize only after real-world validation
+Formalize the AI Operations Stack as a teachable four-layer methodology, creating sales enablement and advisory training material.
 
 ## Parent Strategy
 [Category Creation](../strategy/go-to-market/category-creation.md)
@@ -78,4 +28,37 @@ No objectives defined
 - **Target Date**: 2026-06-30
 
 ## Content
-No content available
+## Overview
+
+Formalize the AI Operations Stack as a teachable methodology based on lived experience deploying multi-agent operations. This framework positions Stratafy as methodology leaders, not just tool vendors.
+
+## Scope
+
+### The Four-Layer Framework
+
+| Layer | Function | Example |
+|-------|----------|---------|
+| Strategic Context | Source of truth | Stratafy |
+| Coordination | Task handoffs | Linear |
+| Escalation | Human decisions | Telegram |
+| Execution | Do the work | AI Agents |
+
+### Key Principles
+1. The coordination layer is the product (not the AI)
+2. Identity constraints enable autonomy (SOUL.md pattern)
+3. Human-in-the-loop collapses to approval only
+4. Audit trails build trust
+5. Good constraints accelerate, bad ones slow down
+
+### Deliverables
+- **Reference Architecture Document** — Four-layer pattern with implementation checklist
+- **Customer Onboarding Guide** — Week 1-4 deployment roadmap
+- **Advisory Firm Training Material** — Industry customization and pricing guidance
+- **Case Study: Stratafy Content Pipeline** — Before/after metrics and lessons learned
+
+## Expected Outcomes
+
+- Differentiation from competitors through methodology, not features
+- Sales enablement material for advisory firm channel
+- Foundation for future "Stratafy Certified" program
+- Validated through ScaleUp Company pilot before formalization

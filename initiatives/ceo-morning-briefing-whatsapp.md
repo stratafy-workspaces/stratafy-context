@@ -10,7 +10,7 @@ completionPercentage: 0
 # CEO Morning Briefing (WhatsApp)
 
 ## Description
-AI-curated daily strategic briefing delivered to the CEO via WhatsApp. Stratafy synthesizes workspace state into a concise, actionable morning message tailored to company stage. Core concept: dynamically curated Top 3 things the CEO needs to know, selected by recency, urgency, and strategic weight. Includes signals, pending decisions, key metrics, and top risk. Adapts based on company stage (pre-PMF vs growth). Delivered via Twilio/WhatsApp Business API on a daily cron schedule. Also introduces Company Stage as a new workspace-level attribute.
+AI-curated daily strategic briefing via WhatsApp — dynamically selected Top 3 priorities, signals, pending decisions, and key metrics tailored to company stage.
 
 ## Parent Strategy
 [Strategic Intelligence](../strategy/product/strategic-intelligence.md)
@@ -30,4 +30,29 @@ AI-curated daily strategic briefing delivered to the CEO via WhatsApp. Stratafy 
 - **Target Date**: 2026-04-30
 
 ## Content
-No content available
+## Overview
+
+AI-curated daily strategic briefing delivered to the CEO via WhatsApp. Stratafy synthesizes workspace state into a concise, actionable morning message, dynamically selecting the Top 3 things the CEO needs to know based on recency, urgency, and strategic weight.
+
+## Scope
+
+### Core Briefing Content
+- Dynamically curated Top 3 priorities
+- Key signals and pending decisions
+- Critical metrics and top risk
+- Selection weighted by recency, urgency, and strategic importance
+
+### Company Stage Adaptation
+- Briefing adapts based on company stage (pre-PMF vs growth)
+- Introduces Company Stage as new workspace-level attribute
+- Different emphasis and framing per stage
+
+### Technical Delivery
+- Twilio/WhatsApp Business API integration
+- Daily cron schedule for consistent delivery
+- Concise, mobile-optimized formatting
+
+## Expected Outcomes
+- CEO receives actionable strategic context before the day begins
+- Time-to-awareness for strategic changes reduced to hours
+- Company stage context ensures briefings are relevant to current challenges

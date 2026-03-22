@@ -28,16 +28,30 @@ The Cortex layer capabilities that make organizations smarter over time.
 Together they form the learning loop — the organization's capacity to sense internally, scan externally, decide, and improve continuously. This is the intelligence that compounds and creates the cold-start moat.
 
 ## Key Initiatives
+- [Build Pulse Early Warning System and Drift Detection](../initiatives/build-pulse-early-warning-system-and-drift-detection.md)
+- [Build Pulse Weekly Check-in Engine and Trend Dashboard](../initiatives/build-pulse-weekly-check-in-engine-and-trend-dashboard.md)
+- [Build Organisational Memory Layer](../initiatives/build-organisational-memory-layer.md)
+- [Build Template Library — 30+ Frameworks Including Partner IP Templates](../initiatives/build-template-library-30-frameworks-including-partner-ip-templates.md)
+- [Build InsightSync Core Session Engine](../initiatives/build-insightsync-core-session-engine.md)
 - [CEO Morning Briefing (WhatsApp)](../initiatives/ceo-morning-briefing-whatsapp.md)
 - [Strategic Signals — First-Class Entity & Processing Pipeline](../initiatives/strategic-signals-first-class-entity-processing-pipeline.md)
+- [Document Tree — Hierarchical Knowledge Base](../initiatives/document-tree-hierarchical-knowledge-base.md)
+- [Strategic Coherence Scan](../initiatives/strategic-coherence-scan.md)
 - [Strategic Alignment Suite](../initiatives/strategic-alignment-suite.md)
 - [Workspace Documents & Knowledge Store](../initiatives/workspace-documents-knowledge-store.md)
 - [[FUTURE] Cultural & Values Coherence Sensing](../initiatives/future-cultural-values-coherence-sensing.md)
 - [[FUTURE] Scenario Planning & Strategy Stress Testing](../initiatives/future-scenario-planning-strategy-stress-testing.md)
 - [[FUTURE] Strategic Learning Engine](../initiatives/future-strategic-learning-engine.md)
-- [Daily Execution Loop & Organizational Pulse](../initiatives/daily-execution-loop-organizational-pulse.md)
+- [Organigram-Strategy Alignment Scan](../initiatives/organigram-strategy-alignment-scan.md)
+- [Daily Rhythm — Role-Aware Check-ins & Operational Sensing](../initiatives/daily-rhythm-role-aware-check-ins-operational-sensing.md)
+- [Public Narrative Alignment Scan](../initiatives/public-narrative-alignment-scan.md)
+- [Investor Update Generator](../initiatives/investor-update-generator.md)
+- [Strategy Export to PDF](../initiatives/strategy-export-to-pdf.md)
 - [Insight Review Automation](../initiatives/insight-review-automation.md)
 - [Radar MVP - Infrastructure & MCP](../initiatives/radar-mvp-infrastructure-mcp.md)
+- [Strategic Health Index and Case Study Infrastructure](../initiatives/strategic-health-index-and-case-study-infrastructure.md)
+- [Internal Sensing (Pulse) — Weekly Alignment Monitoring](../initiatives/internal-sensing-pulse-weekly-alignment-monitoring.md)
+- [Cortex Enhancement](../initiatives/cortex-enhancement.md)
 
 ## Alignment Score
 Not calculated

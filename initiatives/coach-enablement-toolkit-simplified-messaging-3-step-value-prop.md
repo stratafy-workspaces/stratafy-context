@@ -10,7 +10,7 @@ completionPercentage: 0
 # Coach Enablement Toolkit — Simplified Messaging & 3-Step Value Prop
 
 ## Description
-Create a simplified coach-facing toolkit that packages Stratafy's value into language coaches already use. Includes 3-step value prop framework, one-pager templates, and objection-handling guides. Directly addresses the insight that coaches need familiar framing to adopt strategy tooling.
+Simplified coach-facing toolkit with 3-step value prop, one-pagers, objection handling, and demo scripts in familiar methodology language.
 
 ## Parent Strategy
 [Coach Network GTM](../strategy/go-to-market/coach-network-gtm.md)
@@ -28,4 +28,31 @@ No objectives defined
 - **Target Date**: Not set
 
 ## Content
-No content available
+## Overview
+
+Create a simplified coach-facing toolkit that packages Stratafy's value into language coaches already use. Directly addresses the insight that coaches need familiar framing to adopt strategy tooling.
+
+## Scope
+
+### 3-Step Value Proposition Framework
+- Step 1: Capture — Help clients articulate strategy in a living system
+- Step 2: Activate — AI Leadership Team operates continuously between coaching sessions
+- Step 3: Align — Real-time alignment visibility replaces quarterly check-ins
+
+### Toolkit Components
+- **One-pager templates** — Customizable per methodology (Scaling Up, EOS, OKRs)
+- **Objection-handling guide** — Responses to common coach concerns about AI replacing them
+- **Demo script** — Walk-through for coaches to show clients the Stratafy workspace
+- **ROI calculator** — Quantify value of continuous strategic alignment vs. quarterly reviews
+
+### Messaging Principles
+- Lead with methodology, not technology
+- Position Stratafy as amplifying the coach's impact, not replacing it
+- Use familiar strategy language, avoid AI jargon
+
+## Expected Outcomes
+
+- Coaches can articulate Stratafy's value in their own methodology language
+- Reduced friction in coach-led client onboarding
+- Consistent messaging across the coach network
+- Higher conversion from coach recommendation to platform adoption
