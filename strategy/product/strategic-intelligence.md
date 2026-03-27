@@ -28,6 +28,8 @@ The Cortex layer capabilities that make organizations smarter over time.
 Together they form the learning loop — the organization's capacity to sense internally, scan externally, decide, and improve continuously. This is the intelligence that compounds and creates the cold-start moat.
 
 ## Key Initiatives
+- [Proactive Strategic Intelligence — AI-Driven Causal Alerts & Reasoning](../initiatives/proactive-strategic-intelligence-ai-driven-causal-alerts-reasoning.md)
+- [Assumption Review & Evidence System](../initiatives/assumption-review-evidence-system.md)
 - [Build Pulse Early Warning System and Drift Detection](../initiatives/build-pulse-early-warning-system-and-drift-detection.md)
 - [Build Pulse Weekly Check-in Engine and Trend Dashboard](../initiatives/build-pulse-weekly-check-in-engine-and-trend-dashboard.md)
 - [Build Organisational Memory Layer](../initiatives/build-organisational-memory-layer.md)

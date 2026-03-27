@@ -3,7 +3,7 @@ type: metrics-overview
 totalMetrics: 12
 totalTargets: 0
 totalValues: 0
-lastUpdated: 2026-03-22T17:55:08.385Z
+lastUpdated: 2026-03-27T13:42:56.407Z
 ---
 
 # Metrics Overview

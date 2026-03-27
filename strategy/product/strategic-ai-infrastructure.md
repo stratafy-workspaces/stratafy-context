@@ -103,7 +103,7 @@ Role-Aware Access & Strategy-Scoped Permissions. Enterprise procurement blocker 
 ## Key Initiatives
 - [Strategic Ingestion & Provenance Pipeline](../initiatives/strategic-ingestion-provenance-pipeline.md)
 - [Role-Aware Access & Audit Trails](../initiatives/role-aware-access-audit-trails.md)
-- [Strategic Engagement Analytics](../initiatives/strategic-engagement-analytics.md)
+- [Context Consumption Analytics & Engagement Tracking](../initiatives/context-consumption-analytics-engagement-tracking.md)
 - [Hot Strategic Context Cache](../initiatives/hot-strategic-context-cache.md)
 - [Strategic Evolution & Time-Travel](../initiatives/strategic-evolution-time-travel.md)
 - [Bulk Strategic Ingestion](../initiatives/bulk-strategic-ingestion.md)

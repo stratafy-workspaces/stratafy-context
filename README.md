@@ -1,19 +1,19 @@
 # Workspace Strategic Snapshot
 
-Generated: 2026-03-22T17:55:08.385Z
+Generated: 2026-03-27T13:42:56.407Z
 
 ## Overview
 Workspace ID: 5c1743d9-1030-4c2e-85e5-f642fe9a7ef9
 
 ## Statistics
-- **Total Strategies**: 23
-- **Total Initiatives**: 100
-- **Total Objectives**: 47
+- **Total Strategies**: 24
+- **Total Initiatives**: 108
+- **Total Objectives**: 67
 - **Total Metrics**: 12
-- **Total Assumptions**: 31
-- **Total Risks**: 21
+- **Total Assumptions**: 39
+- **Total Risks**: 24
 - **Total Decisions**: 28
-- **Total Insights**: 370
+- **Total Insights**: 374
 - **Total Key Priorities**: 3
 - **Total Radar Findings**: 7
 - **Total Radar Implications**: 3

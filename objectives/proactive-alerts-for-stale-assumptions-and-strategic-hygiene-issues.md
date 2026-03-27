@@ -4,7 +4,7 @@ type: objective
 objectiveType: key_result
 status: active
 priority: medium
-initiative: Strategic Engagement Analytics
+initiative: Context Consumption Analytics & Engagement Tracking
 ---
 
 # Proactive alerts for stale assumptions and strategic hygiene issues
@@ -14,7 +14,7 @@ The system proactively notifies users when strategic hygiene degrades: assumptio
 
 ## Hierarchy
 **Strategy**: [Strategic AI Infrastructure](../strategy/product/strategic-ai-infrastructure.md)
-**Initiative**: [Strategic Engagement Analytics](../initiatives/strategic-engagement-analytics.md)
+**Initiative**: [Context Consumption Analytics & Engagement Tracking](../initiatives/context-consumption-analytics-engagement-tracking.md)
 
 ## Objective Details
 - **Type**: key result

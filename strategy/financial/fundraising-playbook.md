@@ -11,6 +11,8 @@ parent: 959b3a30-745e-46a9-840b-f3886b4127bb
 ## Description
 Operational playbook for executing the $5-7M seed fundraise at $25-35M pre-money — consolidating investor pathways (Madrona, Sequoia, Evolve, Peak XV), timeline, demo strategy, signal-value angel syndicate, and GTM network effect narrative. Target revised upward based on AI infrastructure funding research: median AI seed is $4.6M, comparable companies (HydraDB, Letta, Mem0) raising $6.5-24M. Previous $2-5M target undershoots the market for AI infrastructure with paying customers.
 
+NEW WEAPON: The book "Strategy as Infrastructure" serves as the primary context-transfer mechanism for investor conversations. Instead of compressing the opportunity into a pitch deck, the approach is to hand investors the book + an investor framing document and invite them to have their own AI analyse the opportunity. This is meta-proof of the thesis: the context transfer problem the book describes IS the pitch problem, and the solution (structured context for AI consumption) IS the demonstration. Paired with 5 base prompts for AI-assisted analysis covering investment thesis, category validity, market timing, technical architecture, and red-teaming.
+
 ## Content
 # Fundraising Playbook
 
@@ -82,6 +84,7 @@ Publish a technical paper pre-raise to match competitor playbooks (HydraDB's arc
 - "From Quarterly Review to Continuous Alignment: AI-Native Strategic Operations"
 
 ## Key Initiatives
+- [Book as Fundraising Context Engine](../initiatives/book-as-fundraising-context-engine.md)
 - [Build Signal-Value Angel Syndicate](../initiatives/build-signal-value-angel-syndicate.md)
 - [Coach Network GTM Validation for Pitch](../initiatives/coach-network-gtm-validation-for-pitch.md)
 - [Pitch Materials & Demo Prep (Leadership Team Framing)](../initiatives/pitch-materials-demo-prep-leadership-team-framing.md)

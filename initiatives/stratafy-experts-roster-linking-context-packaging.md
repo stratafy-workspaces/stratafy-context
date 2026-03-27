@@ -4,7 +4,7 @@ type: initiative
 status: in_progress
 priority: high
 strategy: Strategic Delivery
-completionPercentage: 60
+completionPercentage: 72
 ---
 
 # Stratafy Experts — Roster, Linking & Context Packaging
@@ -18,7 +18,7 @@ Define the full Stratafy Expert roster, map each AI expert to their owned strate
 ## Status & Progress
 - **Status**: in progress
 - **Priority**: high
-- **Completion**: 60%
+- **Completion**: 72%
 
 ## Key Objectives
 No objectives defined
@@ -36,124 +36,65 @@ This initiative covers the full expert lifecycle: identity (who are the experts)
 
 ## Status Summary
 
-Infrastructure is built. Strategy assignments, the new `get_expert_context` tool, and context profile wiring remain.
+Infrastructure is built. Expert context filtering now live in workspace snapshot. Personal Intelligence system shipped. Strategy assignments and full get_expert_context tool remain.
 
-### What's Done (March 16, 2026)
+## Recent Progress (Mar 15–22)
+
+**Personal Intelligence System** — New subsystem shipped: user context, lens (primary/secondary), and role context now captured per user. This feeds into expert context by understanding WHO is using the expert plugin, not just WHICH expert is active. 3 database tables, service layer, API endpoints, and MCP tool (`get_user_context`) all live.
+
+**Expert Context Filtering** — Ownership-aware context filtering wired into `get_workspace_snapshot`. When a request comes from an expert plugin (identified via `_source_plugin`), the snapshot is now filtered to show only strategies owned by that expert at appropriate depth. This is the foundation for `get_expert_context` — the filtering logic exists, it just needs to be packaged into a dedicated tool.
+
+**MCP Session Context** — User personal context (chapter, values, forward anchor, role mandate) now injected into MCP session instructions automatically. Optimized to fetch only on session init, not every request.
+
+### Commits
+
+| Commit | What |
+|---|---|
+| `c49c3167` | Personal Intelligence system — user context, lens, and role context |
+| `9a430e28` | User context from org position → team → expert matrix |
+| `39d30a53` | Expert context filtering via _source_plugin |
+| `01c21498` | Ownership-aware expert context filtering |
+| `665abc09` | Wire expert context filtering into get_workspace_snapshot |
+| `c34ac42c` | Add strategies to snapshot context filtering sectionMap |
+| `fa5286fc` | Inject user personal context into MCP session instructions |
+| `36a1e176` | Add get_user_context tool (was missing from deployment) |
+| `4353745b` | Add get_user_context tool, revert log_activity to simple |
+| `12a5b3ca` | Return personal context on command_usage log_activity calls |
+| `9a6f91b0` | Only fetch personal context on session init, not every request |
+| `0c6193ba` | Add expert context filtering test scripts |
+| `7231f176` | Resolve TS errors in Personal Intelligence service |
+
+### What's Done (Updated March 22, 2026)
 
 | Deliverable | Status |
 |---|---|
 | `stratafy_experts` database table | ✅ Live — 11 roles per workspace, RLS, constraints, audit fields |
-| `stratafy_expert_id` FK on strategies | ✅ Live — sits alongside `lead_id` (human) and `team_id` (human team) |
-| Service layer (ExpertService) | ✅ Shipped — CRUD, assign/unassign strategy, seed roster, get by role |
-| 7 MCP tools | ✅ Deployed — list_experts, get_expert, update_expert, assign/unassign, get_expert_strategies, seed_expert_roster |
-| Tool permissions | ✅ Configured — read tools use strategy:read, write tools use workspace:admin or strategy:write |
-| Default roster seeded to all workspaces | ✅ Done — CTO, CSIO, FD, Guardian active; rest planned |
-| Naming decision | ✅ "Stratafy Experts" — per CMO recommendation. Decision logged (6b41a028) |
-| Context profiles table + resolution chain | ✅ Live — 5-level priority resolution (human override → AI suggestion → filter rule → type default → role default) |
-| Context matrix UI | ✅ Live — /context-profiles page with inline editing, entity drill-down, per-role depth/access |
-| Context preview UI | ✅ Live — /context-profiles/preview with token budget visualization and entity-level breakdown |
-| AI executive roles in ws_roles | ✅ Seeded — 10 roles with domain, token_budget, default_depth, default_access |
+| `stratafy_expert_id` FK on strategies | ✅ Live |
+| Service layer (ExpertService) | ✅ Shipped |
+| 7 MCP tools | ✅ Deployed |
+| Tool permissions | ✅ Configured |
+| Default roster seeded | ✅ Done |
+| Context profiles table + resolution chain | ✅ Live |
+| Context matrix UI | ✅ Live |
+| Context preview UI | ✅ Live |
+| AI executive roles in ws_roles | ✅ Seeded |
+| Personal Intelligence system | ✅ NEW |
+| Expert context filtering in snapshot | ✅ NEW |
+| User context in MCP sessions | ✅ NEW |
 
 ### What Remains
 
 | Deliverable | Status | Target |
 |---|---|---|
-| Assign experts to strategies using ownership map | 🔲 Not started | March 2026 |
-| Build `get_expert_context(role)` MCP tool | 🔲 Not started | April 2026 |
-| Wire context_profiles resolution into expert context generation | 🔲 Not started | April 2026 |
-| Update strategy content to use "Experts" language | 🔲 Not started | March 2026 |
-| CTO and CSIO plugins deepened and linked | 🔲 Not started | May 2026 |
-
-## The Expert Roster
-
-| Role | Full Title | Status | Plugin |
-|---|---|---|---|
-| **CTO** | Chief Technology Officer | Active | stratafy-expert-cto v0.2.1 |
-| **CSIO** | Chief Strategic Intelligence Officer | Active | stratafy-guardian v2.0.0 |
-| **FD** | Finance Director | Active | stratafy-expert-cfo v0.4.0 |
-| **Guardian** | Strategy Guardian | Active | stratafy-guardian v2.0.0 |
-| **CMO** | Chief Marketing Officer | Planned | stratafy-expert-cmo v0.2.0 |
-| **CRO** | Chief Revenue Officer | Planned | stratafy-expert-cro v0.2.0 |
-| **COO** | Chief Operating Officer | Planned | stratafy-expert-coo v0.2.0 |
-| **CHRO** | Chief Human Resources Officer | Planned | stratafy-expert-chro v0.2.0 |
-| **CoS** | Chief of Staff | Planned | stratafy-expert-cos v0.2.0 |
-| **GC** | General Counsel | Planned | stratafy-expert-gc v0.2.0 |
-| **Advisor** | External Startup Advisor | Planned | stratafy-expert-advisor v0.2.0 |
-
-## Strategy Ownership Map
-
-| Expert | Strategies Owned |
-|---|---|
-| **CTO** | Product Architecture (shared with Founder), Strategic AI Infrastructure, Pulse, InsightSync, Partner Plugin Ecosystem (product), Stratafy Experts |
-| **CSIO** | Strategic Intelligence |
-| **FD** | Funding & Growth, Fundraising Playbook |
-| **CMO** | Category Creation, SEO Strategy, StratMD Open Specification, Category Leadership |
-| **CRO** | GTM Channels, Product-Market Fit, Coach Network GTM, Advisory Firms, VC as Customer, Fractional Executive & CSIO Channel, Partner Ecosystem Channel |
-| **COO** | AI Leverage & Automation |
-| **CHRO** | Team & Co-founder |
-| **CoS** | Cross-cutting — supports all, owns none |
-
-## Expert Context Packaging — `get_expert_context(role)`
-
-### The Tool
-
-A new MCP tool that accepts a Stratafy Expert role and returns a pre-packaged, profile-scoped context bundle:
-
-```
-get_expert_context(role: "CTO")
-
-Returns:
-{
-  expert: { role, name, title, status },
-  owned_strategies: [...],           // strategy trees filtered to owned strategies only
-  active_initiatives: [...],         // initiatives under owned strategies
-  health_alerts: [...],              // pre-computed health alerts across owned strategies
-  overdue_items: [...],              // initiatives past target date
-  stalled_items: [...],              // in_progress initiatives with no update in 14+ days
-  pending_decisions: [...],          // decisions linked to owned strategies
-  cross_strategy_dependencies: [...] // dependencies between owned and non-owned strategies
-}
-```
-
-### How It Works
-
-1. Resolve `role` → `stratafy_experts` record for the workspace
-2. Query `strategies` where `stratafy_expert_id` = expert's ID → owned strategies
-3. For each entity type, apply `context_profiles` resolution chain to determine depth/access
-4. Assemble structured bundle with the resolved depth for each entity
-5. Return structured JSON (not markdown) — let the consuming plugin format as needed
-
-### Architectural Separation from General Agents
-
-| Dimension | Expert Path | General Agent Path |
-|-----------|------------|-------------------|
-| Identity | `stratafy_experts` table | `ws_agents` table |
-| Context scoping | `context_profiles` matrix (role-based depth/access) | `context_sections` + template config on agent record |
-| Tool | `get_expert_context(role)` | `get_agent_context(agent_id)` |
-| Output format | Structured JSON bundle | Rendered markdown (template-based) |
-| Cacheability | High — role + workspace = deterministic key | Medium — agent-specific TTL |
-| Consumer | Cowork plugins (known slash commands) | Any external agent (unknown use case) |
-
-## Data Model (Completed)
-
-Table: `stratafy_experts`
-- Identity: role (enum), name, title, slug, description, status
-- Prompts: system_prompt, persona_prompt
-- Context: context_sections (jsonb), tool_scopes (jsonb)
-- Links: prompt_template_id → ws_context_prompt_templates, agent_id → ws_agents
-- Metadata: plugin_version, avatar_url, position
-- Constraint: unique (workspace_id, role) — one expert per role per workspace
-
-Strategy link: `strategies.stratafy_expert_id` FK → `stratafy_experts.id`
-
-## Related Decisions
-- Decision `6cbd56ba` — Strategy-to-expert linking: support named AI experts as strategy owners
-- Decision `6b41a028` — Rename from "The Stratafy Team" to "Stratafy Experts"
+| Assign experts to strategies | 🔲 Not started | March 2026 |
+| Build `get_expert_context(role)` MCP tool | 🟡 Foundation laid | April 2026 |
+| Wire context_profiles into expert context | 🔲 Not started | April 2026 |
+| CTO and CSIO plugins deepened | 🟡 CTO /engage uses expert data | May 2026 |
 
 ## Success Criteria
-- ✅ Full expert roster defined with plugin specs for each role
+- ✅ Full expert roster defined
 - 🔲 All active strategies have a Stratafy Expert assigned
-- ✅ Data model updated to support `stratafy_expert_id` field on strategies
-- 🔲 `get_expert_context(role)` tool live and returning structured bundles
-- 🔲 Context profiles resolution chain wired into expert context generation
-- 🔲 At least CTO and CSIO plugins using `get_expert_context` instead of sequential `get_strategy_tree` calls by May 2026
+- ✅ Data model supports `stratafy_expert_id`
+- 🟡 `get_expert_context(role)` — filtering foundation built
+- 🔲 Context profiles wired into expert context generation
+- 🟡 CTO /engage uses get_expert_strategies

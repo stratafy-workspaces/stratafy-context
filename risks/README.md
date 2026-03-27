@@ -1,31 +1,31 @@
 ---
 type: risks-overview
-total: 21
-lastUpdated: 2026-03-22T17:55:08.385Z
+total: 24
+lastUpdated: 2026-03-27T13:42:56.407Z
 ---
 
 # Risks Overview
 
-**Total Risks**: 21
+**Total Risks**: 24
 
 ## By Status
 
-- **active**: 21
+- **active**: 24
 
 ## By Risk Type
 
-- **financial**: 2
+- **competitive**: 6
 - **execution**: 4
+- **financial**: 2
+- **market**: 4
 - **technical**: 4
+- **regulatory**: 3
 - **people**: 1
-- **regulatory**: 2
-- **competitive**: 5
-- **market**: 3
 
 ## Highest Risk Items
 
-- **No revenue model or pricing strategy defined** (score: 9) - active
-- **Undefined pricing model blocks coach channel activation** (score: 9) - active
+- **Notion Custom Agents become "good enough" for target ICP** (score: 12) - active
 - **Lead-to-Engagement Conversion Gap** (score: 9) - active
+- **Undefined pricing model blocks coach channel activation** (score: 9) - active
+- **Existing System Inertia blocks GTM conversion across ICP** (score: 9) - active
 - **MCP-first architecture limits demo accessibility** (score: 9) - active
-- **Agent Intake Quality Erodes Coach Trust** (score: 8) - active

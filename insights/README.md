@@ -1,22 +1,22 @@
 ---
 type: insights-overview
-total: 370
-lastUpdated: 2026-03-22T17:55:08.385Z
+total: 374
+lastUpdated: 2026-03-27T13:42:56.407Z
 ---
 
 # Insights Overview
 
-**Total Insights**: 370
+**Total Insights**: 374
 
 ## By Category
 
+- **strategic**: 118
+- **product**: 119
+- **market**: 47
 - **technology**: 14
 - **partner**: 6
-- **market**: 46
 - **financial**: 7
-- **product**: 118
 - **customer**: 22
-- **strategic**: 116
 - **risk**: 6
 - **operational**: 26
 - **uncategorized**: 7
@@ -24,14 +24,14 @@ lastUpdated: 2026-03-22T17:55:08.385Z
 
 ## By Impact Level
 
+- **critical**: 91
+- **high**: 216
 - **medium**: 65
-- **critical**: 88
-- **high**: 215
 - **low**: 2
 
 ## By Source
 
-- **execution session**: 11
+- **execution session**: 15
 - **manual**: 31
 - **user feedback**: 10
 - **reflection**: 11

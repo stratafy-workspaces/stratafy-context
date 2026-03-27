@@ -4,7 +4,7 @@ type: objective
 objectiveType: key_result
 status: active
 priority: medium
-initiative: Strategic Engagement Analytics
+initiative: Context Consumption Analytics & Engagement Tracking
 ---
 
 # Workspace health score calculated and visible for all active workspaces
@@ -14,7 +14,7 @@ Every active workspace has an automated health score reflecting strategic archit
 
 ## Hierarchy
 **Strategy**: [Strategic AI Infrastructure](../strategy/product/strategic-ai-infrastructure.md)
-**Initiative**: [Strategic Engagement Analytics](../initiatives/strategic-engagement-analytics.md)
+**Initiative**: [Context Consumption Analytics & Engagement Tracking](../initiatives/context-consumption-analytics-engagement-tracking.md)
 
 ## Objective Details
 - **Type**: key result

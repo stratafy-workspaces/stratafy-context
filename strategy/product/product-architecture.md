@@ -214,6 +214,7 @@ What this strategy constrains:
 - ✅ Explainability progression table added
 
 ## Key Initiatives
+- [Platform Quality & Developer Experience](../initiatives/platform-quality-developer-experience.md)
 - [US Compliance & Certification Readiness](../initiatives/us-compliance-certification-readiness.md)
 - [AI Tool Governance Layer](../initiatives/ai-tool-governance-layer.md)
 - [Stratafy Expert Plugin Ecosystem — Build, Brand & Ship](../initiatives/stratafy-expert-plugin-ecosystem-build-brand-ship.md)

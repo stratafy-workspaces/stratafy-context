@@ -4,7 +4,7 @@ type: initiative
 status: in_progress
 priority: critical
 strategy: Product Architecture
-completionPercentage: 0
+completionPercentage: 90
 ---
 
 # MVP Development
@@ -18,7 +18,7 @@ Core MVP: Strategy layer for defining strategies/initiatives and Radar for AI-po
 ## Status & Progress
 - **Status**: in progress
 - **Priority**: critical
-- **Completion**: 0%
+- **Completion**: 90%
 
 ## Key Objectives
 No objectives defined
@@ -28,21 +28,60 @@ No objectives defined
 - **Target Date**: 2026-03-31
 
 ## Content
-## Overview
+# MVP Development
 
-Build "Stratafy Lite" with core functionality — Strategy layer for defining strategies and initiatives, and Radar for external monitoring that delivers weekly insights. The minimum viable product that proves the core value proposition.
+## Status: 90% Complete — Production Hardening (March 22, 2026)
 
-## Scope
+The MVP is functionally complete. Strategy layer, Radar, workspace management, authentication, MCP server, and AI features are all live. First paying customer (STIR) onboarded. Current phase is production hardening.
 
-- **Strategy Layer**: Define strategies, initiatives, objectives with hierarchy and relationships
-- **Radar**: External environmental monitoring with AI-powered scanning and weekly insight generation
-- Semantic matching using existing AI APIs for connecting signals to strategies
-- Data ingestion pipelines for external information sources
-- Core workspace management and user authentication
+## Recent Progress (Mar 15–22)
 
-## Expected Outcomes
+~50 commits across the entire codebase.
 
-- Deliver a usable product that validates the core hypothesis: AI + strategic context = better decisions
-- Establish the two foundational capabilities (strategy definition + environmental sensing) that all future features build upon
-- Generate early usage data and feedback from lighthouse customers
-- Create a demo-ready product for investor conversations
+**Linting Overhaul** — ESLint → oxlint with 16 custom rules. oxfmt replacing Prettier. Zero-violation baseline achieved.
+
+**Service Architecture** — 7 oversized services split. MCP monolith (24,893 lines) → 26 modules. Max lines threshold: 1,300.
+
+**TypeScript Strictness** — 205+ TS errors resolved. Strict null checks, Effect patterns, 106 validation violations fixed.
+
+**Testing** — 42 test gaps closed across 15 layers. Pre-push coverage enforcement added.
+
+**Database** — Schema consistency: types, indexes, FKs, timestamps standardized.
+
+**Performance** — 38 ref() → shallowRef(). Auth deferred on public pages.
+
+**Error Handling** — Standardized across agent, chat, integration layers.
+
+### Key Commits
+| Commit | What |
+|---|---|
+| `ab37892e` | Split MCP monolith into 26 modules |
+| `2fbafea7` | Replace ESLint with oxlint |
+| `9d408b5c` | Migrate 16 custom rules to oxlint |
+| `290ca96a` | Test coverage + 42 test gaps |
+| `096488bd` | DB schema consistency |
+| `6bfb1fea` | 38 ref() → shallowRef() |
+
+## What's Built
+
+### Strategy Layer ✅
+Strategy CRUD, initiatives, objectives, metrics, assumptions, risks, decisions, insights, signals, health scoring, tree visualization, version history.
+
+### Radar ✅
+Environmental scanning, signal detection, strategy routing, weekly insights, research agent.
+
+### Core Platform ✅
+Multi-tenant workspaces, auth (Google OAuth, magic link), RBAC, RLS, MCP (169+ tools, 26 modules), documents, finance, organogram, rhythm, key priorities.
+
+### AI Infrastructure ✅
+Entity embeddings (pgvector), semantic search, provenance, daily snapshots, expert context filtering.
+
+## What Remains (10%)
+- Integration tests (in progress)
+- Performance benchmarking
+- Onboarding flow polish
+- Mobile responsiveness edge cases
+
+## Success Metrics
+- ✅ >80% activation, ✅ First paying customer (STIR), ✅ Value in first session
+- 🟡 NPS >50 (need more users), 🟡 2-3 testimonials

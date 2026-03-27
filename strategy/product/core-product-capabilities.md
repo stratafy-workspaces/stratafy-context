@@ -54,6 +54,7 @@ How people work together inside the platform. InsightSync provides structured wo
 
 
 ## Key Initiatives
+- [Strategic Actions — Lightweight Task Assignment](../initiatives/strategic-actions-lightweight-task-assignment.md)
 - [Collaboration Tools — InsightSync, Teams & Partners](../initiatives/collaboration-tools-insightsync-teams-partners.md)
 - [Metrics & Measurement](../initiatives/metrics-measurement.md)
 - [Strategic Intelligence — Signals, Insights, Decisions & Radar](../initiatives/strategic-intelligence-signals-insights-decisions-radar.md)
